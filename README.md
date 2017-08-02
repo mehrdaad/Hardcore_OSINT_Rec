@@ -24,7 +24,7 @@
  
  - [Google Trends](https://trends.google.com/trends/) - help widen your search scope.
  - [Google Alerts](https://www.google.com/alerts) - Monitor the web for interesting new content
- - [GitHub origazation](https://github.com/michenriksen/gitrob) - Team|Origazation|Club|Gang repo
+ - [GitHub origazation](https://github.com/michenriksen/gitrob) - reconnaissance tool
  
  - [job|seeker](https://www.glassdoor.com/index.htm)
  - [MyIPNeighbours](http://www.my-ip-neighbors.com)
