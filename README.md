@@ -52,4 +52,5 @@
  
  - [PlainText Alert](https://chrome.google.com/webstore/detail/plain-text-offenders-aler/ggndaknbenjhnkddgjnjjcmomgaidhmd?hl=en-US) - check whether sites have stored your p@ss in plaintext or not
  
- 
+ # Arsenal Tools
+ - [Toolswatch](https://github.com/toolswatch/blackhat-arsenal-tools)
