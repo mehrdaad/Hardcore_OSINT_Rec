@@ -12,7 +12,7 @@
 |[ace 1.10](http://ucsniff.sourceforge.net/ace.html)  |[automated Corporate Enumerator. A simple yet powerful VoIP Corporate Directory enumeration tool that mimics the behavior of an IP Phone in order to download the name and extension entries that a given phone can display on its screen interface|  
 |[admid-pack  0.1](http://packetstormsecurity.com/files/10080/ADMid-pkg.tgz.html)     |aDM DNS spoofing tools - Uses a variety of active and passive methods to spoof DNS packets. Very powerful|
 |[adminpagefinder 0.1](http://packetstormsecurity.com/files/112855/Admin-Page-Finder-Script.html) |This python script looks for a large amount of possible administrative interfaces on a given site|
-|admsnmp  0.1 ADM SNMP |[audit scanner|
+|admsnmp  0.1 ADM SNMP |audit scanner|
 |[aeskeyfind  1.0](http://citp.princeton.edu/memory/code/) | A tool to find AES key in RAM |
 |[aespipe 2.4c](http://loop-aes.sourceforge.net/aespipe/) |   Reads data from stdin and outputs encrypted or decrypted results to stdout |
 |[afflib  3.7.3](http://www.afflib.org) |[an extensible open format for the storage of disk images and related forensic information|
@@ -25,3 +25,53 @@
 |[airgraph-ng  2371](http://www.aircrack-ng.org) |Graphing tool for the aircrack suite  
 |[airoscript 45.0a122ee](http://midnightresearch.com/projects/wicrawl/) |  A script to simplify the use of aircrack-ng tools|
 |[airpwn 1.4](http://airpwn.sourceforge.net) |A tool for generic packet injection on an 802.11 network|
+
+# b
+
+# c
+
+# d
+
+# e 
+
+# f
+
+# g 
+
+# h
+
+# i
+
+# j 
+
+# k 
+
+# l 
+
+# m 
+
+# n 
+
+# o 
+
+# p 
+
+# q 
+
+# r
+
+# s
+
+# t
+
+# u
+
+# v
+
+# w
+
+# x 
+
+# y
+
+# z
