@@ -1,12 +1,12 @@
 # Free_OSINT_Rec
  - [Real Intel Threat Analysis](https://github.com/ocmdev/rita)
- - [Little_Sis](https://littlesis.org/)
- - [Spokeo](https://www.spokeo.com/)
- - [Scythe](http://blog.c22.cc/2012/10/03/scythe-framework/)
- - [Market Visual](http://www.marketvisual.com/)
- - [Jigsaw](http://www.jigsaw.com/)
+ - [Little_Sis](https://littlesis.org/) - a free database of who-knows-who at the heights of business and government
+ - [Spokeo](https://www.spokeo.com/) - people search engine that organizes white pages listings, public records and social network information into simple profiles
+ - [Scythe](http://blog.c22.cc/2012/10/03/scythe-framework/) - account harvester 
+ - [Market Visual](http://www.marketvisual.com/) - top-notch businesses|entrepreneurs| search engine
+ - [Jigsaw](http://www.jigsaw.com/) - The fastest way to find the right business contacts
   
- - [theHarvester](https://code.google.com/archive/p/theharvester/)
+ - [theHarvester](https://code.google.com/archive/p/theharvester/) - info gathering suite
  - [Maltergo](https://www.paterva.com/web7/)
  - [Deep Magic](https://www.deepmagic.com/) - DNS records and others.
 
