@@ -7,7 +7,7 @@
  - [Jigsaw](http://www.jigsaw.com/) - The fastest way to find the right business contacts
   
  - [theHarvester](https://code.google.com/archive/p/theharvester/) - info gathering suite
- - [Maltergo](https://www.paterva.com/web7/)
+ - [Maltergo](https://www.paterva.com/web7/) - Threat Intelligence Gathering
  - [Deep Magic](https://www.deepmagic.com/) - DNS records and others.
 
  - [Record_Future](https://www.recordedfuture.com/) - predict future .. or something??
@@ -20,7 +20,7 @@
  - [ServerSniff](http://www.serversniff.net/index.php) - for netsys, sysads, webdev, secops
  - [Recon-NG modules](https://github.com/scumsec/Recon-ng-modules) 
  - [Globe_ftp_stored](http://globalfilesearch.com/)
- - [Domain T.Over](https://github.com/aboul3la/Sublist3r)
+ - [Domain T.Over - Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool 
  
  - [Google Trends](https://trends.google.com/trends/) - help widen your search scope.
  - [Google Alerts](https://www.google.com/alerts) - Monitor the web for interesting new content
