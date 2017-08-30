@@ -26,12 +26,12 @@
  - [Google Alerts](https://www.google.com/alerts) - Monitor the web for interesting new content
  - [GitHub origazation](https://github.com/michenriksen/gitrob) - reconnaissance tool
  
- - [job|seeker](https://www.glassdoor.com/index.htm)
- - [MyIPNeighbours](http://www.my-ip-neighbors.com)
- - [192](http://www.192.com/)
+ - [job|seeker](https://www.glassdoor.com/index.htm) - Find the job that fits your life
+ - [MyIPNeighbours](http://www.my-ip-neighbors.com) - Find sites on the same IP address
+ - [192](http://www.192.com/) 
  - [Graph SEO](http://www.touchgraph.com/seo)
  - [iSeek](http://www.iseek.com/) - blocked some IPs (??!)
- - [Cute visual_se](http://search.carrot2.org/stable/search)
+ - [Cute visual_s.e](http://search.carrot2.org/stable/search)
  
  - [Source code crawl](https://nerdydata.com/search)
  - [source_search](https://searchcode.com/)
@@ -41,11 +41,11 @@
  - [Check|u_name](http://checkusernames.com/) - username on the wire
  - [Check the use of your brand,product,personal name](http://knowem.com/)
  - [Tweeter-will-l0ve-this](https://tinfoleak.com/)
- - [1mil-Tweetmap](http://onemilliontweetmap.com/)
+ - [1mil-Tweetmap](http://onemilliontweetmap.com/) - Tweet Map
  - [EchoSec](https://www.echosec.net/) - Geo-based search platform on social platform
  - [Tweet-tivist](http://www.tweetarchivist.com)
  - [LeakedIN](http://www.leakedin.com) - LeakED!!
- - [Social_searchEngine](http://socialmention.com/)
+ - [Social_searchEngine](http://socialmention.com/) - Real-time social media search and analysis
  - [Check username available on social_sites](http://namechk.com/)
  - [Default_dtb](https://cirt.net/passwords)
  - [SpiderF00t](http://www.spiderfoot.net/) - Open Source Intelligence Automation 
