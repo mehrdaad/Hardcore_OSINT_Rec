@@ -28,8 +28,8 @@
  
  - [job|seeker](https://www.glassdoor.com/index.htm) - Find the job that fits your life
  - [MyIPNeighbours](http://www.my-ip-neighbors.com) - Find sites on the same IP address
- - [192](http://www.192.com/) 
- - [Graph SEO](http://www.touchgraph.com/seo)
+ - [192](http://www.192.com/) - Search for People, Businesses & Places in the UK
+ - [Graph SEO](http://www.touchgraph.com/seo) - Java applet explore the connections between related websites.
  - [iSeek](http://www.iseek.com/) - blocked some IPs (??!)
  - [Cute visual_s.e](http://search.carrot2.org/stable/search)
  
