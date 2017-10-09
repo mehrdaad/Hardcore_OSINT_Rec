@@ -53,7 +53,10 @@
  - [PlainText Alert](https://chrome.google.com/webstore/detail/plain-text-offenders-aler/ggndaknbenjhnkddgjnjjcmomgaidhmd?hl=en-US) - check whether sites have stored your p@ss in plaintext or not
  
  > Update Oct-10  
- [Belati](https://github.com/aancw/Belati) - traditional Swiss Army Knife for OSINT
+ - [Belati](https://github.com/aancw/Belati) - traditional Swiss Army Knife for OSINT
+ - [Alephdata/Aleph](https://github.com/alephdata/aleph) - A toolkit for data search, management and anlaysis in investigative reporting. Sift through large sets of structured and unstructured data, and find the people and companies you look for.
+ - [OSINT Framework](https://github.com/lockfale/OSINT-Framework) - The intention is to help people find OSINT resources that return free information.
+ - [Intrigue.io/Intrigue-core](https://github.com/intrigueio/intrigue-core) - Discover your attack surface! 
  # Arsenal Tools
  - [Toolswatch](https://github.com/toolswatch/blackhat-arsenal-tools)
 
