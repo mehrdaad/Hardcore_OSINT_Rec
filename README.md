@@ -22,10 +22,6 @@
  - [Globe_ftp_stored](http://globalfilesearch.com/)
  - [Domain T.Over - Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool 
  
- - [Google Trends](https://trends.google.com/trends/) - help widen your search scope.
- - [Google Alerts](https://www.google.com/alerts) - Monitor the web for interesting new content
- - [GitHub origazation](https://github.com/michenriksen/gitrob) - reconnaissance tool
- 
  - [job|seeker](https://www.glassdoor.com/index.htm) - Find the job that fits your life
  - [MyIPNeighbours](http://www.my-ip-neighbors.com) - Find sites on the same IP address
  - [192](http://www.192.com/) - Search for People, Businesses & Places in the UK
@@ -57,6 +53,15 @@
  - [Alephdata/Aleph](https://github.com/alephdata/aleph) - A toolkit for data search, management and anlaysis in investigative reporting. Sift through large sets of structured and unstructured data, and find the people and companies you look for.
  - [OSINT Framework](https://github.com/lockfale/OSINT-Framework) - The intention is to help people find OSINT resources that return free information.
  - [Intrigue.io/Intrigue-core](https://github.com/intrigueio/intrigue-core) - Discover your attack surface! 
+ 
+ # g00gl3
+ - [Google Trends](https://trends.google.com/trends/) - help widen your search scope.
+ - [Google Alerts](https://www.google.com/alerts) - Monitor the web for interesting new content
+ - [Google Dork CLI](https://github.com/jgor/dork-cli) - Command-line Google dork tool.
+ # Github
+ - [Copernicus](https://github.com/Soroboruo/Copernicus) - Osint tool to get results from more than 600 websites and whitepages about people.
+  - [GitHub origazation](https://github.com/michenriksen/gitrob) - reconnaissance tool
+  - [Github Dork](https://github.com/techgaun/github-dorks) - Collection of github dorks and helper tool to automate the process of checking dorks.
  # Toolswatch
  - [Asernal Tools](https://github.com/toolswatch/blackhat-arsenal-tools)
  - [Top tools @ 2016](http://www.toolswatch.org/2017/02/2016-top-security-tools-as-voted-by-toolswatch-org-readers/)
