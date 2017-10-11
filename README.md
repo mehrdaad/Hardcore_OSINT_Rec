@@ -54,6 +54,8 @@
  - [OSINT Framework](https://github.com/lockfale/OSINT-Framework) - The intention is to help people find OSINT resources that return free information.
  - [Intrigue.io/Intrigue-core](https://github.com/intrigueio/intrigue-core) - Discover your attack surface! 
  
+ > Update Oct-12
+ - [ATSCAN](https://github.com/AlisamTechnology/ATSCAN) - Advanced Search & Mass Exploit Scanner
  # g00gl3
  - [Google Trends](https://trends.google.com/trends/) - help widen your search scope.
  - [Google Alerts](https://www.google.com/alerts) - Monitor the web for interesting new content
@@ -64,6 +66,9 @@
   - [Github Dork](https://github.com/techgaun/github-dorks) - Collection of github dorks and helper tool to automate the process of checking dorks.
  # Toolswatch
  - [Asernal Tools](https://github.com/toolswatch/blackhat-arsenal-tools)
+ - [Top tools @ 2013](http://www.toolswatch.org/2013/12/2013-top-security-tools-as-voted-by-toolswatch-org-readers/)
+ - [Top tools @ 2014](http://www.toolswatch.org/2015/01/2014-top-security-tools-as-voted-by-toolswatch-org-readers/)
+ - [Top tools @ 2015](http://www.toolswatch.org/2016/02/2015-top-security-tools-as-voted-by-toolswatch-org-readers/)
  - [Top tools @ 2016](http://www.toolswatch.org/2017/02/2016-top-security-tools-as-voted-by-toolswatch-org-readers/)
 
  # Linux Security Top 100 Tools 
