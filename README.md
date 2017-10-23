@@ -44,7 +44,7 @@
  - [Social_searchEngine](http://socialmention.com/) - Real-time social media search and analysis
  - [Check username available on social_sites](http://namechk.com/)
  - [Default_dtb](https://cirt.net/passwords)
- - [SpiderF00t](http://www.spiderfoot.net/) - Open Source Intelligence Automation 
+ - [SpiderF00t](http://www.spiderfoot.net/) - Open Source Intelligence Automation 🥂
  
  - [PlainText Alert](https://chrome.google.com/webstore/detail/plain-text-offenders-aler/ggndaknbenjhnkddgjnjjcmomgaidhmd?hl=en-US) - check whether sites have stored your p@ss in plaintext or not
  
@@ -59,7 +59,7 @@
  - [YASIV Youtube](http://www.yasiv.com/youtube?utm_content=bufferad5f7&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - A fantastic YouTube graph search tool that lets you find related videos.
  
  # g00gl3
- - [Google Trends](https://trends.google.com/trends/) - help widen your search scope.
+ - [Google Trends](https://trends.google.com/trends/) - widen your search scope.
  - [Google Alerts](https://www.google.com/alerts) - Monitor the web for interesting new content
  - [Google Dork CLI](https://github.com/jgor/dork-cli) - Command-line Google dork tool.
  # Github
