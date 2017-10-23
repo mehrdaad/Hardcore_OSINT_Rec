@@ -78,6 +78,6 @@
 
  # Graphcrawling 
  - [Gephi](https://gephi.org/) - The Open Graph Viz Platform, realtime visualization. 
- - [Spotify Network](http://labs.polsys.net/playground/spotify/)
- - [Tumblrtool](http://labs.polsys.net/tools/tumblr/)
+ - [Spotify Network](http://labs.polsys.net/playground/spotify/) - related Spotify artist 
+ - [Tumblrtool](http://labs.polsys.net/tools/tumblr/) - ofc on Tumblr
  - [YASIV Youtube](http://www.yasiv.com/youtube?utm_content=bufferad5f7&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - A fantastic YouTube graph search tool that lets you find related videos.
