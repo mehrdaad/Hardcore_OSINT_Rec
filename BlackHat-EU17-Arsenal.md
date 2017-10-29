@@ -27,3 +27,24 @@ Session Type: Arsenal
 [.HTML](https://dradisframework.com/) ✔️
 [Github](https://github.com/dradis) ✔️
 [Blog](https://dradisframework.com/blog/) ✔️
+
+**4) MODSECURITY 3.0.0**
+```
+Presenter: Felipe Zimmerle, Victor Hora
+Track:  Web AppSec
+Session Type: Arsenal
+```
+
+**5) OBJECTION**
+```
+Presenter: Leon Jacobs
+Track:  Android, iOS and Mobile Hacking
+Session Type: Arsenal
+```
+
+**6) OPENSCAP AND SCAP SECURITY GUIDE**
+```
+Presenter: Martin Preisler
+Track:  Vulnerability Assessment
+Session Type: Arsenal
+```
