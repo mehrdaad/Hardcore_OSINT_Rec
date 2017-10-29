@@ -57,6 +57,10 @@
  > Update Oct-12
  - [ATSCAN](https://github.com/AlisamTechnology/ATSCAN) - Advanced Search & Mass Exploit Scanner
  > Update Oct-29
+ - [WHOIS Request](http://whoisrequest.org/history/) - WHOIS Lookup
+ - [Who.is](https://who.is/) - just who.is search
+ - [DNS history](https://completedns.com/dns-history/) - a great quick, easy, and free way to easily see changes on your nameservers, etc.
+ - [PTR list](http://ptrarchive.com/) - Over 166 billion reverse DNS entries from 2008 to the present.
  - [DNS Trails](http://server9.rscott.org/) - huge DNS records.
 
  # g00gl3
