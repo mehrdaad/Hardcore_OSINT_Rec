@@ -56,7 +56,8 @@
  
  > Update Oct-12
  - [ATSCAN](https://github.com/AlisamTechnology/ATSCAN) - Advanced Search & Mass Exploit Scanner
-
+ > Update Oct-29
+ - [DNS Trails](http://server9.rscott.org/) - huge DNS records.
 
  # g00gl3
  - [Google Trends](https://trends.google.com/trends/) - widen your search scope.
