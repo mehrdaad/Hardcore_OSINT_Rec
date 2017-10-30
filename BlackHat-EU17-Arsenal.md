@@ -43,6 +43,7 @@ Presenter: Leon Jacobs
 Track:  Android, iOS and Mobile Hacking
 Session Type: Arsenal
 ```
+[Github](https://github.com/sensepost/objection) ✔️
 
 **6) OPENSCAP AND SCAP SECURITY GUIDE**
 ```
@@ -50,3 +51,5 @@ Presenter: Martin Preisler
 Track:  Vulnerability Assessment
 Session Type: Arsenal
 ```
+[.HTML Manuals](https://static.open-scap.org/) ✔️
+[Github](https://github.com/OpenSCAP/scap-security-guide) ✔️
