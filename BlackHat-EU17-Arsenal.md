@@ -53,3 +53,46 @@ Session Type: Arsenal
 ```
 [.HTML Manuals](https://static.open-scap.org/) ✔️
 [Github](https://github.com/OpenSCAP/scap-security-guide) ✔️
+
+
+**7) 411: A FRAMEWORK FOR MANAGING SECURITY ALERTS**
+```
+Presenter: Kai Zhong, Kenneth Lee
+Track:  Data Forensics and Incident Response
+Session Type: Arsenal
+```
+
+**8) ANWI (ALL NEW WIRELESS IDS) - THE £5 WIDS**
+```
+Presenter: Sanket Karpe
+Track:  Network Defense
+Session Type: Arsenal
+```
+
+**9) DIRTYTOOTH FOR RASPBERRY PI (DIRTYPI)**
+```
+Presenter: Álvaro Nuñez-Romero
+Track:  Android, iOS and Mobile Hacking
+Session Type: Arsenal
+```
+
+**10) DYODE - A DIY, LOW-COST DATA DIODE FOR ICS**
+```
+Presenter: Arnaud Soullié
+Track:  Hardware/Embedded
+Session Type: Arsenal
+```
+
+**11) PUNYDOMAINCHECK - PHISHING SITE INVESTIGATOR**
+```
+Presenter: Anil Yuksel, Mert Karatas
+Track:  Human Factors
+Session Type: Arsenal
+```
+
+**12) UAC-A-MOLA**
+```
+Presenter: Pablo González Pérez, Santiago Hernández Ramos
+Track:  Exploitation and Ethical Hacking
+Session Type: Arsenal
+```
