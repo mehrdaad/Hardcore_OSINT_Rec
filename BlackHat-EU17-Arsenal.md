@@ -34,6 +34,8 @@ Presenter: Felipe Zimmerle, Victor Hora
 Track:  Web AppSec
 Session Type: Arsenal
 ```
+[.HTML](https://www.trustwave.com/Resources/SpiderLabs-Blog/An-Overview-of-the-Upcoming-libModSecurity/) ✔️
+[Github](https://github.com/SpiderLabs/ModSecurity/wiki/ModSecurity-version-3-RC1) ✔️
 
 **5) OBJECTION**
 ```
