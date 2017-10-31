@@ -77,25 +77,25 @@ Presenter: Álvaro Nuñez-Romero
 Track:  Android, iOS and Mobile Hacking
 Session Type: Arsenal
 ```
-
+[Github](https://github.com/ElevenPaths/DirtyTooth-RaspberryPi) ✔️
 **10) DYODE - A DIY, LOW-COST DATA DIODE FOR ICS**
 ```
 Presenter: Arnaud Soullié
 Track:  Hardware/Embedded
 Session Type: Arsenal
 ```
-
+[Github](https://github.com/arnaudsoullie/dyode) ✔️
 **11) PUNYDOMAINCHECK - PHISHING SITE INVESTIGATOR**
 ```
 Presenter: Anil Yuksel, Mert Karatas
 Track:  Human Factors
 Session Type: Arsenal
 ```
-
+[Github](https://github.com/anilyuk/punydomaincheck) ✔️
 **12) UAC-A-MOLA**
 ```
 Presenter: Pablo González Pérez, Santiago Hernández Ramos
 Track:  Exploitation and Ethical Hacking
 Session Type: Arsenal
 ```
-[Github](https://github.com/ElevenPaths/uac-a-mola)
+[Github](https://github.com/ElevenPaths/uac-a-mola) ✔️
