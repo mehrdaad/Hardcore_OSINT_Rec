@@ -144,3 +144,172 @@ Presenter: Luca Maria Castiglione
 Track:  Cryptography
 Session Type: Arsenal
 ```
+
+
+**19) AKTAION V2 - A MACHINE LEARNING OPEN-SOURCE & ACTIVE DEFENSE (ORCHESTRATION) TOOL**
+```
+Presenter: Joseph Zadeh, Rod Soto
+Track:  Malware Defense
+Session Type: Arsenal
+```
+
+**20) DET (DATA EXFILTRATION TOOLKIT)**
+```
+Presenter: Paul Amar
+Track:  Network Attacks
+Session Type: Arsenal
+```
+
+**21) ID2T - THE INTRUSION DETECTION DATASET GENERATION TOOLKIT**
+```
+Presenter: Carlos Garcia Cordero, Emmanouil Vasilomanolakis, Max Mühlhäuser
+Track:  Network Defense
+Session Type: Arsenal
+```
+
+**22) POWERSAP - POWERSHELL TOOL TO ASSESS SAP SECURITY**
+```
+Presenter: Joffrey Czarny
+Track:  Vulnerability Assessment
+Session Type: Arsenal
+```
+
+**23) TINFOLEAK**
+```
+Presenter: Vicente Aguilera Diaz
+Track:  OSINT - Open Source Intelligence
+Session Type: Arsenal
+```
+
+**24) XSSER - FROM XSS TO RCE 2.75**
+```
+Presenter: Hans-Michael Varbaek
+Track:  Web AppSec
+Session Type: Arsenal
+```
+
+**25) EXPLOIT PACK**
+```
+Presenter: Juan Sacco
+Track:  Exploitation and Ethical Hacking
+Session Type: Arsenal
+```
+
+**26) NG-NETMS**
+```
+Presenter: Taras Matselyukh
+Track:  Data Forensics and Incident Response
+Session Type: Arsenal
+```
+
+**27) OSINT-SPY**
+```
+Presenter: Sharad Kumar
+Track:  OSINT - Open Source Intelligence
+Session Type: Arsenal
+```
+
+**28) SECCUBUS**
+```
+Presenter: Frank Breedijk
+Track:  Vulnerability Assessment
+Session Type: Arsenal
+```
+
+**29) VIRUSBAY - DON'T BE AFRAID TO ASK**
+```
+Presenter: Dani Goland, Ido Naor
+Track:  Malware Defense
+Session Type: Arsenal
+```
+
+**30) WIPI-HUNTER - WIFI-PINEAPPLE ACTIVITIES DETECTION**
+```
+Presenter: Besim Altinok, Mustafa Altinkaynak
+Track:  Network Defense
+Session Type: Arsenal
+```
+
+**31) 2FASSASSIN**
+```
+Presenter: Maxwell Koh
+Track:  Exploitation and Ethical Hacking
+Session Type: Arsenal
+```
+
+**32) CERNE - OPEN IDS PLATFORM**
+```
+Presenter: Steve Patton
+Track:  Network Defense
+Session Type: Arsenal
+```
+
+**33) FRUITYC2**
+```
+Presenter: xtr4nge xtr4nge
+Track:  Network Attacks
+Session Type: Arsenal
+```
+
+**33) LOGFEEDER**
+```
+Presenter: Yonny Tonui
+Track:  Data Forensics and Incident Response
+Session Type: Arsenal
+```
+
+**34) OWASP ZAP**
+```
+Presenter: Simon Bennetts
+Track:  Web AppSec
+Session Type: Arsenal
+```
+
+**35) THREAT MINER SDL - AUTOMATING THREAT INTELLIGENCE FOR SDL**
+```
+Presenter: Raghudeep Kannavara
+Track:  OSINT - Open Source Intelligence
+Session Type: Arsenal
+```
+
+**36) BADINTENT - INTEGRATING ANDROID WITH BURP**
+```
+Presenter: Mateusz Khalil
+Track:  Android, iOS and Mobile Hacking
+Session Type: Arsenal
+```
+
+**37) DATASPLOIT - OSINT FRAMEWORK**
+```
+Presenter: Shubham Mittal
+Track:  OSINT - Open Source Intelligence
+Session Type: Arsenal
+```
+
+**38) OBJECTIVE-SEE'S MAC SECURITY TOOLS**
+```
+Presenter: Patrick Wardle
+Track:  Malware Defense
+Session Type: Arsenal
+```
+
+**39) OPTICSPY - DETECTING OPTICAL COVERT CHANNELS**
+```
+Presenter: Joe Grand
+Track:  Hardware/Embedded
+Session Type: Arsenal
+```
+
+**40) PYMULTITOR**
+```
+Presenter: Tomer Zait
+Track:  Web AppSec
+Session Type: Arsenal
+```
+
+**41) WHID INJECTOR - HOW TO BRING HID ATTACKS TO THE NEXT LEVEL**
+```
+Presenter: Luca Bongiorni
+Track:  Internet of Things
+Session Type: Arsenal
+```
