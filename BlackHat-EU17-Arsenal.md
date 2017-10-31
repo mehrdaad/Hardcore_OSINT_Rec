@@ -61,6 +61,8 @@ Presenter: Kai Zhong, Kenneth Lee
 Track:  Data Forensics and Incident Response
 Session Type: Arsenal
 ```
+[Github](https://github.com/etsy/411) ✔️
+[Youtube](https://www.youtube.com/watch?v=LQyqhrDl7f8) ✔️
 
 **8) ANWI (ALL NEW WIRELESS IDS) - THE £5 WIDS**
 ```
@@ -96,3 +98,4 @@ Presenter: Pablo González Pérez, Santiago Hernández Ramos
 Track:  Exploitation and Ethical Hacking
 Session Type: Arsenal
 ```
+[Github](https://github.com/ElevenPaths/uac-a-mola)
