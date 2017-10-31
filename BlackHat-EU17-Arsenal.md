@@ -78,6 +78,7 @@ Track:  Android, iOS and Mobile Hacking
 Session Type: Arsenal
 ```
 [Github](https://github.com/ElevenPaths/DirtyTooth-RaspberryPi) ✔️
+
 **10) DYODE - A DIY, LOW-COST DATA DIODE FOR ICS**
 ```
 Presenter: Arnaud Soullié
@@ -85,6 +86,7 @@ Track:  Hardware/Embedded
 Session Type: Arsenal
 ```
 [Github](https://github.com/arnaudsoullie/dyode) ✔️
+
 **11) PUNYDOMAINCHECK - PHISHING SITE INVESTIGATOR**
 ```
 Presenter: Anil Yuksel, Mert Karatas
@@ -92,6 +94,7 @@ Track:  Human Factors
 Session Type: Arsenal
 ```
 [Github](https://github.com/anilyuk/punydomaincheck) ✔️
+
 **12) UAC-A-MOLA**
 ```
 Presenter: Pablo González Pérez, Santiago Hernández Ramos
@@ -99,3 +102,45 @@ Track:  Exploitation and Ethical Hacking
 Session Type: Arsenal
 ```
 [Github](https://github.com/ElevenPaths/uac-a-mola) ✔️
+
+**13) CERTITUDE - AN OPEN-SOURCE AND AGENTLESS COMPROMISE ASSESSMENT TOOL**
+```
+Presenter: Jean Marsault, Vincent NGUYEN
+Track:  Data Forensics and Incident Response
+Session Type: Arsenal
+```
+
+**14) CLOUD SECURITY SUITE - ONE STOP TOOL FOR AWS SECURITY AUDIT**
+```
+Presenter: Jayesh Chauhan, Prajal Kulkarni, Shivankar Madaan
+Track:  Network Defense
+Session Type: Arsenal
+```
+
+**15) DPAPI AND DPAPI-NG - DECRYPTION TOOLKIT**
+```
+Presenter: Paula Januszkiewicz
+Track:  Exploitation and Ethical Hacking
+Session Type: Arsenal
+```
+
+**16) EXPLIOT - INTERNET OF THINGS SECURITY TESTING AND EXPLOITATION FRAMEWORK**
+```
+Presenter: Aseem Jakhar
+Track:  Internet of Things
+Session Type: Arsenal
+```
+
+**17) REFLECTOR - BURP SUITE EXTENSION**
+```
+Presenter: Alexander Shvetsov, Egor Dimitrenko
+Track:  Web AppSec
+Session Type: Arsenal
+```
+
+**18) THALOS - SIMPLE AND SECURE APPROACH TO STORAGE IN UNTRUSTED ENVIRONMENTS**
+```
+Presenter: Luca Maria Castiglione
+Track:  Cryptography
+Session Type: Arsenal
+```
