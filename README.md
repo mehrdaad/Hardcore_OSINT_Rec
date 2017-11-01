@@ -34,7 +34,7 @@
  - [Pastebin_bot](http://www.andrewmohawk.com/pasteLert)
  
  - [Gossip at social media](http://www.whostalkin.com/)
- - [Check|u_name](http://checkusernames.com/) - username on the wire
+ - [Check|u_name](http://checkusernames.com/) - username on the wire => [Newer version](https://knowem.com) 
  - [Check the use of your brand,product,personal name](http://knowem.com/)
  - [Tweeter-will-l0ve-this](https://tinfoleak.com/)
  - [1mil-Tweetmap](http://onemilliontweetmap.com/) - Tweet Map
