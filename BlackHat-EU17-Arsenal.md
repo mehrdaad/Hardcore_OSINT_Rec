@@ -124,7 +124,7 @@ Presenter: Paula Januszkiewicz
 Track:  Exploitation and Ethical Hacking
 Session Type: Arsenal
 ```
-[Slides & toolkit](https://cqureacademy.com/blog/windows-internals/black-hat) ✔️
+[Slide & toolkit](https://cqureacademy.com/blog/windows-internals/black-hat) ✔️
 
 **16) EXPLIOT - INTERNET OF THINGS SECURITY TESTING AND EXPLOITATION FRAMEWORK**
 ```
@@ -132,6 +132,8 @@ Presenter: Aseem Jakhar
 Track:  Internet of Things
 Session Type: Arsenal
 ```
+[Bitbucket](https://bitbucket.org/aseemjakhar/expliot_framework) ✔️
+[Intro toolkit in IoT Hacking Simplified](https://conference.hitb.org/hitbsecconf2017ams/materials/D2T4%20-%20Aseem%20Jakhar%20-%20IoT%20Hacking%20Simplified.pdf) 
 
 **17) REFLECTOR - BURP SUITE EXTENSION**
 ```
@@ -139,6 +141,7 @@ Presenter: Alexander Shvetsov, Egor Dimitrenko
 Track:  Web AppSec
 Session Type: Arsenal
 ```
+[Github](https://github.com/elkokc/reflector) ✔️
 
 **18) THALOS - SIMPLE AND SECURE APPROACH TO STORAGE IN UNTRUSTED ENVIRONMENTS**
 ```
