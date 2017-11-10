@@ -1,4 +1,4 @@
-# [BlackHat Europe 2017 Arsenal](https://www.blackhat.com/eu-17/arsenal/schedule/)
+# [BlackHat Europe 2017 Arsenal](https://www.blackhat.com/eu-17/arsenal/schedule/) - 🕵 88% 
 
 **1) CYBOT - OPEN-SOURCE THREAT INTELLIGENCE CHAT BOT (REVAMPED)**
 ```
@@ -132,7 +132,7 @@ Track:  Internet of Things
 Session Type: Arsenal
 ```
 [Bitbucket](https://bitbucket.org/aseemjakhar/expliot_framework) ✔️
-[Intro toolkit in IoT Hacking Simplified](https://conference.hitb.org/hitbsecconf2017ams/materials/D2T4%20-%20Aseem%20Jakhar%20-%20IoT%20Hacking%20Simplified.pdf) 
+[Intro toolkit in IoT Hacking Simplified](https://conference.hitb.org/hitbsecconf2017ams/materials/D2T4%20-%20Aseem%20Jakhar%20-%20IoT%20Hacking%20Simplified.pdf) ✔️
 
 **17) REFLECTOR - BURP SUITE EXTENSION**
 ```
@@ -217,6 +217,7 @@ Track:  Data Forensics and Incident Response
 Session Type: Arsenal
 ```
 [SourceForge](https://sourceforge.net/projects/ngnms/) ✔️
+
 **27) OSINT-SPY**
 ```
 Presenter: Sharad Kumar
