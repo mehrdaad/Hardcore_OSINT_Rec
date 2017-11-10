@@ -320,6 +320,8 @@ Presenter: Patrick Wardle
 Track:  Malware Defense
 Session Type: Arsenal
 ```
+[Official .HTML](https://objective-see.com/products.html) ✔️
+[Twitter news](https://twitter.com/objective_see) ✔️
 
 **39) OPTICSPY - DETECTING OPTICAL COVERT CHANNELS**
 ```
