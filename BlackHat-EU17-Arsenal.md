@@ -109,13 +109,14 @@ Presenter: Jean Marsault, Vincent NGUYEN
 Track:  Data Forensics and Incident Response
 Session Type: Arsenal
 ```
-
+[Github](https://github.com/CERT-W/certitude) ✔️
 **14) CLOUD SECURITY SUITE - ONE STOP TOOL FOR AWS SECURITY AUDIT**
 ```
 Presenter: Jayesh Chauhan, Prajal Kulkarni, Shivankar Madaan
 Track:  Network Defense
 Session Type: Arsenal
 ```
+[Github](https://github.com/SecurityFTW/cs-suite) ✔️
 
 **15) DPAPI AND DPAPI-NG - DECRYPTION TOOLKIT**
 ```
@@ -123,6 +124,7 @@ Presenter: Paula Januszkiewicz
 Track:  Exploitation and Ethical Hacking
 Session Type: Arsenal
 ```
+[Slides & toolkit](https://cqureacademy.com/blog/windows-internals/black-hat) ✔️
 
 **16) EXPLIOT - INTERNET OF THINGS SECURITY TESTING AND EXPLOITATION FRAMEWORK**
 ```
