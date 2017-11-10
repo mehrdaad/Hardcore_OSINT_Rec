@@ -185,6 +185,7 @@ Track:  Vulnerability Assessment
 Session Type: Arsenal
 ```
 [Github](https://github.com/airbus-seclab/powersap) ✔️
+
 **23) TINFOLEAK**
 ```
 Presenter: Vicente Aguilera Diaz
