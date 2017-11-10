@@ -1,5 +1,10 @@
 # Free_OSINT_Rec
  
+ ## Twiiter 
+ - [Tweet-tivist](http://www.tweetarchivist.com) - Powerful, Affordable Twitter Analytics
+ - [1mil-Tweetmap](http://onemilliontweetmap.com/) - Tweet Map
+ - [Tinfoleak](http://www.vicenteaguileradiaz.com/tools/) - “The most complete open-source tool for Twitter intelligence analysis” 
+ 
  ## g00gl3
  - [Google Trends](https://trends.google.com/trends/) - widen your search scope.
  - [Google Alerts](https://www.google.com/alerts) - Monitor the web for interesting new content
@@ -64,10 +69,8 @@
  - [Gossip at social media](http://www.whostalkin.com/)
  - [Check|u_name](http://checkusernames.com/) - username on the wire => [Newer version](https://knowem.com) 
 
- - [Tweeter-will-l0ve-this](https://tinfoleak.com/)
- - [1mil-Tweetmap](http://onemilliontweetmap.com/) - Tweet Map
  - [EchoSec](https://www.echosec.net/) - Geo-based search platform on social platform
- - [Tweet-tivist](http://www.tweetarchivist.com)
+
  - [LeakedIN](http://www.leakedin.com) - LeakED!!
  - [Social_searchEngine](http://socialmention.com/) - Real-time social media search and analysis
  - [Check username available on social_sites](http://namechk.com/)
@@ -96,5 +99,4 @@
  - [Dradis Framework](https://github.com/dradis/dradis-ce) - Dradis Framework: Colllaboration and reporting for IT Security teams
  - [Datasploit](https://github.com/DataSploit/datasploit) - OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc., aggregate all the raw data, and give data in multiple formats.
  - [OSINT-SPY](https://github.com/SharadKumar97/OSINT-SPY) - It can be used by Data Miners, Infosec Researchers, Penetration Testers and cyber crime investigator in order to find deep information about their target.
- - [Tinfoleak](http://www.vicenteaguileradiaz.com/tools/) - “The most complete open-source tool for Twitter intelligence analysis” 
  - [ThreatMiner](https://www.threatminer.org/) - Data Mining for Threat Intelligence 
