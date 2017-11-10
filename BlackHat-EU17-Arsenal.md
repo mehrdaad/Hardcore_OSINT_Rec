@@ -1,6 +1,5 @@
 # [BlackHat Europe 2017 Arsenal](https://www.blackhat.com/eu-17/arsenal/schedule/)
 
-
 **1) CYBOT - OPEN-SOURCE THREAT INTELLIGENCE CHAT BOT (REVAMPED)**
 ```
 Presenter: Tony Lee
@@ -158,8 +157,9 @@ Presenter: Joseph Zadeh, Rod Soto
 Track:  Malware Defense
 Session Type: Arsenal
 ```
-> [Aktaion v1](https://github.com/jzadeh/aktaion) ✔️
 [Github](https://github.com/jzadeh/aktaion2) ✔️
+
+> [Aktaion v1](https://github.com/jzadeh/aktaion) ✔️
 
 **20) DET (DATA EXFILTRATION TOOLKIT)**
 ```
@@ -176,7 +176,7 @@ Track:  Network Defense
 Session Type: Arsenal
 ```
 [Published paper](https://www.tk.informatik.tu-darmstadt.de/fileadmin/user_upload/Group_TK/filesDownload/Published_Papers/id2t.pdf) ✔️
-[Gogs](https://git.tk.informatik.tu-darmstadt.de/SPIN/ID2T-toolkit) ✔️
+[Gogs - self-hosted Git service](https://git.tk.informatik.tu-darmstadt.de/SPIN/ID2T-toolkit) ✔️
 
 **22) POWERSAP - POWERSHELL TOOL TO ASSESS SAP SECURITY**
 ```
@@ -238,6 +238,8 @@ Presenter: Dani Goland, Ido Naor
 Track:  Malware Defense
 Session Type: Arsenal
 ```
+[Official .HTML](https://beta.virusbay.io/) ✔️
+[Twiiter news](https://twitter.com/virusbay_io) ✔️
 
 **30) WIPI-HUNTER - WIFI-PINEAPPLE ACTIVITIES DETECTION**
 ```
@@ -261,6 +263,8 @@ Presenter: Steve Patton
 Track:  Network Defense
 Session Type: Arsenal
 ```
+[Youtube CERNE IDS Platform GUI](https://www.youtube.com/watch?v=qfhrcCnpsRU) ✔️
+[CERNE built on Suricata](https://docs.wixstatic.com/ugd/b7cdad_f49568d1c2ab4069a0eb46bbdba74566.pdf) ✔️
 
 **33) FRUITYC2**
 ```
@@ -328,6 +332,7 @@ Presenter: Tomer Zait
 Track:  Web AppSec
 Session Type: Arsenal
 ```
+[Github](https://github.com/realgam3/pymultitor) ✔️
 
 **41) WHID INJECTOR - HOW TO BRING HID ATTACKS TO THE NEXT LEVEL**
 ```
@@ -335,3 +340,4 @@ Presenter: Luca Bongiorni
 Track:  Internet of Things
 Session Type: Arsenal
 ```
+[Github](https://github.com/whid-injector/WHID) ✔️
