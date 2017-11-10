@@ -149,6 +149,7 @@ Presenter: Luca Maria Castiglione
 Track:  Cryptography
 Session Type: Arsenal
 ```
+[Github](https://github.com/ecleipteon/Thalos) ✔️
 
 
 **19) AKTAION V2 - A MACHINE LEARNING OPEN-SOURCE & ACTIVE DEFENSE (ORCHESTRATION) TOOL**
@@ -157,6 +158,8 @@ Presenter: Joseph Zadeh, Rod Soto
 Track:  Malware Defense
 Session Type: Arsenal
 ```
+> [Aktaion v1](https://github.com/jzadeh/aktaion) ✔️
+[Github](https://github.com/jzadeh/aktaion2) ✔️
 
 **20) DET (DATA EXFILTRATION TOOLKIT)**
 ```
@@ -164,6 +167,7 @@ Presenter: Paul Amar
 Track:  Network Attacks
 Session Type: Arsenal
 ```
+[Github](https://github.com/sensepost/DET) ✔️
 
 **21) ID2T - THE INTRUSION DETECTION DATASET GENERATION TOOLKIT**
 ```
@@ -171,6 +175,8 @@ Presenter: Carlos Garcia Cordero, Emmanouil Vasilomanolakis, Max Mühlhäuser
 Track:  Network Defense
 Session Type: Arsenal
 ```
+[Published paper](https://www.tk.informatik.tu-darmstadt.de/fileadmin/user_upload/Group_TK/filesDownload/Published_Papers/id2t.pdf) ✔️
+[Gogs](https://git.tk.informatik.tu-darmstadt.de/SPIN/ID2T-toolkit) ✔️
 
 **22) POWERSAP - POWERSHELL TOOL TO ASSESS SAP SECURITY**
 ```
@@ -178,13 +184,14 @@ Presenter: Joffrey Czarny
 Track:  Vulnerability Assessment
 Session Type: Arsenal
 ```
-
+[Github](https://github.com/airbus-seclab/powersap) ✔️
 **23) TINFOLEAK**
 ```
 Presenter: Vicente Aguilera Diaz
 Track:  OSINT - Open Source Intelligence
 Session Type: Arsenal
 ```
+[Official .HTML](http://www.vicenteaguileradiaz.com/tools) ✔️
 
 **24) XSSER - FROM XSS TO RCE 2.75**
 ```
@@ -192,6 +199,7 @@ Presenter: Hans-Michael Varbaek
 Track:  Web AppSec
 Session Type: Arsenal
 ```
+[Github](https://github.com/Varbaek/xsser) ✔️
 
 **25) EXPLOIT PACK**
 ```
@@ -199,6 +207,7 @@ Presenter: Juan Sacco
 Track:  Exploitation and Ethical Hacking
 Session Type: Arsenal
 ```
+[Github](https://github.com/juansacco/exploitpack) ✔️
 
 **26) NG-NETMS**
 ```
@@ -206,13 +215,14 @@ Presenter: Taras Matselyukh
 Track:  Data Forensics and Incident Response
 Session Type: Arsenal
 ```
-
+[SourceForge](https://sourceforge.net/projects/ngnms/) ✔️
 **27) OSINT-SPY**
 ```
 Presenter: Sharad Kumar
 Track:  OSINT - Open Source Intelligence
 Session Type: Arsenal
 ```
+[Github](https://github.com/SharadKumar97/OSINT-SPY) ✔️
 
 **28) SECCUBUS**
 ```
@@ -220,6 +230,7 @@ Presenter: Frank Breedijk
 Track:  Vulnerability Assessment
 Session Type: Arsenal
 ```
+[Github](https://github.com/schubergphilis/Seccubus) ✔️
 
 **29) VIRUSBAY - DON'T BE AFRAID TO ASK**
 ```
@@ -234,6 +245,7 @@ Presenter: Besim Altinok, Mustafa Altinkaynak
 Track:  Network Defense
 Session Type: Arsenal
 ```
+[Github](https://github.com/WiPi-Hunter) ✔️
 
 **31) 2FASSASSIN**
 ```
@@ -241,6 +253,7 @@ Presenter: Maxwell Koh
 Track:  Exploitation and Ethical Hacking
 Session Type: Arsenal
 ```
+[Github](https://github.com/maxwellkoh/2FAssassin) ✔️
 
 **32) CERNE - OPEN IDS PLATFORM**
 ```
@@ -255,6 +268,7 @@ Presenter: xtr4nge xtr4nge
 Track:  Network Attacks
 Session Type: Arsenal
 ```
+[Github](https://github.com/xtr4nge/FruityC2) ✔️
 
 **33) LOGFEEDER**
 ```
@@ -269,6 +283,7 @@ Presenter: Simon Bennetts
 Track:  Web AppSec
 Session Type: Arsenal
 ```
+[Github](https://github.com/zaproxy/zaproxy) ✔️
 
 **35) THREAT MINER SDL - AUTOMATING THREAT INTELLIGENCE FOR SDL**
 ```
@@ -283,6 +298,7 @@ Presenter: Mateusz Khalil
 Track:  Android, iOS and Mobile Hacking
 Session Type: Arsenal
 ```
+[Github](https://github.com/mateuszk87/BadIntent) ✔️
 
 **37) DATASPLOIT - OSINT FRAMEWORK**
 ```
@@ -290,6 +306,7 @@ Presenter: Shubham Mittal
 Track:  OSINT - Open Source Intelligence
 Session Type: Arsenal
 ```
+[Github](https://github.com/DataSploit/datasploit) ✔️
 
 **38) OBJECTIVE-SEE'S MAC SECURITY TOOLS**
 ```
