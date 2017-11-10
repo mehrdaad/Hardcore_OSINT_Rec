@@ -1,4 +1,32 @@
 # Free_OSINT_Rec
+ 
+ ## g00gl3
+ - [Google Trends](https://trends.google.com/trends/) - widen your search scope.
+ - [Google Alerts](https://www.google.com/alerts) - Monitor the web for interesting new content
+ - [Google Dork CLI](https://github.com/jgor/dork-cli) - Command-line Google dork tool.
+ 
+ ## Github
+ - [Copernicus](https://github.com/Soroboruo/Copernicus) - Osint tool to get results from more than 600 websites and whitepages about people.
+  - [GitHub origazation](https://github.com/michenriksen/gitrob) - reconnaissance tool
+  - [Github Dork](https://github.com/techgaun/github-dorks) - Collection of github dorks and helper tool to automate the process of checking dorks.
+  
+ ## Toolswatch
+ - [Asernal Tools](https://github.com/toolswatch/blackhat-arsenal-tools)
+ - [Top tools @ 2013](http://www.toolswatch.org/2013/12/2013-top-security-tools-as-voted-by-toolswatch-org-readers/)
+ - [Top tools @ 2014](http://www.toolswatch.org/2015/01/2014-top-security-tools-as-voted-by-toolswatch-org-readers/)
+ - [Top tools @ 2015](http://www.toolswatch.org/2016/02/2015-top-security-tools-as-voted-by-toolswatch-org-readers/)
+ - [Top tools @ 2016](http://www.toolswatch.org/2017/02/2016-top-security-tools-as-voted-by-toolswatch-org-readers/)
+
+ ## Linux Security Top 100 Tools 
+ - [LinuxSecurity.Expert](https://linuxsecurity.expert/security-tools/top-100)
+
+ ## Graphcrawling 
+ - [Gephi](https://gephi.org/) - The Open Graph Viz Platform, realtime visualization. 
+ - [Spotify Network](http://labs.polsys.net/playground/spotify/) - related Spotify artist 
+ - [Tumblrtool](http://labs.polsys.net/tools/tumblr/) - ofc on Tumblr
+ - [YASIV Youtube](http://www.yasiv.com/youtube?utm_content=bufferad5f7&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - A fantastic YouTube graph search tool that lets you find related videos.
+ 
+ # Changelog 
  - [Real Intel Threat Analysis](https://github.com/ocmdev/rita)
  - [Little_Sis](https://littlesis.org/) - a free database of who-knows-who at the heights of business and government
  - [Spokeo](https://www.spokeo.com/) - people search engine that organizes white pages listings, public records and social network information into simple profiles
@@ -48,41 +76,21 @@
  
  - [PlainText Alert](https://chrome.google.com/webstore/detail/plain-text-offenders-aler/ggndaknbenjhnkddgjnjjcmomgaidhmd?hl=en-US) - check whether sites have stored your p@ss in plaintext or not
  
- > Update Oct-10  
+ > Update v2017.10.10  
  - [Belati](https://github.com/aancw/Belati) - traditional Swiss Army Knife for OSINT
  - [Alephdata/Aleph](https://github.com/alephdata/aleph) - A toolkit for data search, management and anlaysis in investigative reporting. Sift through large sets of structured and unstructured data, and find the people and companies you look for.
  - [OSINT Framework](https://github.com/lockfale/OSINT-Framework) - The intention is to help people find OSINT resources that return free information.
  - [Intrigue.io/Intrigue-core](https://github.com/intrigueio/intrigue-core) - Discover your attack surface! 
  
- > Update Oct-12
+ > Update v2017.10.12
  - [ATSCAN](https://github.com/AlisamTechnology/ATSCAN) - Advanced Search & Mass Exploit Scanner
- > Update Oct-29
+ > Update v2017.10.29
  - [WHOIS Request](http://whoisrequest.org/history/) - WHOIS Lookup
  - [Who.is](https://who.is/) - just who.is search
  - [DNS history](https://completedns.com/dns-history/) - a great quick, easy, and free way to easily see changes on your nameservers, etc.
  - [PTR list](http://ptrarchive.com/) - Over 166 billion reverse DNS entries from 2008 to the present.
  - [DNS Trails](http://server9.rscott.org/) - huge DNS records.
+ 
+ > Update v2017.11.10
+ - [Trape](https://github.com/boxug/trape) - Learn to track the world, to avoid being traced.
 
- # g00gl3
- - [Google Trends](https://trends.google.com/trends/) - widen your search scope.
- - [Google Alerts](https://www.google.com/alerts) - Monitor the web for interesting new content
- - [Google Dork CLI](https://github.com/jgor/dork-cli) - Command-line Google dork tool.
- # Github
- - [Copernicus](https://github.com/Soroboruo/Copernicus) - Osint tool to get results from more than 600 websites and whitepages about people.
-  - [GitHub origazation](https://github.com/michenriksen/gitrob) - reconnaissance tool
-  - [Github Dork](https://github.com/techgaun/github-dorks) - Collection of github dorks and helper tool to automate the process of checking dorks.
- # Toolswatch
- - [Asernal Tools](https://github.com/toolswatch/blackhat-arsenal-tools)
- - [Top tools @ 2013](http://www.toolswatch.org/2013/12/2013-top-security-tools-as-voted-by-toolswatch-org-readers/)
- - [Top tools @ 2014](http://www.toolswatch.org/2015/01/2014-top-security-tools-as-voted-by-toolswatch-org-readers/)
- - [Top tools @ 2015](http://www.toolswatch.org/2016/02/2015-top-security-tools-as-voted-by-toolswatch-org-readers/)
- - [Top tools @ 2016](http://www.toolswatch.org/2017/02/2016-top-security-tools-as-voted-by-toolswatch-org-readers/)
-
- # Linux Security Top 100 Tools 
- - [LinuxSecurity.Expert](https://linuxsecurity.expert/security-tools/top-100)
-
- # Graphcrawling 
- - [Gephi](https://gephi.org/) - The Open Graph Viz Platform, realtime visualization. 
- - [Spotify Network](http://labs.polsys.net/playground/spotify/) - related Spotify artist 
- - [Tumblrtool](http://labs.polsys.net/tools/tumblr/) - ofc on Tumblr
- - [YASIV Youtube](http://www.yasiv.com/youtube?utm_content=bufferad5f7&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - A fantastic YouTube graph search tool that lets you find related videos.
