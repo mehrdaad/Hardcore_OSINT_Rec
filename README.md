@@ -93,4 +93,7 @@
  
  > Update v2017.11.10
  - [Trape](https://github.com/boxug/trape) - Learn to track the world, to avoid being traced.
-
+ - [Dradis Framework](https://github.com/dradis/dradis-ce) - Dradis Framework: Colllaboration and reporting for IT Security teams
+ - [Datasploit](https://github.com/DataSploit/datasploit) - OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc., aggregate all the raw data, and give data in multiple formats.
+ - [OSINT-SPY](https://github.com/SharadKumar97/OSINT-SPY) - It can be used by Data Miners, Infosec Researchers, Penetration Testers and cyber crime investigator in order to find deep information about their target.
+ - [Tinfoleak](http://www.vicenteaguileradiaz.com/tools/) - “The most complete open-source tool for Twitter intelligence analysis” 
