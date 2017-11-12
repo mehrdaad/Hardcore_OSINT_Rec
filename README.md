@@ -1,5 +1,9 @@
 # Free_OSINT_Rec
  
+ ## Browser extensions
+ - [ThreatPinch Lookup](https://github.com/cloudtracer/ThreatPinchLookup) - ThreatPinch Lookup creates informational tooltips when hovering oven an item of interest on any website. It helps speed up security investigations by automatically providing relevant information upon hovering over any IPv4 address, MD5 hash, SHA2 hash, and CVE title. It’s designed to be completely customizable and work with any rest API.
+ ## IoT Search Engine
+ - [NetDB.io](http://www.netdb.io/) -  IOT SEARCH ENGINE aggregator FOR SHODAN, NETDB, ZOOMEYE, CENSYS 
  ## Tor 
  - [OSINT Tor](https://oint.ctrlbox.com/) - OSINT Tor 
  ## Twiiter 
