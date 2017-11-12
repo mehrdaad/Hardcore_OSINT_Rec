@@ -113,3 +113,4 @@
 - [WHOIS RESTFul Web Service API](https://www.arin.net/resources/whoisrws/whois_api.html#whoisrws) - ARIN - American Registry for Internet Numbers
 - [Mimir](https://github.com/NullArray/Mimir) - OSINT Threat Intel Interface (work as a CLI to HoneyDB) 
 - [Intel Technique Search tools](https://inteltechniques.com/menu.html) - osint links, blog, podcast, docs, etc. 
+- [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/) - Cloud Threat Intelligence 
