@@ -40,6 +40,9 @@
  - [Tumblrtool](http://labs.polsys.net/tools/tumblr/) - ofc on Tumblr
  - [YASIV Youtube](http://www.yasiv.com/youtube?utm_content=bufferad5f7&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - A fantastic YouTube graph search tool that lets you find related videos.
  
+ ## Anti-bots 
+ - [BotScout](http://botscout.com/) - BotScout helps prevent automated web scripts, known as "bots", from registering on forums, polluting databases, spreading spam, and abusing forms on web sites.
+ 
  # Changelog 
  - [Real Intel Threat Analysis](https://github.com/ocmdev/rita)
  - [Little_Sis](https://littlesis.org/) - a free database of who-knows-who at the heights of business and government
@@ -114,3 +117,5 @@
 - [Mimir](https://github.com/NullArray/Mimir) - OSINT Threat Intel Interface (work as a CLI to HoneyDB) 
 - [Intel Technique Search tools](https://inteltechniques.com/menu.html) - osint links, blog, podcast, docs, etc. 
 - [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/) - Cloud Threat Intelligence 
+- [ElevenPath tools](https://www.elevenpaths.com/labs/tools/index.html#*) - Confidence on the Internet, Identity and Privacy, Threats and vulnerabilities, etc. 
+
