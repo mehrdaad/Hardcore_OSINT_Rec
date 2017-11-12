@@ -104,3 +104,4 @@
  - [ThreatMiner](https://www.threatminer.org/) - Data Mining for Threat Intelligence 
  > Update v2017.11.12
 - [WHOIS RESTFul Web Service API](https://www.arin.net/resources/whoisrws/whois_api.html#whoisrws) - ARIN - American Registry for Internet Numbers
+- [Mimir](https://github.com/NullArray/Mimir) - OSINT Threat Intel Interface (work as a CLI to HoneyDB) 
