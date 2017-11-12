@@ -118,4 +118,4 @@
 - [Intel Technique Search tools](https://inteltechniques.com/menu.html) - osint links, blog, podcast, docs, etc. 
 - [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/) - Cloud Threat Intelligence 
 - [ElevenPath tools](https://www.elevenpaths.com/labs/tools/index.html#*) - Confidence on the Internet, Identity and Privacy, Threats and vulnerabilities, etc. 
-- [Cymon.io](https://cymon.io) - Open Threat Intelligence - ```Cymon is the largest open tracker of malware, phishing, botnets, spam, and more```
+- [Cymon.io](https://cymon.io) - Open Threat Intelligence - ```Cymon is the largest open tracker of malware, phishing, botnets, spam, etc.```
