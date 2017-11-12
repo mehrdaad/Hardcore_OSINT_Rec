@@ -1,5 +1,7 @@
 # Free_OSINT_Rec
  
+ ## Tor 
+ - [OSINT Tor](https://oint.ctrlbox.com/) - OSINT Tor 
  ## Twiiter 
  - [Tweet-tivist](http://www.tweetarchivist.com) - Powerful, Affordable Twitter Analytics
  - [1mil-Tweetmap](http://onemilliontweetmap.com/) - Tweet Map
