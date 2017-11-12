@@ -48,7 +48,7 @@
  
  
  # Changelog 
- - [Real Intel Threat Analysis](https://github.com/ocmdev/rita)
+ - [Real Intel Threat Analysis](https://github.com/ocmdev/rita) - open source framework for network traffic analysis.
  - [Little_Sis](https://littlesis.org/) - a free database of who-knows-who at the heights of business and government
  - [Spokeo](https://www.spokeo.com/) - people search engine that organizes white pages listings, public records and social network information into simple profiles
  - [Scythe](http://blog.c22.cc/2012/10/03/scythe-framework/) - account harvester 
