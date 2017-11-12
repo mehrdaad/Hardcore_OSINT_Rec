@@ -43,6 +43,10 @@
  ## Anti-bots 
  - [BotScout](http://botscout.com/) - BotScout helps prevent automated web scripts, known as "bots", from registering on forums, polluting databases, spreading spam, and abusing forms on web sites.
  
+ ## Implement info gathering with ML 
+ - [Combine](https://github.com/mlsecproject/combine) - Tool to gather Threat Intelligence indicators from publicly available sources.
+ 
+ 
  # Changelog 
  - [Real Intel Threat Analysis](https://github.com/ocmdev/rita)
  - [Little_Sis](https://littlesis.org/) - a free database of who-knows-who at the heights of business and government
@@ -119,3 +123,5 @@
 - [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/) - Cloud Threat Intelligence 
 - [ElevenPath tools](https://www.elevenpaths.com/labs/tools/index.html#*) - Confidence on the Internet, Identity and Privacy, Threats and vulnerabilities, etc. 
 - [Cymon.io](https://cymon.io) - Open Threat Intelligence - ```Cymon is the largest open tracker of malware, phishing, botnets, spam, etc.```
+- [Just Metadata](https://github.com/ChrisTruncer/Just-Metadata) - Just-Metadata will allow you to quickly find the Top "X" number of states, cities, timezones, etc. that the loaded IP addresses are located in. It will allow you to search for IP addresses by country. You can search all IPs to find which ones are used in callbacks as identified by VirusTotal. Want to see if any IPs loaded have been documented as taking part of attacks via the Animus Project, Just-Metadata can do it.
+
