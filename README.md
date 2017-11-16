@@ -5,6 +5,7 @@
  
  ## IoT Search Engine
  - [NetDB.io](http://www.netdb.io/) -  IOT SEARCH ENGINE aggregator FOR SHODAN, NETDB, ZOOMEYE, CENSYS 
+ - [Exploitee](https://www.exploitee.rs) - Recon hardwares bug/pwned/exploit
  
  ## Tor 
  - [OSINT Tor](https://oint.ctrlbox.com/) - OSINT Tor 
@@ -45,8 +46,18 @@
  
  ## Implement info gathering with ML 
  - [Combine](https://github.com/mlsecproject/combine) - Tool to gather Threat Intelligence indicators from publicly available sources.
- 
- 
+  
+ # Domains
+ - [WHOIS Request](http://whoisrequest.org/history/) - WHOIS Lookup
+ - [Who.is](https://who.is/) - just who.is search
+ - [DNS history](https://completedns.com/dns-history/) - a great quick, easy, and free way to easily see changes on your nameservers, etc.
+ - [PTR list](http://ptrarchive.com/) - Over 166 billion reverse DNS entries from 2008 to the present.
+ - [DNS Trails](http://server9.rscott.org/) - huge DNS records.
+ - [DNS Tree](https://www.dnstree.com/) - Important information about your dns and IP. Check that your DNS resolver isn't hijacked.
+
+# Web
+- [SimilarWeb](https://www.similarweb.com) - Website insight. 
+
  # Changelog 
  - [Real Intel Threat Analysis](https://github.com/ocmdev/rita) - open source framework for network traffic analysis.
  - [Little_Sis](https://littlesis.org/) - a free database of who-knows-who at the heights of business and government
@@ -103,12 +114,8 @@
  
  > Update v2017.10.12
  - [ATSCAN](https://github.com/AlisamTechnology/ATSCAN) - Advanced Search & Mass Exploit Scanner
- > Update v2017.10.29
- - [WHOIS Request](http://whoisrequest.org/history/) - WHOIS Lookup
- - [Who.is](https://who.is/) - just who.is search
- - [DNS history](https://completedns.com/dns-history/) - a great quick, easy, and free way to easily see changes on your nameservers, etc.
- - [PTR list](http://ptrarchive.com/) - Over 166 billion reverse DNS entries from 2008 to the present.
- - [DNS Trails](http://server9.rscott.org/) - huge DNS records.
+
+
  
  > Update v2017.11.10
  - [Trape](https://github.com/boxug/trape) - Learn to track the world, to avoid being traced.
