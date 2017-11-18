@@ -1,4 +1,7 @@
 # Free_OSINT_Rec
+ ## News 
+ - [Cyberwire](https://www.thecyberwire.com/index.html) - The CyberWire is a free, community-driven cyber security news service based in Baltimore. 
+ - [APT Group & Operations](https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml#) - Worldwide APT Group. 
  
  ## Browser extensions
  - [ThreatPinch Lookup](https://github.com/cloudtracer/ThreatPinchLookup) - ThreatPinch Lookup creates informational tooltips when hovering oven an item of interest on any website. It helps speed up security investigations by automatically providing relevant information upon hovering over any IPv4 address, MD5 hash, SHA2 hash, and CVE title. It’s designed to be completely customizable and work with any rest API.
@@ -10,6 +13,7 @@
  ## Tor 
  - [OSINT Tor](https://oint.ctrlbox.com/) - OSINT Tor 
  - [OnionScan](https://onionscan.org/) - OnionScan is a free and open source tool for investigating the Dark Web. 
+ - [Exonerator](https://exonerator.torproject.org/) - Enter an IP address and date to find out whether that address was used as a Tor relay.
  
  ## Twiiter 
  - [Tweet-tivist](http://www.tweetarchivist.com) - Powerful, Affordable Twitter Analytics
@@ -54,6 +58,9 @@
  - [DNS Trails](http://server9.rscott.org/) - huge DNS records.
  - [DNS Tree](https://www.dnstree.com/) - Important information about your dns and IP. Check that your DNS resolver isn't hijacked.
 
+## Ransomeware Tracker
+- [Ransome tracker](https://ransomwaretracker.abuse.ch/tracker/) - ransomware tracker.
+
 ## Web
 - [SimilarWeb](https://www.similarweb.com) - Website insight. 
 - [Desenmascara](http://desenmascara.me/) - Flags websites suspected of selling counterfeit products.
@@ -63,6 +70,7 @@
 - [TrendMicro Web Reputation](http://reclassify.wrs.trendmicro.com/) - check URL reputation.
 - [Symantec WebPulse](https://sitereview.bluecoat.com/) - Looks up the website in BlueCoat’s database.
 
+- [TheMajecticMillion](https://majestic.com/reports/majestic-million) - The million domains we find with the most referring subnets.
 - [Malware Domain List](http://www.malwaredomainlist.com/mdl.php) - Looks up recently-reported malicious websites
 - [MalwareURL](http://www.malwareurl.com/listing-urls.php) - Looks up the URL in its historical list of malicious websites
 - [Sandbox URL Analyzer](https://www.url-analyzer.net/) - Examines the URL and files in real-time.
@@ -83,6 +91,11 @@
 - [Zscaler Zulu URL Risk Analyzer](http://zulu.zscaler.com/) - Examines the URL using real-time and historical techniques.
 
 ## Threat Intel Gathering
+ - [MineMeld](https://live.paloaltonetworks.com/t5/MineMeld-Articles/Quick-tour-of-MineMeld-default-config/ta-p/72042) - Palo Alto Networks Threat Intel. 
+ - [GOSINT](https://github.com/ciscocsirt/gosint) - The GOSINT framework is a project used for collecting, processing, and exporting high quality indicators of compromise (IOCs).
+ 
+ - [SOLTRA EDGE®](https://soltra.com/en/) - Soltra Edge is the most widely used Cyber Threat Communications Platform for two-way sharing of cybersecurity information among peers, trust groups, communities and government.
+ 
  - [AlienVault](https://otx.alienvault.com/api) - API sync Threat Intelligence available in OTX.
  - [Combine](https://github.com/mlsecproject/combine) - Tool to gather Threat Intelligence indicators from publicly available sources.
  - [ThreatMiner](https://www.threatminer.org/) - Data Mining for Threat Intelligence 
@@ -91,8 +104,16 @@
  - [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/) - Cloud Threat Intelligence 
  - [Deepviz](https://search.deepviz.com/) - Offers historical threat intel data about IPs, domains, etc.
  - [RiskIQ](https://community.riskiq.com/) - RiskIQ Community brings petabytes of internet intelligence directly to your fingertips. 
+ - [YETI](https://yeti-platform.github.io/) - a.k.a Your Everyday Threat Intel.  
+ - [CRITs](https://crits.github.io/) - Collaborative Research Into Threats.
+ - [Anomali](https://www.anomali.com/platform/threatstream) - ThreatStream: Threat Intelligence Platform.
+ - [FireEye](https://www.fireeye.com/products/cyber-threat-intelligence.html) - Cyber Threat Intel. 
+ - [RecordedFuture](https://www.recordedfuture.com/solutions/threat-intelligence-feeds/) - Request demo.
+ - [SecuredWorks](https://www.secureworks.com/counter-threat-platform) - Request demo. 
+ - [LookingGlass](https://www.lookingglasscyber.com/products/threat-intelligence/) - Request demo. 
  
- 
+ - [CrowdStrike](https://www.crowdstrike.com/resources/data-sheets/falcon-intelligence/) - Falcon Intelligence.
+ - [C1fApps](https://www.c1fapp.com/) - Open Source Cyber intelligence threat feeds.
  
  # Changelog 
  - [Real Intel Threat Analysis](https://github.com/ocmdev/rita) - open source framework for network traffic analysis.
