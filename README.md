@@ -14,6 +14,7 @@
  - [Tweet-tivist](http://www.tweetarchivist.com) - Powerful, Affordable Twitter Analytics
  - [1mil-Tweetmap](http://onemilliontweetmap.com/) - Tweet Map
  - [Tinfoleak](http://www.vicenteaguileradiaz.com/tools/) - “The most complete open-source tool for Twitter intelligence analysis” 
+ - [Birdwatcher](https://github.com/michenriksen/birdwatcher) - Data analysis & OSINT framework
  
  ## g00gl3
  - [Google Trends](https://trends.google.com/trends/) - widen your search scope.
@@ -43,11 +44,8 @@
  
  ## Anti-bots 
  - [BotScout](http://botscout.com/) - BotScout helps prevent automated web scripts, known as "bots", from registering on forums, polluting databases, spreading spam, and abusing forms on web sites.
- 
- ## Implement info gathering with ML 
- - [Combine](https://github.com/mlsecproject/combine) - Tool to gather Threat Intelligence indicators from publicly available sources.
-  
- # Domains
+   
+ ## Domains
  - [WHOIS Request](http://whoisrequest.org/history/) - WHOIS Lookup
  - [Who.is](https://who.is/) - just who.is search
  - [DNS history](https://completedns.com/dns-history/) - a great quick, easy, and free way to easily see changes on your nameservers, etc.
@@ -55,9 +53,18 @@
  - [DNS Trails](http://server9.rscott.org/) - huge DNS records.
  - [DNS Tree](https://www.dnstree.com/) - Important information about your dns and IP. Check that your DNS resolver isn't hijacked.
 
-# Web
+## Web
 - [SimilarWeb](https://www.similarweb.com) - Website insight. 
 
+## Threat Intel Gathering
+ - [Combine](https://github.com/mlsecproject/combine) - Tool to gather Threat Intelligence indicators from publicly available sources.
+ - [ThreatMiner](https://www.threatminer.org/) - Data Mining for Threat Intelligence 
+ - [Cymon.io](https://cymon.io) - Open Threat Intelligence - ```Cymon is the largest open tracker of malware, phishing, botnets, spam, etc.```
+ - [Vulners](https://vulners.com/search?query=order:published) - Database-rich of Threat Intel.
+ - [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/) - Cloud Threat Intelligence 
+ 
+ 
+ 
  # Changelog 
  - [Real Intel Threat Analysis](https://github.com/ocmdev/rita) - open source framework for network traffic analysis.
  - [Little_Sis](https://littlesis.org/) - a free database of who-knows-who at the heights of business and government
@@ -116,20 +123,19 @@
  - [ATSCAN](https://github.com/AlisamTechnology/ATSCAN) - Advanced Search & Mass Exploit Scanner
 
 
- 
  > Update v2017.11.10
  - [Trape](https://github.com/boxug/trape) - Learn to track the world, to avoid being traced.
  - [Dradis Framework](https://github.com/dradis/dradis-ce) - Dradis Framework: Colllaboration and reporting for IT Security teams
  - [Datasploit](https://github.com/DataSploit/datasploit) - OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc., aggregate all the raw data, and give data in multiple formats.
  - [OSINT-SPY](https://github.com/SharadKumar97/OSINT-SPY) - It can be used by Data Miners, Infosec Researchers, Penetration Testers and cyber crime investigator in order to find deep information about their target.
- - [ThreatMiner](https://www.threatminer.org/) - Data Mining for Threat Intelligence 
+
  > Update v2017.11.12
 - [WHOIS RESTFul Web Service API](https://www.arin.net/resources/whoisrws/whois_api.html#whoisrws) - ARIN - American Registry for Internet Numbers
 - [Mimir](https://github.com/NullArray/Mimir) - OSINT Threat Intel Interface (work as a CLI to HoneyDB) 
 - [Intel Technique Search tools](https://inteltechniques.com/menu.html) - osint links, blog, podcast, docs, etc. 
-- [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/) - Cloud Threat Intelligence 
+
 - [ElevenPath tools](https://www.elevenpaths.com/labs/tools/index.html#*) - Confidence on the Internet, Identity and Privacy, Threats and vulnerabilities, etc. 
-- [Cymon.io](https://cymon.io) - Open Threat Intelligence - ```Cymon is the largest open tracker of malware, phishing, botnets, spam, etc.```
+
 - [Just Metadata](https://github.com/ChrisTruncer/Just-Metadata) - Just-Metadata will allow you to quickly find the Top "X" number of states, cities, timezones, etc. that the loaded IP addresses are located in. It will allow you to search for IP addresses by country. You can search all IPs to find which ones are used in callbacks as identified by VirusTotal. Want to see if any IPs loaded have been documented as taking part of attacks via the Animus Project, Just-Metadata can do it.
 
-- [Vulners](https://vulners.com/search?query=order:published) - Database-rich of Threat Intel.
+
