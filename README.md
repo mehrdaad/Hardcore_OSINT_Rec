@@ -9,7 +9,8 @@
  
  ## Tor 
  - [OSINT Tor](https://oint.ctrlbox.com/) - OSINT Tor 
- - [OnionScan](https://github.com/s-rah/onionscan) - OnionScan is a free and open source tool for investigating the Dark Web. 
+ - [OnionScan](https://onionscan.org/) - OnionScan is a free and open source tool for investigating the Dark Web. 
+ 
  ## Twiiter 
  - [Tweet-tivist](http://www.tweetarchivist.com) - Powerful, Affordable Twitter Analytics
  - [1mil-Tweetmap](http://onemilliontweetmap.com/) - Tweet Map
