@@ -55,13 +55,41 @@
 
 ## Web
 - [SimilarWeb](https://www.similarweb.com) - Website insight. 
+- [Desenmascara](http://desenmascara.me/) - Flags websites suspected of selling counterfeit products.
+- [FortiGuard web filtering](http://www.fortiguard.com/ip_rep/) - Display URL's history and category.
+- [Norton Safe Web](http://safeweb.norton.com/) - historical reputation data about the website.
+- [McAfee TrustedSource](http://www.trustedsource.org/) -  historical reputation data about the website.
+- [TrendMicro Web Reputation](http://reclassify.wrs.trendmicro.com/) - check URL reputation.
+- [Symantec WebPulse](https://sitereview.bluecoat.com/) - Looks up the website in BlueCoat’s database.
+
+- [Malware Domain List](http://www.malwaredomainlist.com/mdl.php) - Looks up recently-reported malicious websites
+- [MalwareURL](http://www.malwareurl.com/listing-urls.php) - Looks up the URL in its historical list of malicious websites
+- [Sandbox URL Analyzer](https://www.url-analyzer.net/) - Examines the URL and files in real-time.
+- [IsItHacked](http://www.isithacked.com/) - Performs several checks in real time and consults some blacklists.
+- [IsItPhising](http://isitphishing.org/) - Assesses the specified URL in real-time.
+- [MxToolbox](http://mxtoolbox.com/blacklists.aspx) - Queries multiple reputational sources for information about the IP or domain
+- [Quttera ThreatSign](http://quttera.com/) -  Scans the specified URL for the presence of malware.
+- [Reputation Authority](http://www.reputationauthority.org/) - Shows reputational data on specified domain or IP address.
+- [Sucuri SiteCheck](https://sitecheck.sucuri.net/) - Scans the URL for malware in real time and looks it up in several blacklists.
+- [Unmask Parasites](http://www.unmaskparasites.com/security-report/) - Looks up the URL in the Google Safe Browsing database.
+ 
+- [URL Query](http://urlquery.net/) - Looks up the URL in its database of suspicious sites and examines the site’s content.
+- [urlscan.io](https://urlscan.io/) - Examines the URL in real time and displays the requests it issues to render the page.
+- [URLVoid](http://www.urlvoid.com/) - - Looks up the URL in several blacklisting services.
+- [IPVoid](http://www.ipvoid.com/) - Looks up the IP in several blacklisting services.
+- [URIbl](https://admin.uribl.com/) - check URL is blacklist or not. 
+- [vURL](http://vurldissect.co.uk/) - Retrieves and displays the source code of the page; looks up its status in several blocklists.
+- [Zscaler Zulu URL Risk Analyzer](http://zulu.zscaler.com/) - Examines the URL using real-time and historical techniques.
 
 ## Threat Intel Gathering
+ - [AlienVault](https://otx.alienvault.com/api) - API sync Threat Intelligence available in OTX.
  - [Combine](https://github.com/mlsecproject/combine) - Tool to gather Threat Intelligence indicators from publicly available sources.
  - [ThreatMiner](https://www.threatminer.org/) - Data Mining for Threat Intelligence 
  - [Cymon.io](https://cymon.io) - Open Threat Intelligence - ```Cymon is the largest open tracker of malware, phishing, botnets, spam, etc.```
  - [Vulners](https://vulners.com/search?query=order:published) - Database-rich of Threat Intel.
  - [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/) - Cloud Threat Intelligence 
+ - [Deepviz](https://search.deepviz.com/) - Offers historical threat intel data about IPs, domains, etc.
+ - [RiskIQ](https://community.riskiq.com/) - RiskIQ Community brings petabytes of internet intelligence directly to your fingertips. 
  
  
  
