@@ -25,6 +25,9 @@
  - [Google Trends](https://trends.google.com/trends/) - widen your search scope.
  - [Google Alerts](https://www.google.com/alerts) - Monitor the web for interesting new content
  - [Google Dork CLI](https://github.com/jgor/dork-cli) - Command-line Google dork tool.
+ - [GooglePlus Search](http://googleplussearch.chromefans.org/) - query (Google+) public contents and profiles online.
+ - [G+ UserFeed](http://plusfeed.frosas.net/) - Export Google+ user activity to other services like Twitter, Facebook or Feedly.
+ 
  
  ## Github
  - [Copernicus](https://github.com/Soroboruo/Copernicus) - Osint tool to get results from more than 600 websites and whitepages about people.
@@ -187,5 +190,6 @@
 - [ElevenPath tools](https://www.elevenpaths.com/labs/tools/index.html#*) - Confidence on the Internet, Identity and Privacy, Threats and vulnerabilities, etc. 
 
 - [Just Metadata](https://github.com/ChrisTruncer/Just-Metadata) - Just-Metadata will allow you to quickly find the Top "X" number of states, cities, timezones, etc. that the loaded IP addresses are located in. It will allow you to search for IP addresses by country. You can search all IPs to find which ones are used in callbacks as identified by VirusTotal. Want to see if any IPs loaded have been documented as taking part of attacks via the Animus Project, Just-Metadata can do it.
-
+> Update v2017.11.20
+- [CircleCount](http://www.circlecount.com/) - CircleCount helps you better understand Social Media. 
 
