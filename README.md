@@ -92,6 +92,7 @@
 - [URIbl](https://admin.uribl.com/) - check URL is blacklist or not. 
 - [vURL](http://vurldissect.co.uk/) - Retrieves and displays the source code of the page; looks up its status in several blocklists.
 - [Zscaler Zulu URL Risk Analyzer](http://zulu.zscaler.com/) - Examines the URL using real-time and historical techniques.
+- [UpGuard ERA](https://app.upguard.com/webscan) - External Risk Assessment.
 
 ## Threat Intel Gathering
  - [MineMeld](https://live.paloaltonetworks.com/t5/MineMeld-Articles/Quick-tour-of-MineMeld-default-config/ta-p/72042) - Palo Alto Networks Threat Intel. 
