@@ -15,11 +15,12 @@
  - [OnionScan](https://onionscan.org/) - OnionScan is a free and open source tool for investigating the Dark Web. 
  - [Exonerator](https://exonerator.torproject.org/) - Enter an IP address and date to find out whether that address was used as a Tor relay.
  
- ## Twiiter 
+ ## Twitter 
  - [Tweet-tivist](http://www.tweetarchivist.com) - Powerful, Affordable Twitter Analytics
  - [1mil-Tweetmap](http://onemilliontweetmap.com/) - Tweet Map
  - [Tinfoleak](http://www.vicenteaguileradiaz.com/tools/) - “The most complete open-source tool for Twitter intelligence analysis” 
  - [Birdwatcher](https://github.com/michenriksen/birdwatcher) - Data analysis & OSINT framework
+ - [Twrench](https://twren.ch) - crawling spreading of ReTweet.
  
  ## g00gl3
  - [Google Trends](https://trends.google.com/trends/) - widen your search scope.
