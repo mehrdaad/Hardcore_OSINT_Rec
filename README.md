@@ -6,6 +6,21 @@
  ## Browser extensions
  - [ThreatPinch Lookup](https://github.com/cloudtracer/ThreatPinchLookup) - ThreatPinch Lookup creates informational tooltips when hovering oven an item of interest on any website. It helps speed up security investigations by automatically providing relevant information upon hovering over any IPv4 address, MD5 hash, SHA2 hash, and CVE title. It’s designed to be completely customizable and work with any rest API.
  
+ ## Metadata
+ - [Just Metadata](https://github.com/ChrisTruncer/Just-Metadata) - Just-Metadata will allow you to quickly find the Top "X" number of states, cities, timezones, etc. that the loaded IP addresses are located in. It will allow you to search for IP addresses by country. You can search all IPs to find which ones are used in callbacks as identified by VirusTotal. Want to see if any IPs loaded have been documented as taking part of attacks via the Animus Project, Just-Metadata can do it.
+ 
+ - [Jeffrey's Image Metadata Viewer](http://regex.info/blog/other-writings/online-exif-image-data-viewer) - Online Exif (Image Data) Viewer. 
+ - [Izito](http://www.izito.com/) - iZito is a meta search engine with a clever feature.
+ 
+ - [Ixquick](https://www.ixquick.com/) - Meta search engine that ranks results based on the number of “top 10” rankings a site receives from the various search engines.
+ - [Metacrawler](http://www.metacrawler.com/) - MetaCrawler is a metasearch engine program that blended web search results from Google, Yahoo!, Bing, Ask.com, About.com, MIVA, LookSmart and other popular search engine programs.
+ 
+ - [Webcrawler]() - WebCrawler was a metasearch engine that blends the top search results from Google Search and Yahoo! Search. WebCrawler also provides users the option to search for images, audio, video, news, yellow pages and white pages. 
+ 
+ - [Monstercrawler](http://monstercrawler.com/) - Meta Search Engine Monster Crawler allows a simultaneous multi-thread search of Google, Yahoo & Bing with just one click!
+ 
+ - [Pearltrees](http://www.pearltrees.com/markag/steam/id15736794#related) - Organize all your interests. Pearltrees claims to be among the first companies to provide an exposed interest graph. 
+ 
  ## IoT Search Engine
  - [NetDB.io](http://www.netdb.io/) -  IOT SEARCH ENGINE aggregator FOR SHODAN, NETDB, ZOOMEYE, CENSYS 
  - [Exploitee](https://www.exploitee.rs) - Recon hardwares bug/pwned/exploit
@@ -191,8 +206,8 @@
 
 - [ElevenPath tools](https://www.elevenpaths.com/labs/tools/index.html#*) - Confidence on the Internet, Identity and Privacy, Threats and vulnerabilities, etc. 
 
-- [Just Metadata](https://github.com/ChrisTruncer/Just-Metadata) - Just-Metadata will allow you to quickly find the Top "X" number of states, cities, timezones, etc. that the loaded IP addresses are located in. It will allow you to search for IP addresses by country. You can search all IPs to find which ones are used in callbacks as identified by VirusTotal. Want to see if any IPs loaded have been documented as taking part of attacks via the Animus Project, Just-Metadata can do it.
 > Update v2017.11.20
 - [CircleCount](http://www.circlecount.com/) - CircleCount helps you better understand Social Media. 
 > Update v2017.11.25
 - [McAfee SiteDigger v3](https://www.mcafee.com/us/downloads/free-tools/sitedigger.aspx) - Identify Web Site Information Leakage; Free Tool Utilizes Google Search Engine to Pinpoint Potential Exposures
+- [BlackBook Online](http://www.blackbookonline.info/) - free **PUBLIC**  records search site.
