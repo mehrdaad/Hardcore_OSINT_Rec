@@ -112,7 +112,7 @@
  
 - [Corona Atlas & Referencing System](http://corona.cast.uark.edu/) -  CORONA satellites took high-resolution images of most of the earth’s surface.
 - [EarthExplorer](https://earthexplorer.usgs.gov/) 
-
+- [Wikimapia](http://wikimapia.org) - Explore interactive map with Wiki-content integrated. 
 
 - [URL Query](http://urlquery.net/) - Looks up the URL in its database of suspicious sites and examines the site’s content.
 - [urlscan.io](https://urlscan.io/) - Examines the URL in real time and displays the requests it issues to render the page.
