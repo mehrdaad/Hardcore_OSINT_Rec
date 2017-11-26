@@ -72,8 +72,24 @@
  - [DNS Trails](http://server9.rscott.org/) - huge DNS records.
  - [DNS Tree](https://www.dnstree.com/) - Important information about your dns and IP. Check that your DNS resolver isn't hijacked.
 
-## Ransomeware Tracker
+## Maliciousware Tracker
+- [VirusTotal](https://www.virustotal.com)
+- [Malwr](https://malwr.com/) 
+- [MalShare](http://www.malshare.com/) - samples, malicous feeds, and Yara results.
+- [VirusShare](https://virusshare.com/) 
+- [Phage Tracker](https://tracker.phage.nz/samples/) 
+- [Malware.lu](https://malware.lu/) 
+- [Malware-Traffic-Analysis.net](http://www.malware-traffic-analysis.net/)
+
+- [theZoo](https://github.com/ytisf/theZoo) - A repository of LIVE malwares for your own joy and pleasure.
+- [ClamAV scanner](http://test-clamav.power-netz.de/) - [ClamAV](https://www.clamav.net/) engine online scanner.
+
+- [Malware Domain List](http://www.malwaredomainlist.com/mdl.php) - Looks up recently-reported malicious websites
+- [MalwareURL](http://www.malwareurl.com/listing-urls.php) - Looks up the URL in its historical list of malicious websites
 - [Ransome tracker](https://ransomwaretracker.abuse.ch/tracker/) - ransomware tracker.
+- [Sucuri SiteCheck](https://sitecheck.sucuri.net/) - Scans the URL for malware in real time and looks it up in several blacklists.
+- [Quttera ThreatSign](http://quttera.com/) -  Scans the specified URL for the presence of malware.
+- [URL Query](https://urlquery.net/) - service for detecting and analyzing web-based malware.
 
 ## Web
 - [SimilarWeb](https://www.similarweb.com) - Website insight. 
@@ -85,15 +101,12 @@
 - [Symantec WebPulse](https://sitereview.bluecoat.com/) - Looks up the website in BlueCoat’s database.
 
 - [TheMajecticMillion](https://majestic.com/reports/majestic-million) - The million domains we find with the most referring subnets.
-- [Malware Domain List](http://www.malwaredomainlist.com/mdl.php) - Looks up recently-reported malicious websites
-- [MalwareURL](http://www.malwareurl.com/listing-urls.php) - Looks up the URL in its historical list of malicious websites
 - [Sandbox URL Analyzer](https://www.url-analyzer.net/) - Examines the URL and files in real-time.
 - [IsItHacked](http://www.isithacked.com/) - Performs several checks in real time and consults some blacklists.
 - [IsItPhising](http://isitphishing.org/) - Assesses the specified URL in real-time.
 - [MxToolbox](http://mxtoolbox.com/blacklists.aspx) - Queries multiple reputational sources for information about the IP or domain
-- [Quttera ThreatSign](http://quttera.com/) -  Scans the specified URL for the presence of malware.
+
 - [Reputation Authority](http://www.reputationauthority.org/) - Shows reputational data on specified domain or IP address.
-- [Sucuri SiteCheck](https://sitecheck.sucuri.net/) - Scans the URL for malware in real time and looks it up in several blacklists.
 - [Unmask Parasites](http://www.unmaskparasites.com/security-report/) - Looks up the URL in the Google Safe Browsing database.
  
 - [URL Query](http://urlquery.net/) - Looks up the URL in its database of suspicious sites and examines the site’s content.
