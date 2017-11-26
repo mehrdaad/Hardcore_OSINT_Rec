@@ -72,7 +72,7 @@
  - [DNS Trails](http://server9.rscott.org/) - huge DNS records.
  - [DNS Tree](https://www.dnstree.com/) - Important information about your dns and IP. Check that your DNS resolver isn't hijacked.
 
-## Maliciousware Tracker
+## Malicious-ware Tracker
 - [VirusTotal](https://www.virustotal.com)
 - [Malwr](https://malwr.com/) 
 - [MalShare](http://www.malshare.com/) - samples, malicous feeds, and Yara results.
@@ -109,6 +109,11 @@
 - [Reputation Authority](http://www.reputationauthority.org/) - Shows reputational data on specified domain or IP address.
 - [Unmask Parasites](http://www.unmaskparasites.com/security-report/) - Looks up the URL in the Google Safe Browsing database.
  
+ 
+- [Corona Atlas & Referencing System](http://corona.cast.uark.edu/) -  CORONA satellites took high-resolution images of most of the earth’s surface.
+- [EarthExplorer](https://earthexplorer.usgs.gov/) 
+
+
 - [URL Query](http://urlquery.net/) - Looks up the URL in its database of suspicious sites and examines the site’s content.
 - [urlscan.io](https://urlscan.io/) - Examines the URL in real time and displays the requests it issues to render the page.
 - [URLVoid](http://www.urlvoid.com/) - - Looks up the URL in several blacklisting services.
@@ -118,13 +123,22 @@
 - [Zscaler Zulu URL Risk Analyzer](http://zulu.zscaler.com/) - Examines the URL using real-time and historical techniques.
 - [UpGuard ERA](https://app.upguard.com/webscan) - External Risk Assessment.
 - [BuiltWith](https://builtwith.com/) - Find out what websites are built with.
+- [Spy On Web](http://www.spyonweb.com/) 
+- [BlackBook Online](http://www.blackbookonline.info/) - free **PUBLIC**  records search site.
+- [Certificate Search](https://crt.sh/) - Certificate-crawling for domains. 
+- [OpenCorporates](https://opencorporates.com/) - The largest open database of companies in the world. 
+- [SameID](http://sameid.net/) - Cut through hours of keyword research in seconds.
 
  ## Metadata
  - [Just Metadata](https://github.com/ChrisTruncer/Just-Metadata) - Just-Metadata will allow you to quickly find the Top "X" number of states, cities, timezones, etc. that the loaded IP addresses are located in. It will allow you to search for IP addresses by country. You can search all IPs to find which ones are used in callbacks as identified by VirusTotal. Want to see if any IPs loaded have been documented as taking part of attacks via the Animus Project, Just-Metadata can do it.
  
  - [Jeffrey's Image Metadata Viewer](http://regex.info/blog/other-writings/online-exif-image-data-viewer) - Online Exif (Image Data) Viewer. 
- - [Izito](http://www.izito.com/) - iZito is a meta search engine with a clever feature.
+ - [FotoForensic](https://fotoforensics.com/) - EXIF Image Metada Forensic.
+ - [Stolen Camera Finder](http://www.stolencamerafinder.com/) - use the serial number stored in your photos to search the web for other photos taken with the same camera.
+ - [Karma Decay](http://karmadecay.com/) - Reverse image search on Reddit.com (beta) 
+ - [RootAbout](www.rootabout.com) - a search-by-image service that has indexed the collections at the Internet Archive.
  
+ - [Izito](http://www.izito.com/) - iZito is a meta search engine with a clever feature.
  - [Ixquick](https://www.ixquick.com/) - Meta search engine that ranks results based on the number of “top 10” rankings a site receives from the various search engines.
  - [Metacrawler](http://www.metacrawler.com/) - MetaCrawler is a metasearch engine program that blended web search results from Google, Yahoo!, Bing, Ask.com, About.com, MIVA, LookSmart and other popular search engine programs.
  
@@ -223,12 +237,7 @@
 - [WHOIS RESTFul Web Service API](https://www.arin.net/resources/whoisrws/whois_api.html#whoisrws) - ARIN - American Registry for Internet Numbers
 - [Mimir](https://github.com/NullArray/Mimir) - OSINT Threat Intel Interface (work as a CLI to HoneyDB) 
 - [Intel Technique Search tools](https://inteltechniques.com/menu.html) - osint links, blog, podcast, docs, etc. 
-
 - [ElevenPath tools](https://www.elevenpaths.com/labs/tools/index.html#*) - Confidence on the Internet, Identity and Privacy, Threats and vulnerabilities, etc. 
-
 - [CircleCount](http://www.circlecount.com/) - CircleCount helps you better understand Social Media. 
 - [McAfee SiteDigger v3](https://www.mcafee.com/us/downloads/free-tools/sitedigger.aspx) - Identify Web Site Information Leakage; Free Tool Utilizes Google Search Engine to Pinpoint Potential Exposures
-- [BlackBook Online](http://www.blackbookonline.info/) - free **PUBLIC**  records search site.
-- [Certificate Search](https://crt.sh/) - Certificate-crawling for domains. 
 - [Socnetv](http://socnetv.org/) - Opensource tool for social network analysis. 
-
