@@ -1,25 +1,14 @@
 # Free_OSINT_Rec
+
+ ## Linux Security Top 100 Tools 
+ - [LinuxSecurity.Expert](https://linuxsecurity.expert/security-tools/top-100)
+ 
  ## News 
  - [Cyberwire](https://www.thecyberwire.com/index.html) - The CyberWire is a free, community-driven cyber security news service based in Baltimore. 
  - [APT Group & Operations](https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml#) - Worldwide APT Group. 
  
  ## Browser extensions
  - [ThreatPinch Lookup](https://github.com/cloudtracer/ThreatPinchLookup) - ThreatPinch Lookup creates informational tooltips when hovering oven an item of interest on any website. It helps speed up security investigations by automatically providing relevant information upon hovering over any IPv4 address, MD5 hash, SHA2 hash, and CVE title. It’s designed to be completely customizable and work with any rest API.
- 
- ## Metadata
- - [Just Metadata](https://github.com/ChrisTruncer/Just-Metadata) - Just-Metadata will allow you to quickly find the Top "X" number of states, cities, timezones, etc. that the loaded IP addresses are located in. It will allow you to search for IP addresses by country. You can search all IPs to find which ones are used in callbacks as identified by VirusTotal. Want to see if any IPs loaded have been documented as taking part of attacks via the Animus Project, Just-Metadata can do it.
- 
- - [Jeffrey's Image Metadata Viewer](http://regex.info/blog/other-writings/online-exif-image-data-viewer) - Online Exif (Image Data) Viewer. 
- - [Izito](http://www.izito.com/) - iZito is a meta search engine with a clever feature.
- 
- - [Ixquick](https://www.ixquick.com/) - Meta search engine that ranks results based on the number of “top 10” rankings a site receives from the various search engines.
- - [Metacrawler](http://www.metacrawler.com/) - MetaCrawler is a metasearch engine program that blended web search results from Google, Yahoo!, Bing, Ask.com, About.com, MIVA, LookSmart and other popular search engine programs.
- 
- - [Webcrawler]() - WebCrawler was a metasearch engine that blends the top search results from Google Search and Yahoo! Search. WebCrawler also provides users the option to search for images, audio, video, news, yellow pages and white pages. 
- 
- - [Monstercrawler](http://monstercrawler.com/) - Meta Search Engine Monster Crawler allows a simultaneous multi-thread search of Google, Yahoo & Bing with just one click!
- 
- - [Pearltrees](http://www.pearltrees.com/markag/steam/id15736794#related) - Organize all your interests. Pearltrees claims to be among the first companies to provide an exposed interest graph. 
  
  ## IoT Search Engine
  - [NetDB.io](http://www.netdb.io/) -  IOT SEARCH ENGINE aggregator FOR SHODAN, NETDB, ZOOMEYE, CENSYS 
@@ -29,6 +18,15 @@
  - [OSINT Tor](https://oint.ctrlbox.com/) - OSINT Tor 
  - [OnionScan](https://onionscan.org/) - OnionScan is a free and open source tool for investigating the Dark Web. 
  - [Exonerator](https://exonerator.torproject.org/) - Enter an IP address and date to find out whether that address was used as a Tor relay.
+ 
+ ## LinkedIn 
+ - [Endorser](https://github.com/eth0izzle/the-endorser) - OSINT tool that allows you to draw out relationships between people on LinkedIn via endorsements/skills. 
+ 
+ ## Facebook
+ - [OSINT Fb reset passwd](https://github.com/PaulSec/osint-facebook-reset-password) - Python util to retrieve full display name and profile picture from a single email address.
+ - [Fb Location OSINT](https://github.com/joren485/Facebook-Location-OSINT) - Retrieve someones private Facebook location, using their public information.
+ - [Facebook Certificate Transparency Monitoring](https://developers.facebook.com/tools/ct/) 
+ - [fbStalker](https://github.com/milo2012/osintstalker) - OSINT tool for Facebook - Based on Facebook Graph and other stuff.
  
  ## Twitter 
  - [Tweet-tivist](http://www.tweetarchivist.com) - Powerful, Affordable Twitter Analytics
@@ -43,8 +41,8 @@
  - [Google Dork CLI](https://github.com/jgor/dork-cli) - Command-line Google dork tool.
  - [GooglePlus Search](http://googleplussearch.chromefans.org/) - query (Google+) public contents and profiles online.
  - [G+ UserFeed](http://plusfeed.frosas.net/) - Export Google+ user activity to other services like Twitter, Facebook or Feedly.
- 
- 
+ - [Google Transparency Lookup Tool](https://transparencyreport.google.com/https/certificates) 
+
  ## Github
  - [Copernicus](https://github.com/Soroboruo/Copernicus) - Osint tool to get results from more than 600 websites and whitepages about people.
   - [GitHub origazation](https://github.com/michenriksen/gitrob) - reconnaissance tool
@@ -56,9 +54,6 @@
  - [Top tools @ 2014](http://www.toolswatch.org/2015/01/2014-top-security-tools-as-voted-by-toolswatch-org-readers/)
  - [Top tools @ 2015](http://www.toolswatch.org/2016/02/2015-top-security-tools-as-voted-by-toolswatch-org-readers/)
  - [Top tools @ 2016](http://www.toolswatch.org/2017/02/2016-top-security-tools-as-voted-by-toolswatch-org-readers/)
-
- ## Linux Security Top 100 Tools 
- - [LinuxSecurity.Expert](https://linuxsecurity.expert/security-tools/top-100)
 
  ## Graphcrawling 
  - [Gephi](https://gephi.org/) - The Open Graph Viz Platform, realtime visualization. 
@@ -109,7 +104,25 @@
 - [vURL](http://vurldissect.co.uk/) - Retrieves and displays the source code of the page; looks up its status in several blocklists.
 - [Zscaler Zulu URL Risk Analyzer](http://zulu.zscaler.com/) - Examines the URL using real-time and historical techniques.
 - [UpGuard ERA](https://app.upguard.com/webscan) - External Risk Assessment.
+- [BuiltWith](https://builtwith.com/) - Find out what websites are built with.
 
+ ## Metadata
+ - [Just Metadata](https://github.com/ChrisTruncer/Just-Metadata) - Just-Metadata will allow you to quickly find the Top "X" number of states, cities, timezones, etc. that the loaded IP addresses are located in. It will allow you to search for IP addresses by country. You can search all IPs to find which ones are used in callbacks as identified by VirusTotal. Want to see if any IPs loaded have been documented as taking part of attacks via the Animus Project, Just-Metadata can do it.
+ 
+ - [Jeffrey's Image Metadata Viewer](http://regex.info/blog/other-writings/online-exif-image-data-viewer) - Online Exif (Image Data) Viewer. 
+ - [Izito](http://www.izito.com/) - iZito is a meta search engine with a clever feature.
+ 
+ - [Ixquick](https://www.ixquick.com/) - Meta search engine that ranks results based on the number of “top 10” rankings a site receives from the various search engines.
+ - [Metacrawler](http://www.metacrawler.com/) - MetaCrawler is a metasearch engine program that blended web search results from Google, Yahoo!, Bing, Ask.com, About.com, MIVA, LookSmart and other popular search engine programs.
+ 
+ - [Webcrawler]() - WebCrawler was a metasearch engine that blends the top search results from Google Search and Yahoo! Search. WebCrawler also provides users the option to search for images, audio, video, news, yellow pages and white pages. 
+ 
+ - [Monstercrawler](http://monstercrawler.com/) - Meta Search Engine Monster Crawler allows a simultaneous multi-thread search of Google, Yahoo & Bing with just one click!
+ 
+ - [Pearltrees](http://www.pearltrees.com/markag/steam/id15736794#related) - Organize all your interests. Pearltrees claims to be among the first companies to provide an exposed interest graph. 
+ - [CommonCrawl](https://commoncrawl.org/the-data/examples/) - It contains raw web page data, extracted metadata and text extractions.
+ 
+ 
 ## Threat Intel Gathering
  - [MineMeld](https://live.paloaltonetworks.com/t5/MineMeld-Articles/Quick-tour-of-MineMeld-default-config/ta-p/72042) - Palo Alto Networks Threat Intel. 
  - [GOSINT](https://github.com/ciscocsirt/gosint) - The GOSINT framework is a project used for collecting, processing, and exporting high quality indicators of compromise (IOCs).
@@ -136,6 +149,7 @@
  - [C1fApps](https://www.c1fapp.com/) - Open Source Cyber intelligence threat feeds.
  
  # Changelog 
+ > Update v2016
  - [Real Intel Threat Analysis](https://github.com/ocmdev/rita) - open source framework for network traffic analysis.
  - [Little_Sis](https://littlesis.org/) - a free database of who-knows-who at the heights of business and government
  - [Spokeo](https://www.spokeo.com/) - people search engine that organizes white pages listings, public records and social network information into simple profiles
@@ -147,7 +161,6 @@
  - [Maltergo](https://www.paterva.com/web7/) - Threat Intelligence Gathering
  - [Deep Magic](https://www.deepmagic.com/) - DNS records and others.
 
- - [Record_Future](https://www.recordedfuture.com/) - predict future .. or something??
  - [Geo_creepy](http://www.geocreepy.com/) - Geo-OSINT gathering info through social platform
  - [S.T.A.L.K.E.R](https://immunityproducts.blogspot.co.uk/2012/08/stalker-analyzing-your-wireless-data.html) - show what you can do in 15min.
  - [TinEye](https://www.tineye.com/) - Search by image and find where that image appears online 
@@ -157,7 +170,6 @@
  - [ServerSniff](http://www.serversniff.net/index.php) - for netsys, sysads, webdev, secops
  - [Recon-NG modules](https://github.com/scumsec/Recon-ng-modules) 
  - [Globe_ftp_stored](http://globalfilesearch.com/)
- - [Domain T.Over - Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool 
  
  - [job|seeker](https://www.glassdoor.com/index.htm) - Find the job that fits your life
  - [MyIPNeighbours](http://www.my-ip-neighbors.com) - Find sites on the same IP address
@@ -183,31 +195,27 @@
  
  - [PlainText Alert](https://chrome.google.com/webstore/detail/plain-text-offenders-aler/ggndaknbenjhnkddgjnjjcmomgaidhmd?hl=en-US) - check whether sites have stored your p@ss in plaintext or not
  
- > Update v2017.10.10  
+ > Update v2017.OCT 
  - [Belati](https://github.com/aancw/Belati) - traditional Swiss Army Knife for OSINT
  - [Alephdata/Aleph](https://github.com/alephdata/aleph) - A toolkit for data search, management and anlaysis in investigative reporting. Sift through large sets of structured and unstructured data, and find the people and companies you look for.
  - [OSINT Framework](https://github.com/lockfale/OSINT-Framework) - The intention is to help people find OSINT resources that return free information.
  - [Intrigue.io/Intrigue-core](http://intrigue.io/) - Discover your attack surface! 
- 
- > Update v2017.10.12
  - [ATSCAN](https://github.com/AlisamTechnology/ATSCAN) - Advanced Search & Mass Exploit Scanner
 
-
- > Update v2017.11.10
+ > Update v2017.NOV
  - [Trape](https://github.com/boxug/trape) - Learn to track the world, to avoid being traced.
  - [Dradis Framework](https://github.com/dradis/dradis-ce) - Dradis Framework: Colllaboration and reporting for IT Security teams
  - [Datasploit](https://github.com/DataSploit/datasploit) - OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc., aggregate all the raw data, and give data in multiple formats.
  - [OSINT-SPY](https://github.com/SharadKumar97/OSINT-SPY) - It can be used by Data Miners, Infosec Researchers, Penetration Testers and cyber crime investigator in order to find deep information about their target.
-
- > Update v2017.11.12
 - [WHOIS RESTFul Web Service API](https://www.arin.net/resources/whoisrws/whois_api.html#whoisrws) - ARIN - American Registry for Internet Numbers
 - [Mimir](https://github.com/NullArray/Mimir) - OSINT Threat Intel Interface (work as a CLI to HoneyDB) 
 - [Intel Technique Search tools](https://inteltechniques.com/menu.html) - osint links, blog, podcast, docs, etc. 
 
 - [ElevenPath tools](https://www.elevenpaths.com/labs/tools/index.html#*) - Confidence on the Internet, Identity and Privacy, Threats and vulnerabilities, etc. 
 
-> Update v2017.11.20
 - [CircleCount](http://www.circlecount.com/) - CircleCount helps you better understand Social Media. 
-> Update v2017.11.25
 - [McAfee SiteDigger v3](https://www.mcafee.com/us/downloads/free-tools/sitedigger.aspx) - Identify Web Site Information Leakage; Free Tool Utilizes Google Search Engine to Pinpoint Potential Exposures
 - [BlackBook Online](http://www.blackbookonline.info/) - free **PUBLIC**  records search site.
+- [Certificate Search](https://crt.sh/) - Certificate-crawling for domains. 
+- [Socnetv](http://socnetv.org/) - Opensource tool for social network analysis. 
+
