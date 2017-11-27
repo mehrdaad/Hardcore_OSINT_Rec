@@ -152,7 +152,10 @@
  
 ## Threat Intel Gathering
  - [MineMeld](https://live.paloaltonetworks.com/t5/MineMeld-Articles/Quick-tour-of-MineMeld-default-config/ta-p/72042) - Palo Alto Networks Threat Intel. 
+ 
+ - [Mimir](https://github.com/NullArray/Mimir) - OSINT Threat Intel Interface (work as a CLI to HoneyDB).
  - [GOSINT](https://github.com/ciscocsirt/gosint) - The GOSINT framework is a project used for collecting, processing, and exporting high quality indicators of compromise (IOCs).
+ 
  
  - [SOLTRA EDGE®](https://soltra.com/en/) - Soltra Edge is the most widely used Cyber Threat Communications Platform for two-way sharing of cybersecurity information among peers, trust groups, communities and government.
  
@@ -234,8 +237,7 @@
  - [Dradis Framework](https://github.com/dradis/dradis-ce) - Dradis Framework: Colllaboration and reporting for IT Security teams
  - [Datasploit](https://github.com/DataSploit/datasploit) - OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc., aggregate all the raw data, and give data in multiple formats.
  - [OSINT-SPY](https://github.com/SharadKumar97/OSINT-SPY) - It can be used by Data Miners, Infosec Researchers, Penetration Testers and cyber crime investigator in order to find deep information about their target.
-- [WHOIS RESTFul Web Service API](https://www.arin.net/resources/whoisrws/whois_api.html#whoisrws) - ARIN - American Registry for Internet Numbers
-- [Mimir](https://github.com/NullArray/Mimir) - OSINT Threat Intel Interface (work as a CLI to HoneyDB) 
+- [WHOIS RESTFul Web Service API](https://www.arin.net/resources/whoisrws/whois_api.html#whoisrws) - ARIN - American Registry for Internet Numbers.
 - [Intel Technique Search tools](https://inteltechniques.com/menu.html) - osint links, blog, podcast, docs, etc. 
 - [ElevenPath tools](https://www.elevenpaths.com/labs/tools/index.html#*) - Confidence on the Internet, Identity and Privacy, Threats and vulnerabilities, etc. 
 - [CircleCount](http://www.circlecount.com/) - CircleCount helps you better understand Social Media. 
