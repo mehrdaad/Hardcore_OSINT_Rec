@@ -1,4 +1,5 @@
-# Free_OSINT_Rec
+# Hardcore_OSINT_Rec 
+ 🎮💸🔎📷🎌 
 
  ## Linux Security Top 100 Tools 
  - [LinuxSecurity.Expert](https://linuxsecurity.expert/security-tools/top-100)
