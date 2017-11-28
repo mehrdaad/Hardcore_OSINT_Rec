@@ -1,8 +1,9 @@
 # Hardcore_OSINT_Rec 
  🎮💸🔎📷🎌 
 
- ## Linux Security Top 100 Tools 
+ ## Linux Security Tools 
  - [LinuxSecurity.Expert](https://linuxsecurity.expert/security-tools/top-100)
+ - [Glyptodon](http://blog.sevagas.com/?-Glyptodon-) 
  
  ## News 
  - [Cyberwire](https://www.thecyberwire.com/index.html) - The CyberWire is a free, community-driven cyber security news service based in Baltimore. 
