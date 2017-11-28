@@ -1,9 +1,7 @@
 # Hardcore_OSINT_Rec 
  🎮💸🔎📷🎌 
 
- ## Linux Security Tools 
- - [LinuxSecurity.Expert](https://linuxsecurity.expert/security-tools/top-100)
- - [Glyptodon](http://blog.sevagas.com/?-Glyptodon-) 
+
  
  ## News 
  - [Cyberwire](https://www.thecyberwire.com/index.html) - The CyberWire is a free, community-driven cyber security news service based in Baltimore. 
@@ -50,13 +48,6 @@
   - [GitHub origazation](https://github.com/michenriksen/gitrob) - reconnaissance tool
   - [Github Dork](https://github.com/techgaun/github-dorks) - Collection of github dorks and helper tool to automate the process of checking dorks.
   
- ## Toolswatch
- - [Asernal Tools](https://github.com/toolswatch/blackhat-arsenal-tools)
- - [Top tools @ 2013](http://www.toolswatch.org/2013/12/2013-top-security-tools-as-voted-by-toolswatch-org-readers/)
- - [Top tools @ 2014](http://www.toolswatch.org/2015/01/2014-top-security-tools-as-voted-by-toolswatch-org-readers/)
- - [Top tools @ 2015](http://www.toolswatch.org/2016/02/2015-top-security-tools-as-voted-by-toolswatch-org-readers/)
- - [Top tools @ 2016](http://www.toolswatch.org/2017/02/2016-top-security-tools-as-voted-by-toolswatch-org-readers/)
-
  ## Graphcrawling 
  - [Gephi](https://gephi.org/) - The Open Graph Viz Platform, realtime visualization. 
  - [Spotify Network](http://labs.polsys.net/playground/spotify/) - related Spotify artist 
