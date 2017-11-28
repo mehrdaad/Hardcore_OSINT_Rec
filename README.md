@@ -1,7 +1,6 @@
 # Hardcore_OSINT_Rec 
  🎮💸🔎📷🎌 
 
-
  
  ## News 
  - [Cyberwire](https://www.thecyberwire.com/index.html) - The CyberWire is a free, community-driven cyber security news service based in Baltimore. 
@@ -10,6 +9,13 @@
  ## Browser extensions
  - [ThreatPinch Lookup](https://github.com/cloudtracer/ThreatPinchLookup) - ThreatPinch Lookup creates informational tooltips when hovering oven an item of interest on any website. It helps speed up security investigations by automatically providing relevant information upon hovering over any IPv4 address, MD5 hash, SHA2 hash, and CVE title. It’s designed to be completely customizable and work with any rest API.
  
+ ## Great Firewall 
++ [Cloudwards](https://www.cloudwards.net/tools/chinese-firewall-test/)
+
++ [GreatFire dot ORG](https://en.greatfire.org/analyzer)
+
++ [HikingFW](https://hikinggfw.org)
+
  ## IoT Search Engine
  - [NetDB.io](http://www.netdb.io/) -  IOT SEARCH ENGINE aggregator FOR SHODAN, NETDB, ZOOMEYE, CENSYS 
  - [Exploitee](https://www.exploitee.rs) - Recon hardwares bug/pwned/exploit
