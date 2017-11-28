@@ -14,7 +14,6 @@
 ## Mac 🍎
 - [Objective-See Free tools](https://objective-see.com/products.html) 
 - [DEFCON14 Mac Security](https://www.defcon.org/images/defcon-14/dc-14-presentations/DC-14-Edge-Security.pdf) 
-- 
 
 # Helpful links
 | REPO                                                   |    RESYNC    | NUM. OF TOOLS |  
