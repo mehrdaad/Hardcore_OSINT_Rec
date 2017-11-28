@@ -15,9 +15,15 @@
 - [Objective-See Free tools](https://objective-see.com/products.html) 
 - [DEFCON14 Mac Security](https://www.defcon.org/images/defcon-14/dc-14-presentations/DC-14-Edge-Security.pdf) 
 
-# Helpful links
+### Helpful links
 | REPO                                                   |    RESYNC    | NUM. OF TOOLS |  
 |--------------------------------------------------------|--------------|---------------|
 | [Kali](https://en.kali.tools/all/?)                    |    Oct-29    |     1916      |
 | [BlackArch](https://blackarch.org/tools.html)          |    Oct-29    |     1910      |
 
+
+# ANONYMITY
+
+**[That One Privacy Site](https://thatoneprivacysite.net/)**
++ [Chain VPN for complete anonymity](https://null-byte.wonderhowto.com/how-to/chain-vpns-for-complete-anonymity-0131368/)
++ [Proxychains-NG](https://github.com/rofl0r/proxychains-ng) - New-gen preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies.
