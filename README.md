@@ -243,3 +243,6 @@
 - [CircleCount](http://www.circlecount.com/) - CircleCount helps you better understand Social Media. 
 - [McAfee SiteDigger v3](https://www.mcafee.com/us/downloads/free-tools/sitedigger.aspx) - Identify Web Site Information Leakage; Free Tool Utilizes Google Search Engine to Pinpoint Potential Exposures
 - [Socnetv](http://socnetv.org/) - Opensource tool for social network analysis. 
+> Update v2017.DEC
+- [CrimeFlare](http://www.crimeflare.biz/cfs.html) - Uncovering bad guys hiding behind CloudFlare.
+
