@@ -90,6 +90,14 @@
 - [Quttera ThreatSign](http://quttera.com/) -  Scans the specified URL for the presence of malware.
 - [URL Query](https://urlquery.net/) - service for detecting and analyzing web-based malware.
 
+## Live map 
+
+- [Corona Atlas & Referencing System](http://corona.cast.uark.edu/) -  CORONA satellites took high-resolution images of most of the earth’s surface.
+- [EarthExplorer](https://earthexplorer.usgs.gov/) 
+- [Wikimapia](http://wikimapia.org) - Explore interactive map with Wiki-content integrated. 
+- [FlightRadar24](https://www.flightradar24.com) - Live air traffic 
+- [RSOE](http://hisz.rsoe.hu/alertmap/index2.php) - Emergency and Disaster Information Service.
+
 ## Web
 - [SimilarWeb](https://www.similarweb.com) - Website insight. 
 - [Desenmascara](http://desenmascara.me/) - Flags websites suspected of selling counterfeit products.
@@ -108,11 +116,6 @@
 - [Reputation Authority](http://www.reputationauthority.org/) - Shows reputational data on specified domain or IP address.
 - [Unmask Parasites](http://www.unmaskparasites.com/security-report/) - Looks up the URL in the Google Safe Browsing database.
  
- 
-- [Corona Atlas & Referencing System](http://corona.cast.uark.edu/) -  CORONA satellites took high-resolution images of most of the earth’s surface.
-- [EarthExplorer](https://earthexplorer.usgs.gov/) 
-- [Wikimapia](http://wikimapia.org) - Explore interactive map with Wiki-content integrated. 
-
 - [URL Query](http://urlquery.net/) - Looks up the URL in its database of suspicious sites and examines the site’s content.
 - [urlscan.io](https://urlscan.io/) - Examines the URL in real time and displays the requests it issues to render the page.
 - [URLVoid](http://www.urlvoid.com/) - - Looks up the URL in several blacklisting services.
@@ -245,4 +248,7 @@
 - [Socnetv](http://socnetv.org/) - Opensource tool for social network analysis. 
 > Update v2017.DEC
 - [CrimeFlare](http://www.crimeflare.biz/cfs.html) - Uncovering bad guys hiding behind CloudFlare.
+- [TCP Utils](https://www.tcpiputils.com/) - Ultimate online investigation tools
+- [Insecurecam](https://www.insecam.org/en/) - World biggest online camera directory 
+- [Twilio](https://www.twilio.com/lookup) - Phone Validator API 
 
