@@ -229,7 +229,7 @@
  - [SpiderF00t](http://www.spiderfoot.net/) - Open Source Intelligence Automation 🥂
  
  - [PlainText Alert](https://chrome.google.com/webstore/detail/plain-text-offenders-aler/ggndaknbenjhnkddgjnjjcmomgaidhmd?hl=en-US) - check whether sites have stored your p@ss in plaintext or not
- - [InstanctCheckmate](https://www.instantcheckmate.com) - The Leading Background Search and People Search tool on the internet.
+ - [InstantCheckmate](https://www.instantcheckmate.com) - The Leading Background Search and People Search tool on the internet.
  
  > Update v2017.OCT 
  - [Belati](https://github.com/aancw/Belati) - traditional Swiss Army Knife for OSINT
@@ -255,4 +255,4 @@
 - [Insecurecam](https://www.insecam.org/en/) - World biggest online camera directory 
 - [Twilio](https://www.twilio.com/lookup) - Phone Validator API 
 - [IPVM v3](https://calculator.ipvm.com/) - IPVM Camera Calculator V3
-- 
+
