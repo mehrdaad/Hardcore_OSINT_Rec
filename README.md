@@ -70,6 +70,7 @@
  - [PTR list](http://ptrarchive.com/) - Over 166 billion reverse DNS entries from 2008 to the present.
  - [DNS Trails](http://server9.rscott.org/) - huge DNS records.
  - [DNS Tree](https://www.dnstree.com/) - Important information about your dns and IP. Check that your DNS resolver isn't hijacked.
+ - [DomainDossier](https://centralops.net/co/DomainDossier.aspx) - Investigate domains and IP addresses.
 
 ## Malicious-ware Tracker
 - [VirusTotal](https://www.virustotal.com)
@@ -130,6 +131,7 @@
 - [Certificate Search](https://crt.sh/) - Certificate-crawling for domains. 
 - [OpenCorporates](https://opencorporates.com/) - The largest open database of companies in the world. 
 - [SameID](http://sameid.net/) - Cut through hours of keyword research in seconds.
+- [SSL Server Test](https://www.ssllabs.com/ssltest/index.html) - powered by Qualys.
 
  ## Metadata
  - [Just Metadata](https://github.com/ChrisTruncer/Just-Metadata) - Just-Metadata will allow you to quickly find the Top "X" number of states, cities, timezones, etc. that the loaded IP addresses are located in. It will allow you to search for IP addresses by country. You can search all IPs to find which ones are used in callbacks as identified by VirusTotal. Want to see if any IPs loaded have been documented as taking part of attacks via the Animus Project, Just-Metadata can do it.
@@ -227,6 +229,7 @@
  - [SpiderF00t](http://www.spiderfoot.net/) - Open Source Intelligence Automation 🥂
  
  - [PlainText Alert](https://chrome.google.com/webstore/detail/plain-text-offenders-aler/ggndaknbenjhnkddgjnjjcmomgaidhmd?hl=en-US) - check whether sites have stored your p@ss in plaintext or not
+ - [InstanctCheckmate](https://www.instantcheckmate.com) - The Leading Background Search and People Search tool on the internet.
  
  > Update v2017.OCT 
  - [Belati](https://github.com/aancw/Belati) - traditional Swiss Army Knife for OSINT
@@ -251,4 +254,5 @@
 - [TCP Utils](https://www.tcpiputils.com/) - Ultimate online investigation tools
 - [Insecurecam](https://www.insecam.org/en/) - World biggest online camera directory 
 - [Twilio](https://www.twilio.com/lookup) - Phone Validator API 
-
+- [IPVM v3](https://calculator.ipvm.com/) - IPVM Camera Calculator V3
+- 
