@@ -16,7 +16,8 @@
 - [DEFCON14 Mac Security](https://www.defcon.org/images/defcon-14/dc-14-presentations/DC-14-Edge-Security.pdf) 
 
 ## Gray Hat tools
-- [Phenolit ORG](http://www.phenoelit.org/fr/tools.html) 
+- [Phenolit ORG](http://www.phenoelit.org/fr/tools.html)
+- [Pentest-tools](https://pentest-tools.com) 
 
 ### Helpful links
 | REPO                                                   |    RESYNC    | NUM. OF TOOLS |  
