@@ -1,3 +1,7 @@
+## Materials 
+- [How to hack a turned-off computer](https://www.blackhat.com/docs/eu-17/materials/eu-17-Goryachy-How-To-Hack-A-Turned-Off-Computer-Or-Running-Unsigned-Code-In-Intel-Management-Engine.pdf) 
+
+
 # [BlackHat Europe 2017 Arsenal](https://www.blackhat.com/eu-17/arsenal/schedule/) - 🕵 88% 
 
 **1) CYBOT - OPEN-SOURCE THREAT INTELLIGENCE CHAT BOT (REVAMPED)**
