@@ -1,7 +1,7 @@
 # Hardcore_OSINT_Rec 
- 🎮💸🔎📷🎌 
+ <p align="center"><img src="https://i.imgur.com/85zvb3s.png"></p>
 
- 
+
  ## News 
  - [Cyberwire](https://www.thecyberwire.com/index.html) - The CyberWire is a free, community-driven cyber security news service based in Baltimore. 
  - [APT Group & Operations](https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml#) - Worldwide APT Group. 
@@ -9,6 +9,7 @@
  ## Browser extensions
  - [ThreatPinch Lookup](https://github.com/cloudtracer/ThreatPinchLookup) - ThreatPinch Lookup creates informational tooltips when hovering oven an item of interest on any website. It helps speed up security investigations by automatically providing relevant information upon hovering over any IPv4 address, MD5 hash, SHA2 hash, and CVE title. It’s designed to be completely customizable and work with any rest API.
  
+ - [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) - Identify technology on websites
  ## Great Firewall 
 + [Cloudwards](https://www.cloudwards.net/tools/chinese-firewall-test/)
 
@@ -27,6 +28,9 @@
  
  ## LinkedIn 
  - [Endorser](https://github.com/eth0izzle/the-endorser) - OSINT tool that allows you to draw out relationships between people on LinkedIn via endorsements/skills. 
+ 
+ ## Telegram 
+ - [Tsear.ch](http://www.tsear.ch) — Telegram messenger search-service, and Telegram channels and public chats store.
  
  ## Facebook
  - [OSINT Fb reset passwd](https://github.com/PaulSec/osint-facebook-reset-password) - Python util to retrieve full display name and profile picture from a single email address.
