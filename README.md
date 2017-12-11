@@ -46,6 +46,7 @@
  - [Twrench](https://twren.ch) - crawling spreading of ReTweet.
  
  ## g00gl3
+ - [GooHak](https://github.com/1N3/Goohak/) - automated Google-hacking queries. 
  - [Google Trends](https://trends.google.com/trends/) - widen your search scope.
  - [Google Alerts](https://www.google.com/alerts) - Monitor the web for interesting new content
  - [Google Dork CLI](https://github.com/jgor/dork-cli) - Command-line Google dork tool.
