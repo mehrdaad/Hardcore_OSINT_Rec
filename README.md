@@ -143,6 +143,7 @@
 - [OpenCorporates](https://opencorporates.com/) - The largest open database of companies in the world. 
 - [SameID](http://sameid.net/) - Cut through hours of keyword research in seconds.
 - [SSL Server Test](https://www.ssllabs.com/ssltest/index.html) - powered by Qualys.
+- [PunkSpider v3](https://www.punkspider.org/) - webapp fuzzing search engine.
 
  ## Metadata
  - [Just Metadata](https://github.com/ChrisTruncer/Just-Metadata) - Just-Metadata will allow you to quickly find the Top "X" number of states, cities, timezones, etc. that the loaded IP addresses are located in. It will allow you to search for IP addresses by country. You can search all IPs to find which ones are used in callbacks as identified by VirusTotal. Want to see if any IPs loaded have been documented as taking part of attacks via the Animus Project, Just-Metadata can do it.
@@ -267,4 +268,5 @@
 - [Insecurecam](https://www.insecam.org/en/) - World biggest online camera directory 
 - [Twilio](https://www.twilio.com/lookup) - Phone Validator API 
 - [IPVM v3](https://calculator.ipvm.com/) - IPVM Camera Calculator V3
+- [nsa-observer](https://www.nsa-observer.net/) - NSA in the nutshell
 
