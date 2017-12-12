@@ -44,6 +44,8 @@
  - [Tinfoleak](http://www.vicenteaguileradiaz.com/tools/) - “The most complete open-source tool for Twitter intelligence analysis” 
  - [Birdwatcher](https://github.com/michenriksen/birdwatcher) - Data analysis & OSINT framework
  - [Twrench](https://twren.ch) - crawling spreading of ReTweet.
+ - [Foller](https://foller.me/) - Twitter analytics application that gives you rich insights about any public Twitter profile.
+ - [Tweetdeck](web.tweetdeck.com) -	Twitter	product	that	allows	you	to	monitor	multiple	Twitter	streams	simultaneously.
  
  ## g00gl3
  - [GooHak](https://github.com/1N3/Goohak/) - automated Google-hacking queries. 
