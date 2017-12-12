@@ -30,6 +30,8 @@
  
  ## LinkedIn 
  - [Endorser](https://github.com/eth0izzle/the-endorser) - OSINT tool that allows you to draw out relationships between people on LinkedIn via endorsements/skills. 
+ - [Skrapp](https://www.skrapp.io/#) - Chrome extension for your Linkedin prospecting. 
+ 
  
  ## Telegram 
  - [Tsear.ch](http://www.tsear.ch) — Telegram messenger search-service, and Telegram channels and public chats store.
@@ -75,6 +77,7 @@
  - [BotScout](http://botscout.com/) - BotScout helps prevent automated web scripts, known as "bots", from registering on forums, polluting databases, spreading spam, and abusing forms on web sites.
    
  ## Domains
+ - [nsupdate](https://www.nsupdate.info/) - Dynamic DNS service. 
  - [WHOIS Request](http://whoisrequest.org/history/) - WHOIS Lookup
  - [Who.is](https://who.is/) - just who.is search
  - [DNS history](https://completedns.com/dns-history/) - a great quick, easy, and free way to easily see changes on your nameservers, etc.
@@ -144,6 +147,7 @@
 - [SameID](http://sameid.net/) - Cut through hours of keyword research in seconds.
 - [SSL Server Test](https://www.ssllabs.com/ssltest/index.html) - powered by Qualys.
 - [PunkSpider v3](https://www.punkspider.org/) - webapp fuzzing search engine.
+- [ASafaweb](https://asafaweb.com/) - Automated Security Analyser for ASP.NET Websites.
 
  ## Metadata
  - [Just Metadata](https://github.com/ChrisTruncer/Just-Metadata) - Just-Metadata will allow you to quickly find the Top "X" number of states, cities, timezones, etc. that the loaded IP addresses are located in. It will allow you to search for IP addresses by country. You can search all IPs to find which ones are used in callbacks as identified by VirusTotal. Want to see if any IPs loaded have been documented as taking part of attacks via the Animus Project, Just-Metadata can do it.
