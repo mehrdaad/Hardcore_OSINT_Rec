@@ -263,10 +263,12 @@
 - [McAfee SiteDigger v3](https://www.mcafee.com/us/downloads/free-tools/sitedigger.aspx) - Identify Web Site Information Leakage; Free Tool Utilizes Google Search Engine to Pinpoint Potential Exposures
 - [Socnetv](http://socnetv.org/) - Opensource tool for social network analysis. 
 > Update v2017.DEC
+- [Hashes](https://hashes.org/search.php) 
+- [DumpMon](https://github.com/jordan-wright/dumpmon) -  monitors multiple paste sites for password dumps. 
 - [CrimeFlare](http://www.crimeflare.biz/cfs.html) - Uncovering bad guys hiding behind CloudFlare.
 - [TCP Utils](https://www.tcpiputils.com/) - Ultimate online investigation tools
 - [Insecurecam](https://www.insecam.org/en/) - World biggest online camera directory 
 - [Twilio](https://www.twilio.com/lookup) - Phone Validator API 
 - [IPVM v3](https://calculator.ipvm.com/) - IPVM Camera Calculator V3
 - [nsa-observer](https://www.nsa-observer.net/) - NSA in the nutshell
-
+- [PRISM-break](https://prism-break.org/en/) - Help make mass surveillance of entire populations uneconomical! We all have a right to privacy, which you can exercise today by encrypting your communications and ending your reliance on proprietary services.
