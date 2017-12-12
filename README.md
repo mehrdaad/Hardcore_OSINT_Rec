@@ -10,6 +10,8 @@
  - [ThreatPinch Lookup](https://github.com/cloudtracer/ThreatPinchLookup) - ThreatPinch Lookup creates informational tooltips when hovering oven an item of interest on any website. It helps speed up security investigations by automatically providing relevant information upon hovering over any IPv4 address, MD5 hash, SHA2 hash, and CVE title. It’s designed to be completely customizable and work with any rest API.
  
  - [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) - Identify technology on websites
+ - [CrowdTangle Link Checker](https://chrome.google.com/webstore/detail/crowdtangle-link-checker/klakndphagmmfkpelfkgjbkimjihpmkh/?authuser=1) - Easily check to see who has shared any article you're reading!
+ 
  ## Great Firewall 
 + [Cloudwards](https://www.cloudwards.net/tools/chinese-firewall-test/)
 
@@ -46,6 +48,7 @@
  - [Twrench](https://twren.ch) - crawling spreading of ReTweet.
  - [Foller](https://foller.me/) - Twitter analytics application that gives you rich insights about any public Twitter profile.
  - [Tweetdeck](web.tweetdeck.com) -	Twitter	product	that	allows	you	to	monitor	multiple	Twitter	streams	simultaneously.
+ - [Geotweet](https://github.com/Pinperepette/Geotweet_GUI) - allows you to track tweets and trace geographical locations and then export to google maps.
  
  ## g00gl3
  - [GooHak](https://github.com/1N3/Goohak/) - automated Google-hacking queries. 
