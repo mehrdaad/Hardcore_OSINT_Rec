@@ -141,6 +141,7 @@
  ## Metadata
  - [Just Metadata](https://github.com/ChrisTruncer/Just-Metadata) - Just-Metadata will allow you to quickly find the Top "X" number of states, cities, timezones, etc. that the loaded IP addresses are located in. It will allow you to search for IP addresses by country. You can search all IPs to find which ones are used in callbacks as identified by VirusTotal. Want to see if any IPs loaded have been documented as taking part of attacks via the Animus Project, Just-Metadata can do it.
  
+ - [ExifTool](https://sno.phy.queensu.ca/~phil/exiftool/) - Read/Write/Edit meta infomation.
  - [Jeffrey's Image Metadata Viewer](http://regex.info/blog/other-writings/online-exif-image-data-viewer) - Online Exif (Image Data) Viewer. 
  - [FotoForensic](https://fotoforensics.com/) - EXIF Image Metada Forensic.
  - [Stolen Camera Finder](http://www.stolencamerafinder.com/) - use the serial number stored in your photos to search the web for other photos taken with the same camera.
