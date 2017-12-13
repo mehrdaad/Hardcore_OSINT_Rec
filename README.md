@@ -51,6 +51,7 @@
  - [Foller](https://foller.me/) - Twitter analytics application that gives you rich insights about any public Twitter profile.
  - [Tweetdeck](web.tweetdeck.com) -	Twitter	product	that	allows	you	to	monitor	multiple	Twitter	streams	simultaneously.
  - [Geotweet](https://github.com/Pinperepette/Geotweet_GUI) - allows you to track tweets and trace geographical locations and then export to google maps.
+ - [Trendsmap](https://www.trendsmap.com/) - Real-time Twitter trending hashtags and topics.
  
  ## g00gl3
  - [GooHak](https://github.com/1N3/Goohak/) - automated Google-hacking queries. 
