@@ -104,6 +104,7 @@
 - [Sucuri SiteCheck](https://sitecheck.sucuri.net/) - Scans the URL for malware in real time and looks it up in several blacklists.
 - [Quttera ThreatSign](http://quttera.com/) -  Scans the specified URL for the presence of malware.
 - [URL Query](https://urlquery.net/) - service for detecting and analyzing web-based malware.
+- [Intezer Analyze™](https://analyze.intezer.com) - it dissects binary code into thousands of small code fragments (genes), then compares them to a massive database that contains genes from malware and legitimate software, effectively providing a full DNA mapping of each executable.
 
 ## Live map 
 
