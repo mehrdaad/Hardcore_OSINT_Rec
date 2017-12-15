@@ -37,6 +37,7 @@
  - [Tsear.ch](http://www.tsear.ch) — Telegram messenger search-service, and Telegram channels and public chats store.
  
  ## Facebook
+ - [Facebook Social Toolkit](https://chrome.google.com/webstore/detail/toolkit-for-facebook/fcachklhcihfinmagjnlomehfdhndhep) 
  - [OSINT Fb reset passwd](https://github.com/PaulSec/osint-facebook-reset-password) - Python util to retrieve full display name and profile picture from a single email address.
  - [Fb Location OSINT](https://github.com/joren485/Facebook-Location-OSINT) - Retrieve someones private Facebook location, using their public information.
  - [Facebook Certificate Transparency Monitoring](https://developers.facebook.com/tools/ct/) 
@@ -49,7 +50,8 @@
  - [Birdwatcher](https://github.com/michenriksen/birdwatcher) - Data analysis & OSINT framework
  - [Twrench](https://twren.ch) - crawling spreading of ReTweet.
  - [Foller](https://foller.me/) - Twitter analytics application that gives you rich insights about any public Twitter profile.
- - [Tweetdeck](web.tweetdeck.com) -	Twitter	product	that	allows	you	to	monitor	multiple	Twitter	streams	simultaneously.
+ - [Tweetdeck](web.tweetdeck.com) -	Twitter	product	that	allows	you	to	monitor	multiple	Twitter	streams	simultaneously. 
+ - [BetterTweetDeck](https://github.com/eramdam/BetterTweetDeck) 
  - [Geotweet](https://github.com/Pinperepette/Geotweet_GUI) - allows you to track tweets and trace geographical locations and then export to google maps.
  - [Trendsmap](https://www.trendsmap.com/) - Real-time Twitter trending hashtags and topics.
  
