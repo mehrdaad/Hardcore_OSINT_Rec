@@ -204,6 +204,8 @@
  - [CrowdStrike](https://www.crowdstrike.com/resources/data-sheets/falcon-intelligence/) - Falcon Intelligence.
  - [C1fApps](https://www.c1fapp.com/) - Open Source Cyber intelligence threat feeds.
  - [IntelMQ](https://github.com/certtools/intelmq) - IntelMQ is a solution for IT security teams for collecting and processing security feeds using a message queuing protocol.
+ - [SCOT](https://github.com/sandialabs/scot) - Sandia Cyber Omni Tracker
+ 
  
  # Changelog 
  > Update v2016
