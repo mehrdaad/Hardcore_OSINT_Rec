@@ -56,6 +56,7 @@
  - [Trendsmap](https://www.trendsmap.com/) - Real-time Twitter trending hashtags and topics.
  
  ## g00gl3
+ - [GooD0rker](https://github.com/ZephrFish/GoogD0rker) - purely for OSINT against a specific target domain.
  - [GooHak](https://github.com/1N3/Goohak/) - automated Google-hacking queries. 
  - [Google Trends](https://trends.google.com/trends/) - widen your search scope.
  - [Google Alerts](https://www.google.com/alerts) - Monitor the web for interesting new content
