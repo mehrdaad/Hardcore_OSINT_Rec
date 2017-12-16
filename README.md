@@ -283,3 +283,4 @@
 - [IPVM v3](https://calculator.ipvm.com/) - IPVM Camera Calculator V3
 - [nsa-observer](https://www.nsa-observer.net/) - NSA in the nutshell
 - [PRISM-break](https://prism-break.org/en/) - Help make mass surveillance of entire populations uneconomical! We all have a right to privacy, which you can exercise today by encrypting your communications and ending your reliance on proprietary services.
+- [OSRFramework](https://github.com/i3visio/osrframework) - Open Sources Research Framework focused on providing API and tools to perform more accurate online researches.
