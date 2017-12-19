@@ -22,6 +22,8 @@
  ## IoT Search Engine
  - [NetDB.io](http://www.netdb.io/) -  IOT SEARCH ENGINE aggregator FOR SHODAN, NETDB, ZOOMEYE, CENSYS 
  - [Exploitee](https://www.exploitee.rs) - Recon hardwares bug/pwned/exploit
+ - [RouterPwn](http://www.routerpwn.com/hardware/) **(discontinued?)**
+ - [IoTseeker](https://github.com/rapid7/IoTSeeker) 
  
  ## Tor 
  - [OSINT Tor](https://oint.ctrlbox.com/) - OSINT Tor 
@@ -91,6 +93,7 @@
  - [DomainDossier](https://centralops.net/co/DomainDossier.aspx) - Investigate domains and IP addresses.
 
 ## Malicious-ware Tracker
+- [VirusRadar](http://virusradar.com/en) - ESET worldmap of virus 
 - [VirusTotal](https://www.virustotal.com)
 - [Malwr](https://malwr.com/) 
 - [MalShare](http://www.malshare.com/) - samples, malicous feeds, and Yara results.
@@ -177,11 +180,11 @@
  
  
 ## Threat Intel Gathering
+ 
  - [MineMeld](https://live.paloaltonetworks.com/t5/MineMeld-Articles/Quick-tour-of-MineMeld-default-config/ta-p/72042) - Palo Alto Networks Threat Intel. 
  
  - [Mimir](https://github.com/NullArray/Mimir) - OSINT Threat Intel Interface (work as a CLI to HoneyDB).
  - [GOSINT](https://github.com/ciscocsirt/gosint) - The GOSINT framework is a project used for collecting, processing, and exporting high quality indicators of compromise (IOCs).
- 
  
  - [SOLTRA EDGE®](https://soltra.com/en/) - Soltra Edge is the most widely used Cyber Threat Communications Platform for two-way sharing of cybersecurity information among peers, trust groups, communities and government.
  
@@ -205,7 +208,7 @@
  - [C1fApps](https://www.c1fapp.com/) - Open Source Cyber intelligence threat feeds.
  - [IntelMQ](https://github.com/certtools/intelmq) - IntelMQ is a solution for IT security teams for collecting and processing security feeds using a message queuing protocol.
  - [SCOT](https://github.com/sandialabs/scot) - Sandia Cyber Omni Tracker
- 
+ - [ZoomEye](https://www.zoomeye.org/) - ZoomEye has two powerful detection engines Xmap and Wmap aiming at devices and websites in the cyberspace.
  
  # Changelog 
  > Update v2016
