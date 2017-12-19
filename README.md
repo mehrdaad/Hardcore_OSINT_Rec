@@ -5,6 +5,8 @@
  ## News 
  - [Cyberwire](https://www.thecyberwire.com/index.html) - The CyberWire is a free, community-driven cyber security news service based in Baltimore. 
  - [APT Group & Operations](https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml#) - Worldwide APT Group. 
+ - [APT Notes](https://github.com/kbandla/APTnotes) - Various public documents, whitepapers and articles about APT campaigns.
+ - [ATT&CK](https://attack.mitre.org) - Adversarial Tactics, Techniques & Common Knowledge || [CARET](https://car.mitre.org) 
  
  ## Browser extensions
  - [ThreatPinch Lookup](https://github.com/cloudtracer/ThreatPinchLookup) - ThreatPinch Lookup creates informational tooltips when hovering oven an item of interest on any website. It helps speed up security investigations by automatically providing relevant information upon hovering over any IPv4 address, MD5 hash, SHA2 hash, and CVE title. It’s designed to be completely customizable and work with any rest API.
@@ -180,7 +182,7 @@
  
  
 ## Threat Intel Gathering
- 
+ - [stoQ](http://stoq.punchcyber.com) - It's a super-simple framework that allows cyber analysts to organize and automate repetitive, data-driven tasks.
  - [MineMeld](https://live.paloaltonetworks.com/t5/MineMeld-Articles/Quick-tour-of-MineMeld-default-config/ta-p/72042) - Palo Alto Networks Threat Intel. 
  
  - [Mimir](https://github.com/NullArray/Mimir) - OSINT Threat Intel Interface (work as a CLI to HoneyDB).
@@ -209,6 +211,7 @@
  - [IntelMQ](https://github.com/certtools/intelmq) - IntelMQ is a solution for IT security teams for collecting and processing security feeds using a message queuing protocol.
  - [SCOT](https://github.com/sandialabs/scot) - Sandia Cyber Omni Tracker
  - [ZoomEye](https://www.zoomeye.org/) - ZoomEye has two powerful detection engines Xmap and Wmap aiming at devices and websites in the cyberspace.
+ - [fb📶/ThreatExchange](https://github.com/facebook/ThreatExchange) - Share threat information with vetted partners.
  
  # Changelog 
  > Update v2016
