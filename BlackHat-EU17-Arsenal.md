@@ -2,7 +2,7 @@
 - [How to hack a turned-off computer](https://www.blackhat.com/docs/eu-17/materials/eu-17-Goryachy-How-To-Hack-A-Turned-Off-Computer-Or-Running-Unsigned-Code-In-Intel-Management-Engine.pdf) 
 
 
-# [BlackHat Europe 2017 Arsenal](https://www.blackhat.com/eu-17/arsenal/schedule/) - 🕵 88% 
+# [BlackHat Europe 2017 Arsenal](https://www.blackhat.com/eu-17/arsenal/schedule/) - 🕵 95% 
 
 **1) CYBOT - OPEN-SOURCE THREAT INTELLIGENCE CHAT BOT (REVAMPED)**
 ```
@@ -73,6 +73,7 @@ Presenter: Sanket Karpe
 Track:  Network Defense
 Session Type: Arsenal
 ```
+[Github](https://github.com/SanketKarpe/anwi) ✔️
 
 **9) DIRTYTOOTH FOR RASPBERRY PI (DIRTYPI)**
 ```
@@ -333,6 +334,7 @@ Presenter: Joe Grand
 Track:  Hardware/Embedded
 Session Type: Arsenal
 ```
+[.HTML](http://www.grandideastudio.com/optical-covert-channels/) ✔️
 
 **40) PYMULTITOR**
 ```
