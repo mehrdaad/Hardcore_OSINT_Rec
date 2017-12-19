@@ -117,6 +117,7 @@
 - [Wikimapia](http://wikimapia.org) - Explore interactive map with Wiki-content integrated. 
 - [FlightRadar24](https://www.flightradar24.com) - Live air traffic 
 - [RSOE](http://hisz.rsoe.hu/alertmap/index2.php) - Emergency and Disaster Information Service.
+- [ZoomEarth](https://zoom.earth) - Explore satelites and aerial images of Earth.
 
 ## Web
 - [SimilarWeb](https://www.similarweb.com) - Website insight. 
@@ -171,8 +172,7 @@
  - [Webcrawler]() - WebCrawler was a metasearch engine that blends the top search results from Google Search and Yahoo! Search. WebCrawler also provides users the option to search for images, audio, video, news, yellow pages and white pages. 
  
  - [Monstercrawler](http://monstercrawler.com/) - Meta Search Engine Monster Crawler allows a simultaneous multi-thread search of Google, Yahoo & Bing with just one click!
- 
- - [Pearltrees](http://www.pearltrees.com/markag/steam/id15736794#related) - Organize all your interests. Pearltrees claims to be among the first companies to provide an exposed interest graph. 
+  
  - [CommonCrawl](https://commoncrawl.org/the-data/examples/) - It contains raw web page data, extracted metadata and text extractions.
  
  
