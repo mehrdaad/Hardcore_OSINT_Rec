@@ -130,7 +130,9 @@
 - [Live-music-map](http://livemusicoffice.com.au/livemusicmap/) - an online map to help bring the live music sector closer together.
 
 + [PokeHuntr](https://pokehuntr.com/) - PokemonGO radar 
-+ [Pokevision](https://www.pokevision.hk) - currently local areas of HongKong.
++ [Pokevision](https://www.pokevision.hk) - PokemonGO -- (currently) local areas of HongKong.
+
+- [YoutubeExplorer](https://youtubemapexplorer.herokuapp.com) - unusual way to discover videos from around the world. 
 
 ## Web
 - [SimilarWeb](https://www.similarweb.com) - Website insight. 
