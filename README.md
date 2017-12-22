@@ -115,14 +115,22 @@
 - [URL Query](https://urlquery.net/) - service for detecting and analyzing web-based malware.
 - [Intezer Analyze™](https://analyze.intezer.com) - it dissects binary code into thousands of small code fragments (genes), then compares them to a massive database that contains genes from malware and legitimate software, effectively providing a full DNA mapping of each executable.
 
-## Live map 
-
+## LIVE map/CCTV-camera/radio/.. 
+- [Insecurecam](https://www.insecam.org/en/) - World biggest online camera directory 
+- [IPVM v3](https://calculator.ipvm.com/) - IPVM Camera Calculator V3
 - [Corona Atlas & Referencing System](http://corona.cast.uark.edu/) -  CORONA satellites took high-resolution images of most of the earth’s surface.
 - [EarthExplorer](https://earthexplorer.usgs.gov/) 
 - [Wikimapia](http://wikimapia.org) - Explore interactive map with Wiki-content integrated. 
 - [FlightRadar24](https://www.flightradar24.com) - Live air traffic 
 - [RSOE](http://hisz.rsoe.hu/alertmap/index2.php) - Emergency and Disaster Information Service.
 - [ZoomEarth](https://zoom.earth) - Explore satelites and aerial images of Earth.
+- [Facebook Live map](https://www.facebook.com/livemap) - Live videos all around the world.
+
+- [Radio.Garden](http://radio.garden/live/) - By bringing distant voices close, radio connects people and places.
+- [Live-music-map](http://livemusicoffice.com.au/livemusicmap/) - an online map to help bring the live music sector closer together.
+
++ [PokeHuntr](https://pokehuntr.com/) - PokemonGO radar 
++ [Pokevision](https://www.pokevision.hk) - currently local areas of HongKong.
 
 ## Web
 - [SimilarWeb](https://www.similarweb.com) - Website insight. 
@@ -142,7 +150,6 @@
 - [Reputation Authority](http://www.reputationauthority.org/) - Shows reputational data on specified domain or IP address.
 - [Unmask Parasites](http://www.unmaskparasites.com/security-report/) - Looks up the URL in the Google Safe Browsing database.
  
-- [URL Query](http://urlquery.net/) - Looks up the URL in its database of suspicious sites and examines the site’s content.
 - [urlscan.io](https://urlscan.io/) - Examines the URL in real time and displays the requests it issues to render the page.
 - [URLVoid](http://www.urlvoid.com/) - - Looks up the URL in several blacklisting services.
 - [IPVoid](http://www.ipvoid.com/) - Looks up the IP in several blacklisting services.
@@ -284,9 +291,7 @@
 - [DumpMon](https://github.com/jordan-wright/dumpmon) -  monitors multiple paste sites for password dumps. 
 - [CrimeFlare](http://www.crimeflare.biz/cfs.html) - Uncovering bad guys hiding behind CloudFlare.
 - [TCP Utils](https://www.tcpiputils.com/) - Ultimate online investigation tools
-- [Insecurecam](https://www.insecam.org/en/) - World biggest online camera directory 
 - [Twilio](https://www.twilio.com/lookup) - Phone Validator API 
-- [IPVM v3](https://calculator.ipvm.com/) - IPVM Camera Calculator V3
 - [nsa-observer](https://www.nsa-observer.net/) - NSA in the nutshell
 - [PRISM-break](https://prism-break.org/en/) - Help make mass surveillance of entire populations uneconomical! We all have a right to privacy, which you can exercise today by encrypting your communications and ending your reliance on proprietary services.
 - [OSRFramework](https://github.com/i3visio/osrframework) - Open Sources Research Framework focused on providing API and tools to perform more accurate online researches.
