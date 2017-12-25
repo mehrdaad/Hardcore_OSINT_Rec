@@ -10,6 +10,7 @@
  
  ## Browser extensions
  - [ThreatPinch Lookup](https://github.com/cloudtracer/ThreatPinchLookup) - ThreatPinch Lookup creates informational tooltips when hovering oven an item of interest on any website. It helps speed up security investigations by automatically providing relevant information upon hovering over any IPv4 address, MD5 hash, SHA2 hash, and CVE title. It’s designed to be completely customizable and work with any rest API.
+ - [PlainText Alert](https://chrome.google.com/webstore/detail/plain-text-offenders-aler/ggndaknbenjhnkddgjnjjcmomgaidhmd?hl=en-US) - check whether sites have stored your p@ss in plaintext or not.
  
  - [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) - Identify technology on websites
  - [CrowdTangle Link Checker](https://chrome.google.com/webstore/detail/crowdtangle-link-checker/klakndphagmmfkpelfkgjbkimjihpmkh/?authuser=1) - Easily check to see who has shared any article you're reading!
@@ -85,6 +86,9 @@
  - [BotScout](http://botscout.com/) - BotScout helps prevent automated web scripts, known as "bots", from registering on forums, polluting databases, spreading spam, and abusing forms on web sites.
    
  ## Domains
+ - [PassiveDNS Mnemonic](https://passivedns.mnemonic.no) 
+ - [Fierce](https://github.com/mschwager/fierce) - DNS reconnaissance tool for locating non-contiguous IP space.
+ - [Deep Magic](http://www.deepmagic.com/) - DNS records and others.
  - [nsupdate](https://www.nsupdate.info/) - Dynamic DNS service. 
  - [WHOIS Request](http://whoisrequest.org/history/) - WHOIS Lookup
  - [Who.is](https://who.is/) - just who.is search
@@ -151,7 +155,10 @@
 
 - [Reputation Authority](http://www.reputationauthority.org/) - Shows reputational data on specified domain or IP address.
 - [Unmask Parasites](http://www.unmaskparasites.com/security-report/) - Looks up the URL in the Google Safe Browsing database.
- 
+
+- [job|seeker](https://www.glassdoor.com/index.htm) - Find the job that fits your life
+- [MyIPNeighbours](http://www.my-ip-neighbors.com) - Find sites on the same IP address 
+
 - [urlscan.io](https://urlscan.io/) - Examines the URL in real time and displays the requests it issues to render the page.
 - [URLVoid](http://www.urlvoid.com/) - - Looks up the URL in several blacklisting services.
 - [IPVoid](http://www.ipvoid.com/) - Looks up the IP in several blacklisting services.
@@ -168,6 +175,8 @@
 - [SSL Server Test](https://www.ssllabs.com/ssltest/index.html) - powered by Qualys.
 - [PunkSpider v3](https://www.punkspider.org/) - webapp fuzzing search engine.
 - [ASafaweb](https://asafaweb.com/) - Automated Security Analyser for ASP.NET Websites.
+- [Graph SEO](http://www.touchgraph.com/seo) - Java applet explore the connections between related websites.
+- [Cute visual_s.e](http://search.carrot2.org/stable/search)
 
  ## Metadata
  - [Just Metadata](https://github.com/ChrisTruncer/Just-Metadata) - Just-Metadata will allow you to quickly find the Top "X" number of states, cities, timezones, etc. that the loaded IP addresses are located in. It will allow you to search for IP addresses by country. You can search all IPs to find which ones are used in callbacks as identified by VirusTotal. Want to see if any IPs loaded have been documented as taking part of attacks via the Animus Project, Just-Metadata can do it.
@@ -188,7 +197,7 @@
  - [Monstercrawler](http://monstercrawler.com/) - Meta Search Engine Monster Crawler allows a simultaneous multi-thread search of Google, Yahoo & Bing with just one click!
   
  - [CommonCrawl](https://commoncrawl.org/the-data/examples/) - It contains raw web page data, extracted metadata and text extractions.
- 
+ - [TinEye](https://www.tineye.com/) - Search by image and find where that image appears online 
  
 ## Threat Intel Gathering
  - [stoQ](http://stoq.punchcyber.com) - It's a super-simple framework that allows cyber analysts to organize and automate repetitive, data-driven tasks.
@@ -223,15 +232,21 @@
  - [fb📶/ThreatExchange](https://github.com/facebook/ThreatExchange) - Share threat information with vetted partners.
  - [IVRE Framework](https://ivre.rocks) - Network Recon Analysis
  - [MrLooquer](http://www.mrlooquer.com/list) - IPv6 threat crawler
+ - [Maltergo](https://www.paterva.com/web7/) - Threat Intelligence Gathering
  
-## Raw u:p credentials  
+## Raw u:p credentials
+- [Hashes](https://hashes.org/search.php) 
+- [DumpMon](https://github.com/jordan-wright/dumpmon) -  monitors multiple paste sites for password dumps. 
+- [theHarvester](https://github.com/laramies/theHarvester) - info gathering suite
 - [Scythe](http://blog.c22.cc/2012/10/03/scythe-framework/) - account harvester 
 - [Check|u_name](http://checkusernames.com/) - username on the wire => [Newer version](https://knowem.com) 
 - [Check username available on social_sites](http://namechk.com/)
 - [Default_dtb](https://cirt.net/passwords)
 - [Public DB Host](https://databases.today) - from @Snusbase with 😘
 - [LeakedIN](http://www.leakedin.com) - LeakED!!
-- [PlainText Alert](https://chrome.google.com/webstore/detail/plain-text-offenders-aler/ggndaknbenjhnkddgjnjjcmomgaidhmd?hl=en-US) - check whether sites have stored your p@ss in plaintext or not
+
+- [Globe_ftp_stored](http://globalfilesearch.com/)
+- [Datasploit](https://github.com/DataSploit/datasploit) - OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc., aggregate all the raw data, and give data in multiple formats.
 
 ## HUMINT
 - [iSEEK](http://education.iseek.com/iseek) | [iSEEK.ai](http://education.iseek.com/#/web) - iSEEK Education is a targeted search engine for students, teachers, administrators, and caregivers.
@@ -250,27 +265,16 @@
  - [Real Intel Threat Analysis](https://github.com/ocmdev/rita) - open source framework for network traffic analysis.
 
 
- 
-  
- - [theHarvester](https://code.google.com/archive/p/theharvester/) - info gathering suite
- - [Maltergo](https://www.paterva.com/web7/) - Threat Intelligence Gathering
- - [Deep Magic](https://www.deepmagic.com/) - DNS records and others.
-
  - [Geo_creepy](http://www.geocreepy.com/) - Geo-OSINT gathering info through social platform
  - [S.T.A.L.K.E.R](https://immunityproducts.blogspot.co.uk/2012/08/stalker-analyzing-your-wireless-data.html) - show what you can do in 15min.
- - [TinEye](https://www.tineye.com/) - Search by image and find where that image appears online 
+
  
  - [Mobi Spy](http://www.mobistealth.com/) - for kid 🍼 
  
  - [ServerSniff](http://www.serversniff.net/index.php) - for netsys, sysads, webdev, secops
  - [Recon-NG modules](https://github.com/scumsec/Recon-ng-modules) 
- - [Globe_ftp_stored](http://globalfilesearch.com/)
- 
- - [job|seeker](https://www.glassdoor.com/index.htm) - Find the job that fits your life
- - [MyIPNeighbours](http://www.my-ip-neighbors.com) - Find sites on the same IP address
- 
- - [Graph SEO](http://www.touchgraph.com/seo) - Java applet explore the connections between related websites.
- - [Cute visual_s.e](http://search.carrot2.org/stable/search)
+
+
  
  - [Source code crawl](https://nerdydata.com/search)
  - [source_search](https://searchcode.com/)
@@ -291,7 +295,7 @@
  > Update v2017.NOV
  - [Trape](https://github.com/boxug/trape) - Learn to track the world, to avoid being traced.
  - [Dradis Framework](https://github.com/dradis/dradis-ce) - Dradis Framework: Colllaboration and reporting for IT Security teams
- - [Datasploit](https://github.com/DataSploit/datasploit) - OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc., aggregate all the raw data, and give data in multiple formats.
+
  - [OSINT-SPY](https://github.com/SharadKumar97/OSINT-SPY) - It can be used by Data Miners, Infosec Researchers, Penetration Testers and cyber crime investigator in order to find deep information about their target.
 - [WHOIS RESTFul Web Service API](https://www.arin.net/resources/whoisrws/whois_api.html#whoisrws) - ARIN - American Registry for Internet Numbers.
 - [Intel Technique Search tools](https://inteltechniques.com/menu.html) - osint links, blog, podcast, docs, etc. 
@@ -299,9 +303,8 @@
 - [CircleCount](http://www.circlecount.com/) - CircleCount helps you better understand Social Media. 
 - [McAfee SiteDigger v3](https://www.mcafee.com/us/downloads/free-tools/sitedigger.aspx) - Identify Web Site Information Leakage; Free Tool Utilizes Google Search Engine to Pinpoint Potential Exposures
 - [Socnetv](http://socnetv.org/) - Opensource tool for social network analysis. 
+
 > Update v2017.DEC
-- [Hashes](https://hashes.org/search.php) 
-- [DumpMon](https://github.com/jordan-wright/dumpmon) -  monitors multiple paste sites for password dumps. 
 - [CrimeFlare](http://www.crimeflare.biz/cfs.html) - Uncovering bad guys hiding behind CloudFlare.
 - [TCP Utils](https://www.tcpiputils.com/) - Ultimate online investigation tools
 - [Twilio](https://www.twilio.com/lookup) - Phone Validator API 
