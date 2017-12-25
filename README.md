@@ -7,6 +7,7 @@
  - [APT Group & Operations](https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml#) - Worldwide APT Group. 
  - [APT Notes](https://github.com/kbandla/APTnotes) - Various public documents, whitepapers and articles about APT campaigns.
  - [ATT&CK](https://attack.mitre.org) - Adversarial Tactics, Techniques & Common Knowledge || [CARET](https://car.mitre.org) 
+ - [Cryptome](https://cryptome.org/) 
  
  ## Browser extensions
  - [ThreatPinch Lookup](https://github.com/cloudtracer/ThreatPinchLookup) - ThreatPinch Lookup creates informational tooltips when hovering oven an item of interest on any website. It helps speed up security investigations by automatically providing relevant information upon hovering over any IPv4 address, MD5 hash, SHA2 hash, and CVE title. It’s designed to be completely customizable and work with any rest API.
@@ -137,8 +138,14 @@
 + [Pokevision](https://www.pokevision.hk) - PokemonGO -- (currently) local areas of HongKong.
 
 - [YoutubeExplorer](https://youtubemapexplorer.herokuapp.com) - unusual way to discover videos from around the world. 
+## Web time-machine
+- [archive.is](https://archive.is/)
+- [WaybackMachine](https://archive.org/) 
+- [WaybackMachine Downloader](https://websitedownloader.io/wayback-machine-downloader/) 
+- [CachedView](http://cachedview.com/) 
 
 ## Web
+- [SiteLiner](http://www.siteliner.com/) - Find duplicate content, broken links, and more...  
 - [SimilarWeb](https://www.similarweb.com) - Website insight. 
 - [Desenmascara](http://desenmascara.me/) - Flags websites suspected of selling counterfeit products.
 - [FortiGuard web filtering](http://www.fortiguard.com/ip_rep/) - Display URL's history and category.
@@ -150,7 +157,10 @@
 - [TheMajecticMillion](https://majestic.com/reports/majestic-million) - The million domains we find with the most referring subnets.
 - [Sandbox URL Analyzer](https://www.url-analyzer.net/) - Examines the URL and files in real-time.
 - [IsItHacked](http://www.isithacked.com/) - Performs several checks in real time and consults some blacklists.
+
 - [IsItPhising](http://isitphishing.org/) - Assesses the specified URL in real-time.
+- [PhishTank](https://www.phishtank.com/) - Join the fight against phishing.
+
 - [MxToolbox](http://mxtoolbox.com/blacklists.aspx) - Queries multiple reputational sources for information about the IP or domain
 
 - [Reputation Authority](http://www.reputationauthority.org/) - Shows reputational data on specified domain or IP address.
@@ -248,17 +258,26 @@
 - [Globe_ftp_stored](http://globalfilesearch.com/)
 - [Datasploit](https://github.com/DataSploit/datasploit) - OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc., aggregate all the raw data, and give data in multiple formats.
 
+## Scam 
+- [Scamdex](http://www.scamdex.com/) - The #1 Internet Scam Resource
+
 ## HUMINT
 - [iSEEK](http://education.iseek.com/iseek) | [iSEEK.ai](http://education.iseek.com/#/web) - iSEEK Education is a targeted search engine for students, teachers, administrators, and caregivers.
-- [Gossip at social media](http://www.whostalkin.com/)
+
 - [EchoSec](https://www.echosec.net/) - Geo-based search platform on social platform
-- [Little_Sis](https://littlesis.org/) - a free database of who-knows-who at the heights of business and government
+- [InstantCheckmate](https://www.instantcheckmate.com) - The Leading Background Search and People Search tool on the internet.
 - [Spokeo](https://www.spokeo.com/) - people search engine that organizes white pages listings, public records and social network information into simple profiles.
+
 - [Jigsaw](http://www.jigsaw.com/) - The fastest way to find the right business contacts
 - [Market Visual](http://www.marketvisual.com/) - top-notch businesses|entrepreneurs| search engine
+- [Xing](https://www.xing.com/) - Find the best and most popular employers with top ratings in your city or industry.
 - [192](http://www.192.com/) - Search for People, Businesses & Places in the UK 
+- [Little_Sis](https://littlesis.org/) - a free database of who-knows-who at the heights of business and government
+
 - [Social_searchEngine](http://socialmention.com/) - Real-time social media search and analysis
-- [InstantCheckmate](https://www.instantcheckmate.com) - The Leading Background Search and People Search tool on the internet.
+- [Gossip at social media](http://www.whostalkin.com/)
+
+- [Melissadata](http://www.melissadata.com/lookups/index.htm) 
 
  # Changelog 
  > Update v2016
@@ -282,7 +301,6 @@
  
 
  - [SpiderF00t](http://www.spiderfoot.net/) - Open Source Intelligence Automation 🥂
- 
  
  
  > Update v2017.OCT 
@@ -311,3 +329,5 @@
 - [nsa-observer](https://www.nsa-observer.net/) - NSA in the nutshell
 - [PRISM-break](https://prism-break.org/en/) - Help make mass surveillance of entire populations uneconomical! We all have a right to privacy, which you can exercise today by encrypting your communications and ending your reliance on proprietary services.
 - [OSRFramework](https://github.com/i3visio/osrframework) - Open Sources Research Framework focused on providing API and tools to perform more accurate online researches.
+- [DMI Tools](https://wiki.digitalmethods.net/Dmi/ToolDatabase) - The Digital Methods Initiative
+- [WhereEvent](http://www.wherevent.com/) - Looking for the best parties, events and activities in your area?
