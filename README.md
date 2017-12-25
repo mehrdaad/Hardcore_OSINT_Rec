@@ -221,8 +221,11 @@
  - [SCOT](https://github.com/sandialabs/scot) - Sandia Cyber Omni Tracker
  - [ZoomEye](https://www.zoomeye.org/) - ZoomEye has two powerful detection engines Xmap and Wmap aiming at devices and websites in the cyberspace.
  - [fb📶/ThreatExchange](https://github.com/facebook/ThreatExchange) - Share threat information with vetted partners.
+ - [IVRE Framework](https://ivre.rocks) - Network Recon Analysis
+ - [MrLooquer](http://www.mrlooquer.com/list) - IPv6 threat crawler
  
 ## Raw u:p credentials  
+- [Scythe](http://blog.c22.cc/2012/10/03/scythe-framework/) - account harvester 
 - [Check|u_name](http://checkusernames.com/) - username on the wire => [Newer version](https://knowem.com) 
 - [Check username available on social_sites](http://namechk.com/)
 - [Default_dtb](https://cirt.net/passwords)
@@ -246,7 +249,6 @@
  > Update v2016
  - [Real Intel Threat Analysis](https://github.com/ocmdev/rita) - open source framework for network traffic analysis.
 
- - [Scythe](http://blog.c22.cc/2012/10/03/scythe-framework/) - account harvester 
 
  
   
