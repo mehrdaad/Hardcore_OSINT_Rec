@@ -222,14 +222,33 @@
  - [ZoomEye](https://www.zoomeye.org/) - ZoomEye has two powerful detection engines Xmap and Wmap aiming at devices and websites in the cyberspace.
  - [fb📶/ThreatExchange](https://github.com/facebook/ThreatExchange) - Share threat information with vetted partners.
  
+## Raw u:p credentials  
+- [Check|u_name](http://checkusernames.com/) - username on the wire => [Newer version](https://knowem.com) 
+- [Check username available on social_sites](http://namechk.com/)
+- [Default_dtb](https://cirt.net/passwords)
+- [Public DB Host](https://databases.today) - from @Snusbase with 😘
+- [LeakedIN](http://www.leakedin.com) - LeakED!!
+- [PlainText Alert](https://chrome.google.com/webstore/detail/plain-text-offenders-aler/ggndaknbenjhnkddgjnjjcmomgaidhmd?hl=en-US) - check whether sites have stored your p@ss in plaintext or not
+
+## HUMINT
+- [iSEEK](http://education.iseek.com/iseek) | [iSEEK.ai](http://education.iseek.com/#/web) - iSEEK Education is a targeted search engine for students, teachers, administrators, and caregivers.
+- [Gossip at social media](http://www.whostalkin.com/)
+- [EchoSec](https://www.echosec.net/) - Geo-based search platform on social platform
+- [Little_Sis](https://littlesis.org/) - a free database of who-knows-who at the heights of business and government
+- [Spokeo](https://www.spokeo.com/) - people search engine that organizes white pages listings, public records and social network information into simple profiles.
+- [Jigsaw](http://www.jigsaw.com/) - The fastest way to find the right business contacts
+- [Market Visual](http://www.marketvisual.com/) - top-notch businesses|entrepreneurs| search engine
+- [192](http://www.192.com/) - Search for People, Businesses & Places in the UK 
+- [Social_searchEngine](http://socialmention.com/) - Real-time social media search and analysis
+- [InstantCheckmate](https://www.instantcheckmate.com) - The Leading Background Search and People Search tool on the internet.
+
  # Changelog 
  > Update v2016
  - [Real Intel Threat Analysis](https://github.com/ocmdev/rita) - open source framework for network traffic analysis.
- - [Little_Sis](https://littlesis.org/) - a free database of who-knows-who at the heights of business and government
- - [Spokeo](https://www.spokeo.com/) - people search engine that organizes white pages listings, public records and social network information into simple profiles
+
  - [Scythe](http://blog.c22.cc/2012/10/03/scythe-framework/) - account harvester 
- - [Market Visual](http://www.marketvisual.com/) - top-notch businesses|entrepreneurs| search engine
- - [Jigsaw](http://www.jigsaw.com/) - The fastest way to find the right business contacts
+
+ 
   
  - [theHarvester](https://code.google.com/archive/p/theharvester/) - info gathering suite
  - [Maltergo](https://www.paterva.com/web7/) - Threat Intelligence Gathering
@@ -247,28 +266,18 @@
  
  - [job|seeker](https://www.glassdoor.com/index.htm) - Find the job that fits your life
  - [MyIPNeighbours](http://www.my-ip-neighbors.com) - Find sites on the same IP address
- - [192](http://www.192.com/) - Search for People, Businesses & Places in the UK
+ 
  - [Graph SEO](http://www.touchgraph.com/seo) - Java applet explore the connections between related websites.
- - [iSeek](http://www.iseek.com/) - blocked some IPs (??!)
  - [Cute visual_s.e](http://search.carrot2.org/stable/search)
  
  - [Source code crawl](https://nerdydata.com/search)
  - [source_search](https://searchcode.com/)
  - [Pastebin_bot](http://www.andrewmohawk.com/pasteLert)
  
- - [Gossip at social media](http://www.whostalkin.com/)
- - [Check|u_name](http://checkusernames.com/) - username on the wire => [Newer version](https://knowem.com) 
 
- - [EchoSec](https://www.echosec.net/) - Geo-based search platform on social platform
-
- - [LeakedIN](http://www.leakedin.com) - LeakED!!
- - [Social_searchEngine](http://socialmention.com/) - Real-time social media search and analysis
- - [Check username available on social_sites](http://namechk.com/)
- - [Default_dtb](https://cirt.net/passwords)
  - [SpiderF00t](http://www.spiderfoot.net/) - Open Source Intelligence Automation 🥂
  
- - [PlainText Alert](https://chrome.google.com/webstore/detail/plain-text-offenders-aler/ggndaknbenjhnkddgjnjjcmomgaidhmd?hl=en-US) - check whether sites have stored your p@ss in plaintext or not
- - [InstantCheckmate](https://www.instantcheckmate.com) - The Leading Background Search and People Search tool on the internet.
+ 
  
  > Update v2017.OCT 
  - [Belati](https://github.com/aancw/Belati) - traditional Swiss Army Knife for OSINT
