@@ -119,6 +119,7 @@
 - [Quttera ThreatSign](http://quttera.com/) -  Scans the specified URL for the presence of malware.
 - [URL Query](https://urlquery.net/) - service for detecting and analyzing web-based malware.
 - [Intezer Analyze™](https://analyze.intezer.com) - it dissects binary code into thousands of small code fragments (genes), then compares them to a massive database that contains genes from malware and legitimate software, effectively providing a full DNA mapping of each executable.
++ [Feodo tracker](https://feodotracker.abuse.ch/) - Feodo trojan vA|B|C|D tracker
 
 ## LIVE map/CCTV-camera/radio/.. 
 - [Insecurecam](https://www.insecam.org/en/) - World biggest online camera directory 
