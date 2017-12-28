@@ -38,6 +38,8 @@
  - [Endorser](https://github.com/eth0izzle/the-endorser) - OSINT tool that allows you to draw out relationships between people on LinkedIn via endorsements/skills. 
  - [Skrapp](https://www.skrapp.io/#) - Chrome extension for your Linkedin prospecting. 
  
+ ## Instagram 
+ [IG Story](https://chrome.google.com/webstore/detail/chrome-ig-story/bojgejgifofondahckoaahkilneffhmf)
  
  ## Telegram 
  - [Tsear.ch](http://www.tsear.ch) — Telegram messenger search-service, and Telegram channels and public chats store.
