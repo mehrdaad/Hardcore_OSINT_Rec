@@ -332,3 +332,4 @@
 - [OSRFramework](https://github.com/i3visio/osrframework) - Open Sources Research Framework focused on providing API and tools to perform more accurate online researches.
 - [DMI Tools](https://wiki.digitalmethods.net/Dmi/ToolDatabase) - The Digital Methods Initiative
 - [WhereEvent](http://www.wherevent.com/) - Looking for the best parties, events and activities in your area?
+- [Organized Crime & Corruption Reporting Project](https://data.occrp.org/) 
