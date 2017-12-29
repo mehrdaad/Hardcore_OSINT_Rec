@@ -121,7 +121,8 @@
 - [Quttera ThreatSign](http://quttera.com/) -  Scans the specified URL for the presence of malware.
 - [URL Query](https://urlquery.net/) - service for detecting and analyzing web-based malware.
 - [Intezer Analyze™](https://analyze.intezer.com) - it dissects binary code into thousands of small code fragments (genes), then compares them to a massive database that contains genes from malware and legitimate software, effectively providing a full DNA mapping of each executable.
-+ [Feodo tracker](https://feodotracker.abuse.ch/) - Feodo trojan vA|B|C|D tracker
+- [Feodo tracker](https://feodotracker.abuse.ch/) - Feodo trojan vA|B|C|D tracker
+- [PacketTotal](https://packettotal.com/) - PCAP analysis
 
 ## LIVE map/CCTV-camera/radio/.. 
 - [Insecurecam](https://www.insecam.org/en/) - World biggest online camera directory 
@@ -161,8 +162,7 @@
 - [Sandbox URL Analyzer](https://www.url-analyzer.net/) - Examines the URL and files in real-time.
 - [IsItHacked](http://www.isithacked.com/) - Performs several checks in real time and consults some blacklists.
 
-- [IsItPhising](http://isitphishing.org/) - Assesses the specified URL in real-time.
-- [PhishTank](https://www.phishtank.com/) - Join the fight against phishing.
+
 
 - [MxToolbox](http://mxtoolbox.com/blacklists.aspx) - Queries multiple reputational sources for information about the IP or domain
 
@@ -176,6 +176,8 @@
 - [URLVoid](http://www.urlvoid.com/) - - Looks up the URL in several blacklisting services.
 - [IPVoid](http://www.ipvoid.com/) - Looks up the IP in several blacklisting services.
 - [URIbl](https://admin.uribl.com/) - check URL is blacklist or not. 
+- [Ip Blacklist Cloud](https://www.ip-finder.me/) - 
+
 - [vURL](http://vurldissect.co.uk/) - Retrieves and displays the source code of the page; looks up its status in several blocklists.
 - [Zscaler Zulu URL Risk Analyzer](http://zulu.zscaler.com/) - Examines the URL using real-time and historical techniques.
 - [UpGuard ERA](https://app.upguard.com/webscan) - External Risk Assessment.
@@ -263,6 +265,8 @@
 
 ## Scam 
 - [Scamdex](http://www.scamdex.com/) - The #1 Internet Scam Resource
+- [IsItPhising](http://isitphishing.org/) - Assesses the specified URL in real-time.
+- [PhishTank](https://www.phishtank.com/) - Join the fight against phishing.
 
 ## HUMINT
 - [iSEEK](http://education.iseek.com/iseek) | [iSEEK.ai](http://education.iseek.com/#/web) - iSEEK Education is a targeted search engine for students, teachers, administrators, and caregivers.
