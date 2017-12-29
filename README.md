@@ -267,6 +267,7 @@
 - [Scamdex](http://www.scamdex.com/) - The #1 Internet Scam Resource
 - [IsItPhising](http://isitphishing.org/) - Assesses the specified URL in real-time.
 - [PhishTank](https://www.phishtank.com/) - Join the fight against phishing.
+- [Crimes of Persuasion](http://www.crimes-of-persuasion.com/) - inform the public, along with law enforcement personnel, justice officials and victim support groups on the workings and scope of telemarketing and investment fraud.
 
 ## HUMINT
 - [iSEEK](http://education.iseek.com/iseek) | [iSEEK.ai](http://education.iseek.com/#/web) - iSEEK Education is a targeted search engine for students, teachers, administrators, and caregivers.
