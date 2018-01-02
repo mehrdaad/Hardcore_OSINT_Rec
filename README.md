@@ -142,6 +142,8 @@
 + [Pokevision](https://www.pokevision.hk) - PokemonGO -- (currently) local areas of HongKong.
 
 - [YoutubeExplorer](https://youtubemapexplorer.herokuapp.com) - unusual way to discover videos from around the world. 
+- [Netwave IP Cams](https://github.com/6IX7ine/shodanwave) 
+
 ## Web time-machine
 - [archive.is](https://archive.is/)
 - [WaybackMachine](https://archive.org/) 
@@ -250,6 +252,7 @@
  - [Maltergo](https://www.paterva.com/web7/) - Threat Intelligence Gathering
  
 ## Raw u:p credentials
+- [Infoga](https://github.com/cys3c/infoga) - Email Gathering Tool
 - [Hashes](https://hashes.org/search.php) 
 - [DumpMon](https://github.com/jordan-wright/dumpmon) -  monitors multiple paste sites for password dumps. 
 - [theHarvester](https://github.com/laramies/theHarvester) - info gathering suite
