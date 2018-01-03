@@ -39,7 +39,7 @@
  - [Skrapp](https://www.skrapp.io/#) - Chrome extension for your Linkedin prospecting. 
  
  ## Instagram 
- [IG Story](https://chrome.google.com/webstore/detail/chrome-ig-story/bojgejgifofondahckoaahkilneffhmf)
+ - [IG Story](https://chrome.google.com/webstore/detail/chrome-ig-story/bojgejgifofondahckoaahkilneffhmf)
  
  ## Telegram 
  - [Tsear.ch](http://www.tsear.ch) — Telegram messenger search-service, and Telegram channels and public chats store.
@@ -278,6 +278,7 @@
 - [EchoSec](https://www.echosec.net/) - Geo-based search platform on social platform
 - [InstantCheckmate](https://www.instantcheckmate.com) - The Leading Background Search and People Search tool on the internet.
 - [Spokeo](https://www.spokeo.com/) - people search engine that organizes white pages listings, public records and social network information into simple profiles.
+- [Cubib](https://cubib.com/) - Public Data search 
 
 - [Jigsaw](http://www.jigsaw.com/) - The fastest way to find the right business contacts
 - [Market Visual](http://www.marketvisual.com/) - top-notch businesses|entrepreneurs| search engine
