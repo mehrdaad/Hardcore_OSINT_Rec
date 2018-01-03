@@ -123,6 +123,7 @@
 - [Intezer Analyze™](https://analyze.intezer.com) - it dissects binary code into thousands of small code fragments (genes), then compares them to a massive database that contains genes from malware and legitimate software, effectively providing a full DNA mapping of each executable.
 - [Feodo tracker](https://feodotracker.abuse.ch/) - Feodo trojan vA|B|C|D tracker
 - [PacketTotal](https://packettotal.com/) - PCAP analysis
+- [Any.Run](https://app.any.run/submissions) 
 
 ## LIVE map/CCTV-camera/radio/.. 
 - [Insecurecam](https://www.insecam.org/en/) - World biggest online camera directory 
