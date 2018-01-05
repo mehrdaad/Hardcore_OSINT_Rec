@@ -100,7 +100,10 @@
  - [DNS Trails](http://server9.rscott.org/) - huge DNS records.
  - [DNS Tree](https://www.dnstree.com/) - Important information about your dns and IP. Check that your DNS resolver isn't hijacked.
  - [DomainDossier](https://centralops.net/co/DomainDossier.aspx) - Investigate domains and IP addresses.
-
+ - [SSL Server Test](https://www.ssllabs.com/ssltest/index.html) - powered by Qualys.
+ - [testssl.sh](https://testssl.sh/) - free command line tool which checks a server's service on any port for the support of TLS/SSL ciphers, protocols as well as recent cryptographic flaws and more.
+ - [Certificate Search](https://crt.sh/) - Certificate-crawling for domains. 
+ 
 ## Malicious-ware Tracker
 - [VirusRadar](http://virusradar.com/en) - ESET worldmap of virus 
 - [VirusTotal](https://www.virustotal.com)
@@ -145,7 +148,7 @@
 - [YoutubeExplorer](https://youtubemapexplorer.herokuapp.com) - unusual way to discover videos from around the world. 
 - [Netwave IP Cams](https://github.com/6IX7ine/shodanwave) 
 
-## Web time-machine
+## Cached/Time-machine
 - [archive.is](https://archive.is/)
 - [WaybackMachine](https://archive.org/) 
 - [WaybackMachine Downloader](https://websitedownloader.io/wayback-machine-downloader/) 
@@ -189,12 +192,11 @@
 - [UpGuard ERA](https://app.upguard.com/webscan) - External Risk Assessment.
 - [BuiltWith](https://builtwith.com/) - Find out what websites are built with.
 - [Spy On Web](http://www.spyonweb.com/) 
-- [BlackBook Online](http://www.blackbookonline.info/) - free **PUBLIC**  records search site.
-- [Certificate Search](https://crt.sh/) - Certificate-crawling for domains. 
+
+
 - [OpenCorporates](https://opencorporates.com/) - The largest open database of companies in the world. 
 - [SameID](http://sameid.net/) - Cut through hours of keyword research in seconds.
-- [SSL Server Test](https://www.ssllabs.com/ssltest/index.html) - powered by Qualys.
-- [testssl.sh](https://testssl.sh/) - free command line tool which checks a server's service on any port for the support of TLS/SSL ciphers, protocols as well as recent cryptographic flaws and more. 
+ 
 
 - [Graph SEO](http://www.touchgraph.com/seo) - Java applet explore the connections between related websites.
 - [Cute visual_s.e](http://search.carrot2.org/stable/search)
@@ -296,6 +298,7 @@
 - [Gossip at social media](http://www.whostalkin.com/)
 
 - [Melissadata](http://www.melissadata.com/lookups/index.htm) 
+- [BlackBook Online](http://www.blackbookonline.info/) - free **PUBLIC**  records search site.
 
  # Changelog 
  > Update v2016
