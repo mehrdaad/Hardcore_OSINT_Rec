@@ -195,6 +195,7 @@
 - [ASafaweb](https://asafaweb.com/) - Automated Security Analyser for ASP.NET Websites.
 - [Graph SEO](http://www.touchgraph.com/seo) - Java applet explore the connections between related websites.
 - [Cute visual_s.e](http://search.carrot2.org/stable/search)
+- [Webhose](https://webhose.io/) - robust data feeds. 
 
  ## Metadata
  - [Just Metadata](https://github.com/ChrisTruncer/Just-Metadata) - Just-Metadata will allow you to quickly find the Top "X" number of states, cities, timezones, etc. that the loaded IP addresses are located in. It will allow you to search for IP addresses by country. You can search all IPs to find which ones are used in callbacks as identified by VirusTotal. Want to see if any IPs loaded have been documented as taking part of attacks via the Animus Project, Just-Metadata can do it.
@@ -236,7 +237,8 @@
  - [RiskIQ](https://community.riskiq.com/) - RiskIQ Community brings petabytes of internet intelligence directly to your fingertips. 
  - [YETI](https://yeti-platform.github.io/) - a.k.a Your Everyday Threat Intel.  
  - [CRITs](https://crits.github.io/) - Collaborative Research Into Threats.
- - [Anomali](https://www.anomali.com/platform/threatstream) - ThreatStream: Threat Intelligence Platform.
+ - [Anomali](https://www.anomali.com/platform/threatstream) - ThreatStream: Threat Intelligence Platform. | [STAXX](https://www.anomali.com/platform/staxx) 
+ 
  - [FireEye](https://www.fireeye.com/products/cyber-threat-intelligence.html) - Cyber Threat Intel. 
  - [RecordedFuture](https://www.recordedfuture.com/solutions/threat-intelligence-feeds/) - Request demo.
  - [SecuredWorks](https://www.secureworks.com/counter-threat-platform) - Request demo. 
