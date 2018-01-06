@@ -282,6 +282,7 @@
 - [IsItPhising](http://isitphishing.org/) - Assesses the specified URL in real-time.
 - [PhishTank](https://www.phishtank.com/) - Join the fight against phishing.
 - [Crimes of Persuasion](http://www.crimes-of-persuasion.com/) - inform the public, along with law enforcement personnel, justice officials and victim support groups on the workings and scope of telemarketing and investment fraud.
+- [KingPhisher](https://github.com/securestate/king-phisher) - tool for testing and promoting user awareness by simulating real world phishing attacks.
 
 ## HUMINT
 - [iSEEK](http://education.iseek.com/iseek) | [iSEEK.ai](http://education.iseek.com/#/web) - iSEEK Education is a targeted search engine for students, teachers, administrators, and caregivers.
@@ -307,25 +308,19 @@
  > Update v2016
  - [Real Intel Threat Analysis](https://github.com/ocmdev/rita) - open source framework for network traffic analysis.
 
-
  - [Geo_creepy](http://www.geocreepy.com/) - Geo-OSINT gathering info through social platform
  - [S.T.A.L.K.E.R](https://immunityproducts.blogspot.co.uk/2012/08/stalker-analyzing-your-wireless-data.html) - show what you can do in 15min.
 
- 
  - [Mobi Spy](http://www.mobistealth.com/) - for kid 🍼 
  
  - [ServerSniff](http://www.serversniff.net/index.php) - for netsys, sysads, webdev, secops
  - [Recon-NG modules](https://github.com/scumsec/Recon-ng-modules) 
-
-
  
  - [Source code crawl](https://nerdydata.com/search)
  - [source_search](https://searchcode.com/)
  - [Pastebin_bot](http://www.andrewmohawk.com/pasteLert)
  
-
  - [SpiderF00t](http://www.spiderfoot.net/) - Open Source Intelligence Automation 🥂
- 
  
  > Update v2017
  - [Belati](https://github.com/aancw/Belati) - traditional Swiss Army Knife for OSINT
