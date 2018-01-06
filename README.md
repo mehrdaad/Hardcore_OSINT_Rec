@@ -23,7 +23,7 @@
 
 + [HikingFW](https://hikinggfw.org)
 
- ## IoT Search Engine
+ ## IoT/Hardware/Firmware/Embedded systems
  - [NetDB.io](http://www.netdb.io/) -  IOT SEARCH ENGINE aggregator FOR SHODAN, NETDB, ZOOMEYE, CENSYS 
  - [Exploitee](https://www.exploitee.rs) - Recon hardwares bug/pwned/exploit
  - [RouterPwn](http://www.routerpwn.com/hardware/) **(discontinued?)**
@@ -223,7 +223,7 @@
  - [CommonCrawl](https://commoncrawl.org/the-data/examples/) - It contains raw web page data, extracted metadata and text extractions.
  - [TinEye](https://www.tineye.com/) - Search by image and find where that image appears online 
  
-## Threat Intel Gathering
+## Threat Intel Hunter
  - [stoQ](http://stoq.punchcyber.com) - It's a super-simple framework that allows cyber analysts to organize and automate repetitive, data-driven tasks.
  - [MineMeld](https://live.paloaltonetworks.com/t5/MineMeld-Articles/Quick-tour-of-MineMeld-default-config/ta-p/72042) - Palo Alto Networks Threat Intel. 
  
@@ -258,6 +258,8 @@
  - [IVRE Framework](https://ivre.rocks) - Network Recon Analysis
  - [MrLooquer](http://www.mrlooquer.com/list) - IPv6 threat crawler
  - [Maltergo](https://www.paterva.com/web7/) - Threat Intelligence Gathering
+ - [ACE](https://github.com/Invoke-IR/ACE) - The Automated Collection and Enrichment (ACE) platform is a suite of tools for threat hunters to collect data from many endpoints in a network and automatically enrich the data.
+ 
  
 ## Raw u:p credentials
 - [Infoga](https://github.com/cys3c/infoga) - Email Gathering Tool
@@ -273,6 +275,7 @@
 
 - [Globe_ftp_stored](http://globalfilesearch.com/)
 - [Datasploit](https://github.com/DataSploit/datasploit) - OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc., aggregate all the raw data, and give data in multiple formats.
+- [AD-Recon](https://github.com/sense-of-security/ADRecon) - Active Directory Recon
 
 ## Scam 
 - [Scamdex](http://www.scamdex.com/) - The #1 Internet Scam Resource
@@ -324,14 +327,13 @@
  - [SpiderF00t](http://www.spiderfoot.net/) - Open Source Intelligence Automation 🥂
  
  
- > Update v2017.OCT 
+ > Update v2017
  - [Belati](https://github.com/aancw/Belati) - traditional Swiss Army Knife for OSINT
  - [Alephdata/Aleph](https://github.com/alephdata/aleph) - A toolkit for data search, management and anlaysis in investigative reporting. Sift through large sets of structured and unstructured data, and find the people and companies you look for.
  - [OSINT Framework](https://github.com/lockfale/OSINT-Framework) - The intention is to help people find OSINT resources that return free information.
  - [Intrigue.io/Intrigue-core](http://intrigue.io/) - Discover your attack surface! 
  - [ATSCAN](https://github.com/AlisamTechnology/ATSCAN) - Advanced Search & Mass Exploit Scanner
 
- > Update v2017.NOV
  - [Trape](https://github.com/boxug/trape) - Learn to track the world, to avoid being traced.
  - [Dradis Framework](https://github.com/dradis/dradis-ce) - Dradis Framework: Colllaboration and reporting for IT Security teams
 
@@ -343,7 +345,6 @@
 - [McAfee SiteDigger v3](https://www.mcafee.com/us/downloads/free-tools/sitedigger.aspx) - Identify Web Site Information Leakage; Free Tool Utilizes Google Search Engine to Pinpoint Potential Exposures
 - [Socnetv](http://socnetv.org/) - Opensource tool for social network analysis. 
 
-> Update v2017.DEC
 - [CrimeFlare](http://www.crimeflare.biz/cfs.html) - Uncovering bad guys hiding behind CloudFlare.
 - [TCP Utils](https://www.tcpiputils.com/) - Ultimate online investigation tools
 - [Twilio](https://www.twilio.com/lookup) - Phone Validator API 
@@ -353,3 +354,6 @@
 - [DMI Tools](https://wiki.digitalmethods.net/Dmi/ToolDatabase) - The Digital Methods Initiative
 - [WhereEvent](http://www.wherevent.com/) - Looking for the best parties, events and activities in your area?
 - [Organized Crime & Corruption Reporting Project](https://data.occrp.org/) 
+
+> Update v2018.JAN
+- [Salamandra](https://github.com/eldraco/Salamandra) - tool to detect and locate spy microphones in closed environments. It find microphones based on the strength of the signal sent by the microphone and the amount of noise and overlapped frequencies. 
