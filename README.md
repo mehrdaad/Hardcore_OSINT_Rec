@@ -263,6 +263,8 @@
  - [HELK](https://github.com/Cyb3rWard0g/HELK) 
  
 ## Raw u:p credentials
+- [Email-verifier](https://hunter.io/email-verifier)
+- [ReverseMails](http://reversemails.com/) - connect with the right Service Experts.
 - [Infoga](https://github.com/cys3c/infoga) - Email Gathering Tool
 - [Hashes](https://hashes.org/search.php) 
 - [DumpMon](https://github.com/jordan-wright/dumpmon) -  monitors multiple paste sites for password dumps. 
@@ -305,6 +307,8 @@
 - [Melissadata](http://www.melissadata.com/lookups/index.htm) 
 - [BlackBook Online](http://www.blackbookonline.info/) - free **PUBLIC**  records search site.
 - [Pipl](https://pipl.com/) - Pipl is the place to find the person behind the email address, social username or phone number.
+- [JohnDoe](https://johndoe.com/) 
+- [FastPeopleSearch](https://www.fastpeoplesearch.com/) - to bring next generation Telephony and Big-Data access to the general public.
 
  # Changelog 
  > Update v2016
@@ -355,3 +359,4 @@
 > Update v2018.JAN
 - [Salamandra](https://github.com/eldraco/Salamandra) - tool to detect and locate spy microphones in closed environments. It find microphones based on the strength of the signal sent by the microphone and the amount of noise and overlapped frequencies. 
 - [FullContact](https://www.fullcontact.com/integrations/data) - Transform partial identities into complete profiles to connect with prospects, capture audience insights, and enhance customer experiences.
+- [FakeSpot](https://www.fakespot.com/) - detect FAKE reviews -- ```We believe in the importance of user reviews. With so many online shopping options, a strong or weak product review can have a huge impact on whether or not a purchase is made. The credibility of these reviews is undermined by businesses who leave fake reviews for themselves or for their competitors – or by individuals with an undisclosed bias.```
