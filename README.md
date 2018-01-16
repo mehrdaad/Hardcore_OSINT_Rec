@@ -87,7 +87,9 @@
  
  ## Anti-bots 
  - [BotScout](http://botscout.com/) - BotScout helps prevent automated web scripts, known as "bots", from registering on forums, polluting databases, spreading spam, and abusing forms on web sites.
-   
+ - [BotReports](http://www.botreports.com/) - 	Bad Bots | Crawlers | Scrapers
+ - [User-Agent-collection](http://useragentstring.com/pages/useragentstring.php) 
+ 
  ## Domains
  - [PassiveDNS Mnemonic](https://passivedns.mnemonic.no) 
  - [Fierce](https://github.com/mschwager/fierce) - DNS reconnaissance tool for locating non-contiguous IP space.
