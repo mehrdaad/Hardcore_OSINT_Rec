@@ -8,6 +8,7 @@
  - [APT Notes](https://github.com/kbandla/APTnotes) - Various public documents, whitepapers and articles about APT campaigns.
  - [ATT&CK](https://attack.mitre.org) - Adversarial Tactics, Techniques & Common Knowledge || [CARET](https://car.mitre.org) 
  - [Cryptome](https://cryptome.org/) 
+ - [IETF Datatracker](https://datatracker.ietf.org/) - The IETF Datatracker is the day-to-day front-end to the IETF database for people who work on IETF standards. It contains data about the documents, working groups, meetings, agendas, minutes, presentations, and more, of the IETF.
  
  ## Browser extensions
  - [ThreatPinch Lookup](https://github.com/cloudtracer/ThreatPinchLookup) - ThreatPinch Lookup creates informational tooltips when hovering oven an item of interest on any website. It helps speed up security investigations by automatically providing relevant information upon hovering over any IPv4 address, MD5 hash, SHA2 hash, and CVE title. It’s designed to be completely customizable and work with any rest API.
@@ -51,15 +52,16 @@
  - [Facebook Certificate Transparency Monitoring](https://developers.facebook.com/tools/ct/) 
  - [fbStalker](https://github.com/milo2012/osintstalker) - OSINT tool for Facebook - Based on Facebook Graph and other stuff.
  
- ## Twitter 
+ ## Twitter
+ - 🥇 [Tinfoleak](http://www.vicenteaguileradiaz.com/tools/) - “The most complete open-source tool for Twitter intelligence analysis”
+ - 🥇 [Twitonomy](http://www.twitonomy.com) - a powerful Twitter anayltics platform
+ - 🥈 [Tweetdeck](web.tweetdeck.com) -	Twitter	product	that	allows	you	to	monitor	multiple	Twitter	streams	simultaneously. 
+ - 🥈 [BetterTweetDeck](https://github.com/eramdam/BetterTweetDeck) 
  - [Tweet-tivist](http://www.tweetarchivist.com) - Powerful, Affordable Twitter Analytics
  - [1mil-Tweetmap](http://onemilliontweetmap.com/) - Tweet Map
- - [Tinfoleak](http://www.vicenteaguileradiaz.com/tools/) - “The most complete open-source tool for Twitter intelligence analysis” 
  - [Birdwatcher](https://github.com/michenriksen/birdwatcher) - Data analysis & OSINT framework
  - [Twrench](https://twren.ch) - crawling spreading of ReTweet.
  - [Foller](https://foller.me/) - Twitter analytics application that gives you rich insights about any public Twitter profile.
- - [Tweetdeck](web.tweetdeck.com) -	Twitter	product	that	allows	you	to	monitor	multiple	Twitter	streams	simultaneously. 
- - [BetterTweetDeck](https://github.com/eramdam/BetterTweetDeck) 
  - [Geotweet](https://github.com/Pinperepette/Geotweet_GUI) - allows you to track tweets and trace geographical locations and then export to google maps.
  - [Trendsmap](https://www.trendsmap.com/) - Real-time Twitter trending hashtags and topics.
  
