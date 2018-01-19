@@ -129,8 +129,10 @@
 - [Feodo tracker](https://feodotracker.abuse.ch/) - Feodo trojan vA|B|C|D tracker
 - [PacketTotal](https://packettotal.com/) - PCAP analysis
 - [Any.Run](https://app.any.run/submissions) 
+- 🥇 **[All Cybercrime IP Feeds @ by FireHOL project](http://iplists.firehol.org)** - This site analyses all available security IP Feeds, mainly related to on-line attacks, on-line service abuse, malwares, botnets, command and control servers and other cybercrime activities.
+ 
 
-## IMINT
+## IMINT --- ```imagery intelligence``` 
 - [Insecurecam](https://www.insecam.org/en/) - World biggest online camera directory 
 - [IPVM v3](https://calculator.ipvm.com/) - IPVM Camera Calculator V3
 - [Corona Atlas & Referencing System](http://corona.cast.uark.edu/) -  CORONA satellites took high-resolution images of most of the earth’s surface.
@@ -149,7 +151,15 @@
 
 - [YoutubeExplorer](https://youtubemapexplorer.herokuapp.com) - unusual way to discover videos from around the world. 
 - [Netwave IP Cams](https://github.com/6IX7ine/shodanwave) 
-
+### @_image_ 
+ - 🥇 [TinEye](https://www.tineye.com/) - Search by image and find where that image appears online  
+ - 🥇 [eXif.er](https://www.thexifer.net/) - web-based EXIF Editor
+ - 🥇 [ExifTool](https://sno.phy.queensu.ca/~phil/exiftool/) - Read/Write/Edit meta infomation.
+ - [Jeffrey's Image Metadata Viewer](http://regex.info/blog/other-writings/online-exif-image-data-viewer) - Online Exif (Image Data) Viewer. 
+ - [FotoForensic](https://fotoforensics.com/) - EXIF Image Metada Forensic.
+ - [Stolen Camera Finder](http://www.stolencamerafinder.com/) - use the serial number stored in your photos to search the web for other photos taken with the same camera.
+ - [Karma Decay](http://karmadecay.com/) - Reverse image search on Reddit.com (beta) 
+ - [RootAbout](www.rootabout.com) - a search-by-image service that has indexed the collections at the Internet Archive.
 
 ## Cached/Time-machine
 - [archive.is](https://archive.is/)
@@ -157,75 +167,17 @@
 - [WaybackMachine Downloader](https://websitedownloader.io/wayback-machine-downloader/) 
 - [CachedView](http://cachedview.com/) 
 
-## Web
-- [SiteLiner](http://www.siteliner.com/) - Find duplicate content, broken links, and more...  
-- [SimilarWeb](https://www.similarweb.com) - Website insight. 
-- [Desenmascara](http://desenmascara.me/) - Flags websites suspected of selling counterfeit products.
-- [FortiGuard web filtering](http://www.fortiguard.com/ip_rep/) - Display URL's history and category.
-- [Norton Safe Web](http://safeweb.norton.com/) - historical reputation data about the website.
-- [McAfee TrustedSource](http://www.trustedsource.org/) -  historical reputation data about the website.
-- [TrendMicro Web Reputation](http://reclassify.wrs.trendmicro.com/) - check URL reputation.
-- [Symantec WebPulse](https://sitereview.bluecoat.com/) - Looks up the website in BlueCoat’s database.
-
-- [TheMajecticMillion](https://majestic.com/reports/majestic-million) - The million domains we find with the most referring subnets.
-- [Sandbox URL Analyzer](https://www.url-analyzer.net/) - Examines the URL and files in real-time.
-- [IsItHacked](http://www.isithacked.com/) - Performs several checks in real time and consults some blacklists.
-
-
-
-- [MxToolbox](http://mxtoolbox.com/blacklists.aspx) - Queries multiple reputational sources for information about the IP or domain
-
-- [Reputation Authority](http://www.reputationauthority.org/) - Shows reputational data on specified domain or IP address.
-- [Unmask Parasites](http://www.unmaskparasites.com/security-report/) - Looks up the URL in the Google Safe Browsing database.
-
-- [job|seeker](https://www.glassdoor.com/index.htm) - Find the job that fits your life
-- [MyIPNeighbours](http://www.my-ip-neighbors.com) - Find sites on the same IP address 
-
-- [urlscan.io](https://urlscan.io/) - Examines the URL in real time and displays the requests it issues to render the page.
-- [URLVoid](http://www.urlvoid.com/) - - Looks up the URL in several blacklisting services.
-- [IPVoid](http://www.ipvoid.com/) - Looks up the IP in several blacklisting services.
-- [URIbl](https://admin.uribl.com/) - check URL is blacklist or not. 
-- [Ip Blacklist Cloud](https://www.ip-finder.me/) - 
-
-- [PunkSpider v3](https://www.punkspider.org/) - webapp fuzzing search engine.
-- [ASafaweb](https://asafaweb.com/) - Automated Security Analyser for ASP.NET Websites.
-
-- [vURL](http://vurldissect.co.uk/) - Retrieves and displays the source code of the page; looks up its status in several blocklists.
-- [Zscaler Zulu URL Risk Analyzer](http://zulu.zscaler.com/) - Examines the URL using real-time and historical techniques.
-- [UpGuard ERA](https://app.upguard.com/webscan) - External Risk Assessment.
-- [BuiltWith](https://builtwith.com/) - Find out what websites are built with.
-- [Spy On Web](http://www.spyonweb.com/) 
-
-
-- [OpenCorporates](https://opencorporates.com/) - The largest open database of companies in the world. 
-- [SameID](http://sameid.net/) - Cut through hours of keyword research in seconds.
- 
-
-- [Graph SEO](http://www.touchgraph.com/seo) - Java applet explore the connections between related websites.
-- [Cute visual_s.e](http://search.carrot2.org/stable/search)
-- [Webhose](https://webhose.io/) - robust data feeds. 
-
- ## Metadata
- - [Just Metadata](https://github.com/ChrisTruncer/Just-Metadata) - Just-Metadata will allow you to quickly find the Top "X" number of states, cities, timezones, etc. that the loaded IP addresses are located in. It will allow you to search for IP addresses by country. You can search all IPs to find which ones are used in callbacks as identified by VirusTotal. Want to see if any IPs loaded have been documented as taking part of attacks via the Animus Project, Just-Metadata can do it.
- 
- - [ExifTool](https://sno.phy.queensu.ca/~phil/exiftool/) - Read/Write/Edit meta infomation.
- - [Jeffrey's Image Metadata Viewer](http://regex.info/blog/other-writings/online-exif-image-data-viewer) - Online Exif (Image Data) Viewer. 
- - [FotoForensic](https://fotoforensics.com/) - EXIF Image Metada Forensic.
- - [Stolen Camera Finder](http://www.stolencamerafinder.com/) - use the serial number stored in your photos to search the web for other photos taken with the same camera.
- - [Karma Decay](http://karmadecay.com/) - Reverse image search on Reddit.com (beta) 
- - [RootAbout](www.rootabout.com) - a search-by-image service that has indexed the collections at the Internet Archive.
- 
+## Metadata
+ - 🥇 [Just Metadata](https://github.com/ChrisTruncer/Just-Metadata) - Just-Metadata will allow you to quickly find the Top "X" number of states, cities, timezones, etc. that the loaded IP addresses are located in. It will allow you to search for IP addresses by country. You can search all IPs to find which ones are used in callbacks as identified by VirusTotal. Want to see if any IPs loaded have been documented as taking part of attacks via the Animus Project, Just-Metadata can do it.
  - [Izito](http://www.izito.com/) - iZito is a meta search engine with a clever feature.
  - [Ixquick](https://www.ixquick.com/) - Meta search engine that ranks results based on the number of “top 10” rankings a site receives from the various search engines.
  - [Metacrawler](http://www.metacrawler.com/) - MetaCrawler is a metasearch engine program that blended web search results from Google, Yahoo!, Bing, Ask.com, About.com, MIVA, LookSmart and other popular search engine programs.
- 
  - [Webcrawler]() - WebCrawler was a metasearch engine that blends the top search results from Google Search and Yahoo! Search. WebCrawler also provides users the option to search for images, audio, video, news, yellow pages and white pages. 
- 
  - [Monstercrawler](http://monstercrawler.com/) - Meta Search Engine Monster Crawler allows a simultaneous multi-thread search of Google, Yahoo & Bing with just one click!
-  
  - [CommonCrawl](https://commoncrawl.org/the-data/examples/) - It contains raw web page data, extracted metadata and text extractions.
- - [TinEye](https://www.tineye.com/) - Search by image and find where that image appears online 
- 
+
+
+
 ## Threat Intel Hunter
  - [stoQ](http://stoq.punchcyber.com) - It's a super-simple framework that allows cyber analysts to organize and automate repetitive, data-driven tasks.
  - [MineMeld](https://live.paloaltonetworks.com/t5/MineMeld-Articles/Quick-tour-of-MineMeld-default-config/ta-p/72042) - Palo Alto Networks Threat Intel. 
@@ -283,7 +235,7 @@
 - [AD-Recon](https://github.com/sense-of-security/ADRecon) - Active Directory Recon
 
 ## Scam 
-- [Scamdex](http://www.scamdex.com/) - The #1 Internet Scam Resource
+- 🥇 [Scamdex](http://www.scamdex.com/) - The #1 Internet Scam Resource
 - [IsItPhising](http://isitphishing.org/) - Assesses the specified URL in real-time.
 - [PhishTank](https://www.phishtank.com/) - Join the fight against phishing.
 - [Crimes of Persuasion](http://www.crimes-of-persuasion.com/) - inform the public, along with law enforcement personnel, justice officials and victim support groups on the workings and scope of telemarketing and investment fraud.
@@ -312,7 +264,53 @@
 - [JohnDoe](https://johndoe.com/) 
 - [FastPeopleSearch](https://www.fastpeoplesearch.com/) - to bring next generation Telephony and Big-Data access to the general public.
 
- # Changelog 
+ 
+ # Changelog (not categorized yet!)
+ > Update v2014-2015
+- [SiteLiner](http://www.siteliner.com/) - Find duplicate content, broken links, and more...  
+- [SimilarWeb](https://www.similarweb.com) - Website insight. 
+- [Desenmascara](http://desenmascara.me/) - Flags websites suspected of selling counterfeit products.
+- [FortiGuard web filtering](http://www.fortiguard.com/ip_rep/) - Display URL's history and category.
+- [Norton Safe Web](http://safeweb.norton.com/) - historical reputation data about the website.
+- [McAfee TrustedSource](http://www.trustedsource.org/) -  historical reputation data about the website.
+- [TrendMicro Web Reputation](http://reclassify.wrs.trendmicro.com/) - check URL reputation.
+- [Symantec WebPulse](https://sitereview.bluecoat.com/) - Looks up the website in BlueCoat’s database.
+
+- [TheMajecticMillion](https://majestic.com/reports/majestic-million) - The million domains we find with the most referring subnets.
+- [Sandbox URL Analyzer](https://www.url-analyzer.net/) - Examines the URL and files in real-time.
+- [IsItHacked](http://www.isithacked.com/) - Performs several checks in real time and consults some blacklists.
+
+
+- [MxToolbox](http://mxtoolbox.com/blacklists.aspx) - Queries multiple reputational sources for information about the IP or domain
+
+- [Reputation Authority](http://www.reputationauthority.org/) - Shows reputational data on specified domain or IP address.
+- [Unmask Parasites](http://www.unmaskparasites.com/security-report/) - Looks up the URL in the Google Safe Browsing database.
+
+- [job|seeker](https://www.glassdoor.com/index.htm) - Find the job that fits your life
+- [MyIPNeighbours](http://www.my-ip-neighbors.com) - Find sites on the same IP address 
+
+- [urlscan.io](https://urlscan.io/) - Examines the URL in real time and displays the requests it issues to render the page.
+- [URLVoid](http://www.urlvoid.com/) - - Looks up the URL in several blacklisting services.
+- [IPVoid](http://www.ipvoid.com/) - Looks up the IP in several blacklisting services.
+- [URIbl](https://admin.uribl.com/) - check URL is blacklist or not. 
+- [Ip Blacklist Cloud](https://www.ip-finder.me/) - 
+
+- [PunkSpider v3](https://www.punkspider.org/) - webapp fuzzing search engine.
+- [ASafaweb](https://asafaweb.com/) - Automated Security Analyser for ASP.NET Websites.
+
+- [vURL](http://vurldissect.co.uk/) - Retrieves and displays the source code of the page; looks up its status in several blocklists.
+- [Zscaler Zulu URL Risk Analyzer](http://zulu.zscaler.com/) - Examines the URL using real-time and historical techniques.
+- [UpGuard ERA](https://app.upguard.com/webscan) - External Risk Assessment.
+- [BuiltWith](https://builtwith.com/) - Find out what websites are built with.
+- [Spy On Web](http://www.spyonweb.com/) 
+
+- [OpenCorporates](https://opencorporates.com/) - The largest open database of companies in the world. 
+- [SameID](http://sameid.net/) - Cut through hours of keyword research in seconds.
+ 
+- [Graph SEO](http://www.touchgraph.com/seo) - Java applet explore the connections between related websites.
+- [Cute visual_s.e](http://search.carrot2.org/stable/search)
+- [Webhose](https://webhose.io/) - robust data feeds. 
+
  > Update v2016
  - [Real Intel Threat Analysis](https://github.com/ocmdev/rita) - open source framework for network traffic analysis.
 
@@ -328,7 +326,7 @@
  - [source_search](https://searchcode.com/)
  - [Pastebin_bot](http://www.andrewmohawk.com/pasteLert)
  
- - [SpiderF00t](http://www.spiderfoot.net/) - Open Source Intelligence Automation 🥂
+ - 🥇 [SpiderF00t](http://www.spiderfoot.net/) - Open Source Intelligence Automation 🥂
  
  > Update v2017
  - [Belati](https://github.com/aancw/Belati) - traditional Swiss Army Knife for OSINT
@@ -360,5 +358,5 @@
 
 > Update v2018.JAN
 - [Salamandra](https://github.com/eldraco/Salamandra) - tool to detect and locate spy microphones in closed environments. It find microphones based on the strength of the signal sent by the microphone and the amount of noise and overlapped frequencies. 
-- [FullContact](https://www.fullcontact.com/integrations/data) - Transform partial identities into complete profiles to connect with prospects, capture audience insights, and enhance customer experiences.
+- 🥇 [FullContact](https://www.fullcontact.com/integrations/data) - Transform partial identities into complete profiles to connect with prospects, capture audience insights, and enhance customer experiences.
 - [FakeSpot](https://www.fakespot.com/) - detect FAKE reviews -- ```We believe in the importance of user reviews. With so many online shopping options, a strong or weak product review can have a huge impact on whether or not a purchase is made. The credibility of these reviews is undermined by businesses who leave fake reviews for themselves or for their competitors – or by individuals with an undisclosed bias.```
