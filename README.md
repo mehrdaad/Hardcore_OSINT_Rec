@@ -41,6 +41,7 @@
  
  ## Instagram 
  - [IG Story](https://chrome.google.com/webstore/detail/chrome-ig-story/bojgejgifofondahckoaahkilneffhmf)
+ - [Picbear](http://picbear.com) - Instagram Web Viewer that you can easily browse users, followers, hashtags, popular contents, statistics and much more.
  
  ## Telegram 
  - [Tsear.ch](http://www.tsear.ch) — Telegram messenger search-service, and Telegram channels and public chats store.
