@@ -11,6 +11,7 @@
  
 ## Windows 💻
  - [Gibson Research Corporation](https://www.grc.com/freepopular.htm)
+ - [Hardentools](https://github.com/securitywithoutborders/hardentools)
  
 ## Mac 🍎
 - [Objective-See Free tools](https://objective-see.com/products.html) 
