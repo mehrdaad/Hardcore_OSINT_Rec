@@ -110,6 +110,7 @@
  - [Certificate Search](https://crt.sh/) - Certificate-crawling for domains. 
  
 ## Malicious-ware Tracker
+- [Hybrid Analysis](https://www.hybrid-analysis.com) | [Reverse.It](https://www.reverse.it) - free malware analysis service for the community that detects and analyzes unknown threats using a unique Hybrid Analysis technology. 
 - [VirusRadar](http://virusradar.com/en) - ESET worldmap of virus 
 - [VirusTotal](https://www.virustotal.com)
 - [Malwr](https://malwr.com/) 
@@ -272,6 +273,7 @@
  > Update v2014-2015
 - [SiteLiner](http://www.siteliner.com/) - Find duplicate content, broken links, and more...  
 - [SimilarWeb](https://www.similarweb.com) - Website insight. 
+- [Semrush](https://www.semrush.com) - All-in-One marketing tookit. 
 - [Desenmascara](http://desenmascara.me/) - Flags websites suspected of selling counterfeit products.
 - [FortiGuard web filtering](http://www.fortiguard.com/ip_rep/) - Display URL's history and category.
 - [Norton Safe Web](http://safeweb.norton.com/) - historical reputation data about the website.
