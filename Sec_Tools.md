@@ -22,10 +22,10 @@
 - [N0where](https://n0where.net/best-cybersecurity-tools/)
 
 ### Helpful links
-| REPO                                                   |    RESYNC    | NUM. OF TOOLS |  
-|--------------------------------------------------------|--------------|---------------|
-| [Kali](https://en.kali.tools/all/?)                    |    Oct-29    |     1916      |
-| [BlackArch](https://blackarch.org/tools.html)          |    Oct-29    |     1910      |
+|                           REPO                         |    RESYNC         | NUM. OF TOOLS |  
+|--------------------------------------------------------|-------------------|---------------|
+| [Kali](https://en.kali.tools/all/?)                    |    23_JAN_2018    |     1929      |
+| [BlackArch](https://blackarch.org/tools.html)          |    23_JAN_2018    |     1925      |
 
 
 # ANONYMITY
