@@ -38,7 +38,8 @@
  ## LinkedIn 
  - [Endorser](https://github.com/eth0izzle/the-endorser) - OSINT tool that allows you to draw out relationships between people on LinkedIn via endorsements/skills. 
  - [Skrapp](https://www.skrapp.io/#) - Chrome extension for your Linkedin prospecting. 
- 
+ - [LinkedInt](https://github.com/mdsecactivebreach/LinkedInt) - A LinkedIn scraper for reconnaissance during adversary simulation.
+
  ## Instagram 
  - [IG Story](https://chrome.google.com/webstore/detail/chrome-ig-story/bojgejgifofondahckoaahkilneffhmf)
  - [Picbear](http://picbear.com) - Instagram Web Viewer that you can easily browse users, followers, hashtags, popular contents, statistics and much more.
