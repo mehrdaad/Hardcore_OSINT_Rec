@@ -56,7 +56,7 @@
  - [fbStalker](https://github.com/milo2012/osintstalker) - OSINT tool for Facebook - Based on Facebook Graph and other stuff.
  
  ## Twitter
- - 🥇 [Tinfoleak](http://www.vicenteaguileradiaz.com/tools/) - “The most complete open-source tool for Twitter intelligence analysis”
+ - 🥇 [Tinfoleak](https://github.com/vaguileradiaz/tinfoleak) - “The most complete open-source tool for Twitter intelligence analysis”
  - 🥇 [Twitonomy](http://www.twitonomy.com) - a powerful Twitter anayltics platform
  - 🥈 [Tweetdeck](web.tweetdeck.com) -	Twitter	product	that	allows	you	to	monitor	multiple	Twitter	streams	simultaneously. 
  - 🥈 [BetterTweetDeck](https://github.com/eramdam/BetterTweetDeck) 
@@ -367,3 +367,4 @@
 - [Salamandra](https://github.com/eldraco/Salamandra) - tool to detect and locate spy microphones in closed environments. It find microphones based on the strength of the signal sent by the microphone and the amount of noise and overlapped frequencies. 
 - 🥇 [FullContact](https://www.fullcontact.com/integrations/data) - Transform partial identities into complete profiles to connect with prospects, capture audience insights, and enhance customer experiences.
 - [FakeSpot](https://www.fakespot.com/) - detect FAKE reviews -- ```We believe in the importance of user reviews. With so many online shopping options, a strong or weak product review can have a huge impact on whether or not a purchase is made. The credibility of these reviews is undermined by businesses who leave fake reviews for themselves or for their competitors – or by individuals with an undisclosed bias.```
+- [FAW](https://en.fawproject.com/) - Forensic Acquisition of Websites. 
