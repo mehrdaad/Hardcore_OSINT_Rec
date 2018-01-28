@@ -12,6 +12,7 @@
 ## Windows 💻
  - [Gibson Research Corporation](https://www.grc.com/freepopular.htm)
  - [Hardentools](https://github.com/securitywithoutborders/hardentools)
+ - [PingCastle](https://www.pingcastle.com/) - AD Security at 80% in 20% of the time.
  
 ## Mac 🍎
 - [Objective-See Free tools](https://objective-see.com/products.html) 
