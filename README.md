@@ -368,3 +368,4 @@
 - 🥇 [FullContact](https://www.fullcontact.com/integrations/data) - Transform partial identities into complete profiles to connect with prospects, capture audience insights, and enhance customer experiences.
 - [FakeSpot](https://www.fakespot.com/) - detect FAKE reviews -- ```We believe in the importance of user reviews. With so many online shopping options, a strong or weak product review can have a huge impact on whether or not a purchase is made. The credibility of these reviews is undermined by businesses who leave fake reviews for themselves or for their competitors – or by individuals with an undisclosed bias.```
 - [FAW](https://en.fawproject.com/) - Forensic Acquisition of Websites. 
+- [Strava Labs Projects](https://labs.strava.com/projects/)
