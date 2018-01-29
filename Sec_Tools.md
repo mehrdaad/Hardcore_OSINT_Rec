@@ -8,6 +8,7 @@
 ## Linux 🐚
  - [LinuxSecurity.Expert](https://linuxsecurity.expert/security-tools/top-100)
  - [Glyptodon](http://blog.sevagas.com/?-Glyptodon-) 
+ - [SecThemAll](https://secthemall.com/) - Bash script that automatically blocks IP using iptables. It distributes each blocked IP on all your Linux server.
  
 ## Windows 💻
  - [Gibson Research Corporation](https://www.grc.com/freepopular.htm)
