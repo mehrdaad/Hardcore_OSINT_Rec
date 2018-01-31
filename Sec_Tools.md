@@ -1,4 +1,5 @@
  ## Toolswatch 🔧
+ - [Black Hat Arsenal Top 10 Security Tools](http://www.toolswatch.org/2018/01/black-hat-arsenal-top-10-security-tools) 
  - [Asernal Tools](https://github.com/toolswatch/blackhat-arsenal-tools)
  - [Top tools @ 2013](http://www.toolswatch.org/2013/12/2013-top-security-tools-as-voted-by-toolswatch-org-readers/)
  - [Top tools @ 2014](http://www.toolswatch.org/2015/01/2014-top-security-tools-as-voted-by-toolswatch-org-readers/)
@@ -18,6 +19,9 @@
 ## Mac 🍎
 - [Objective-See Free tools](https://objective-see.com/products.html) 
 - [DEFCON14 Mac Security](https://www.defcon.org/images/defcon-14/dc-14-presentations/DC-14-Edge-Security.pdf) 
+
+## USB cleaner
+- [CIRCLean USB Sanitizer](https://github.com/Rafiot/KittenGroomer)
 
 ## Gray Hat tools
 - [Phenolit ORG](http://www.phenoelit.org/fr/tools.html)
