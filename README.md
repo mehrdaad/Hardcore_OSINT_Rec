@@ -201,6 +201,7 @@
  - [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/) - Cloud Threat Intelligence 
  - [Deepviz](https://search.deepviz.com/) - Offers historical threat intel data about IPs, domains, etc.
  - [RiskIQ](https://community.riskiq.com/) - RiskIQ Community brings petabytes of internet intelligence directly to your fingertips. 
+ - [PassiveTotal](https://github.com/passivetotal)
  - [YETI](https://yeti-platform.github.io/) - a.k.a Your Everyday Threat Intel.  
  - [CRITs](https://crits.github.io/) - Collaborative Research Into Threats.
  - [Anomali](https://www.anomali.com/platform/threatstream) - ThreatStream: Threat Intelligence Platform. | [STAXX](https://www.anomali.com/platform/staxx) 
@@ -221,7 +222,7 @@
  - [Maltergo](https://www.paterva.com/web7/) - Threat Intelligence Gathering
  - [ACE](https://github.com/Invoke-IR/ACE) - The Automated Collection and Enrichment (ACE) platform is a suite of tools for threat hunters to collect data from many endpoints in a network and automatically enrich the data.
  - [HELK](https://github.com/Cyb3rWard0g/HELK) 
- 
+  
 ## Raw u:p credentials
 - [Email-verifier](https://hunter.io/email-verifier)
 - [ReverseMails](http://reversemails.com/) - connect with the right Service Experts.
