@@ -2,7 +2,7 @@
  <p align="center"><img src="https://i.imgur.com/85zvb3s.png"></p>
 
 
- ## News
+## News
  - [Bell¿ngcat](https://www.bellingcat.com/) - the home of online investigations.
  - [Cyberwire](https://www.thecyberwire.com/index.html) - The CyberWire is a free, community-driven cyber security news service based in Baltimore. 
  - [APT Group & Operations](https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml#) - Worldwide APT Group. 
@@ -11,41 +11,41 @@
  - [Cryptome](https://cryptome.org/) 
  - [IETF Datatracker](https://datatracker.ietf.org/) - The IETF Datatracker is the day-to-day front-end to the IETF database for people who work on IETF standards. It contains data about the documents, working groups, meetings, agendas, minutes, presentations, and more, of the IETF.
  
- ## Browser extensions
+## Browser extensions
  - [ThreatPinch Lookup](https://github.com/cloudtracer/ThreatPinchLookup) - ThreatPinch Lookup creates informational tooltips when hovering oven an item of interest on any website. It helps speed up security investigations by automatically providing relevant information upon hovering over any IPv4 address, MD5 hash, SHA2 hash, and CVE title. It’s designed to be completely customizable and work with any rest API.
  - [PlainText Alert](https://chrome.google.com/webstore/detail/plain-text-offenders-aler/ggndaknbenjhnkddgjnjjcmomgaidhmd?hl=en-US) - check whether sites have stored your p@ss in plaintext or not.
  
  - [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) - Identify technology on websites
  - [CrowdTangle Link Checker](https://chrome.google.com/webstore/detail/crowdtangle-link-checker/klakndphagmmfkpelfkgjbkimjihpmkh/?authuser=1) - Easily check to see who has shared any article you're reading!
- 
- ## Great Firewall 
+
+## Great Firewall 
 + [Cloudwards](https://www.cloudwards.net/tools/chinese-firewall-test/)
 
 + [GreatFire dot ORG](https://en.greatfire.org/analyzer)
 
 + [HikingFW](https://hikinggfw.org)
 
- ## IoT/Hardware/Firmware/Embedded systems
+## IoT/Hardware/Firmware/Embedded systems
  - [NetDB.io](http://www.netdb.io/) -  IOT SEARCH ENGINE aggregator FOR SHODAN, NETDB, ZOOMEYE, CENSYS 
  - [Exploitee](https://www.exploitee.rs) - Recon hardwares bug/pwned/exploit
  - [RouterPwn](http://www.routerpwn.com/hardware/) **(discontinued?)**
  - [IoTseeker](https://github.com/rapid7/IoTSeeker) 
  
- ## Tor 
+## Tor 
  - [OSINT Tor](https://oint.ctrlbox.com/) - OSINT Tor 
  - [OnionScan](https://onionscan.org/) - OnionScan is a free and open source tool for investigating the Dark Web. 
  - [Exonerator](https://exonerator.torproject.org/) - Enter an IP address and date to find out whether that address was used as a Tor relay.
- 
- ## LinkedIn 
+
+## LinkedIn 
  - [Endorser](https://github.com/eth0izzle/the-endorser) - OSINT tool that allows you to draw out relationships between people on LinkedIn via endorsements/skills. 
  - [Skrapp](https://www.skrapp.io/#) - Chrome extension for your Linkedin prospecting. 
  - [LinkedInt](https://github.com/mdsecactivebreach/LinkedInt) - A LinkedIn scraper for reconnaissance during adversary simulation.
 
- ## Instagram 
+## Instagram 
  - [IG Story](https://chrome.google.com/webstore/detail/chrome-ig-story/bojgejgifofondahckoaahkilneffhmf)
  - [Picbear](http://picbear.com) - Instagram Web Viewer that you can easily browse users, followers, hashtags, popular contents, statistics and much more.
  
- ## Telegram 
+## Telegram 
  - [Tsear.ch](http://www.tsear.ch) — Telegram messenger search-service, and Telegram channels and public chats store.
  
  ## Facebook
@@ -55,7 +55,7 @@
  - [Facebook Certificate Transparency Monitoring](https://developers.facebook.com/tools/ct/) 
  - [fbStalker](https://github.com/milo2012/osintstalker) - OSINT tool for Facebook - Based on Facebook Graph and other stuff.
  
- ## Twitter
+## Twitter
  - 🥇 [Tinfoleak](https://github.com/vaguileradiaz/tinfoleak) - “The most complete open-source tool for Twitter intelligence analysis”
  - 🥇 [Twitonomy](http://www.twitonomy.com) - a powerful Twitter anayltics platform
  - 🥈 [Tweetdeck](web.tweetdeck.com) -	Twitter	product	that	allows	you	to	monitor	multiple	Twitter	streams	simultaneously. 
@@ -68,7 +68,7 @@
  - [Geotweet](https://github.com/Pinperepette/Geotweet_GUI) - allows you to track tweets and trace geographical locations and then export to google maps.
  - [Trendsmap](https://www.trendsmap.com/) - Real-time Twitter trending hashtags and topics.
  
- ## g00gl3
+## g00gl3
  - [GooD0rker](https://github.com/ZephrFish/GoogD0rker) - purely for OSINT against a specific target domain.
  - [GooHak](https://github.com/1N3/Goohak/) - automated Google-hacking queries. 
  - [Google Trends](https://trends.google.com/trends/) - widen your search scope.
@@ -78,24 +78,24 @@
  - [G+ UserFeed](http://plusfeed.frosas.net/) - Export Google+ user activity to other services like Twitter, Facebook or Feedly.
  - [Google Transparency Lookup Tool](https://transparencyreport.google.com/https/certificates) 
 
- ## Github
+## Github
  - [Copernicus](https://github.com/Soroboruo/Copernicus) - Osint tool to get results from more than 600 websites and whitepages about people.
   - [GitHub origazation](https://github.com/michenriksen/gitrob) - reconnaissance tool
   - [Github Dork](https://github.com/techgaun/github-dorks) - Collection of github dorks and helper tool to automate the process of checking dorks.
   
- ## Graphcrawling 
+## Graphcrawling 
  - [Vida](https://vida.io/explore) - opensource graphs
  - [Gephi](https://gephi.org/) - The Open Graph Viz Platform, realtime visualization. 
  - [Spotify Network](http://labs.polsys.net/playground/spotify/) - related Spotify artist 
  - [Tumblrtool](http://labs.polsys.net/tools/tumblr/) - ofc on Tumblr
  - [YASIV Youtube](http://www.yasiv.com/youtube?utm_content=bufferad5f7&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - A fantastic YouTube graph search tool that lets you find related videos.
  
- ## Anti-bots 
+## Anti-bots 
  - [BotScout](http://botscout.com/) - BotScout helps prevent automated web scripts, known as "bots", from registering on forums, polluting databases, spreading spam, and abusing forms on web sites.
  - [BotReports](http://www.botreports.com/) - 	Bad Bots | Crawlers | Scrapers
  - [User-Agent-collection](http://useragentstring.com/pages/useragentstring.php) 
- 
- ## Domains
+
+## Domains
  - [PassiveDNS Mnemonic](https://passivedns.mnemonic.no) 
  - [Fierce](https://github.com/mschwager/fierce) - DNS reconnaissance tool for locating non-contiguous IP space.
  - [Deep Magic](http://www.deepmagic.com/) - DNS records and others.
@@ -110,7 +110,7 @@
  - [SSL Server Test](https://www.ssllabs.com/ssltest/index.html) - powered by Qualys.
  - [testssl.sh](https://testssl.sh/) - free command line tool which checks a server's service on any port for the support of TLS/SSL ciphers, protocols as well as recent cryptographic flaws and more.
  - [Certificate Search](https://crt.sh/) - Certificate-crawling for domains. 
- 
+
 ## Malicious-ware Tracker
 - [Hybrid Analysis](https://www.hybrid-analysis.com) | [Reverse.It](https://www.reverse.it) - free malware analysis service for the community that detects and analyzes unknown threats using a unique Hybrid Analysis technology. 
 - [VirusRadar](http://virusradar.com/en) - ESET worldmap of virus 
@@ -135,8 +135,7 @@
 - [Feodo tracker](https://feodotracker.abuse.ch/) - Feodo trojan vA|B|C|D tracker
 - [PacketTotal](https://packettotal.com/) - PCAP analysis
 - [Any.Run](https://app.any.run/submissions) 
-- 🥇 **[All Cybercrime IP Feeds @ by FireHOL project](http://iplists.firehol.org)** - This site analyses all available security IP Feeds, mainly related to on-line attacks, on-line service abuse, malwares, botnets, command and control servers and other cybercrime activities.
- 
+- 🥇 **[All Cybercrime IP Feeds @ by FireHOL project](http://iplists.firehol.org)** - This site analyses all available security IP Feeds, mainly related to on-line attacks, on-line service abuse, malwares, botnets, command and control servers and other cybercrime activities. 
 
 ## IMINT --- ```imagery intelligence``` 
 - [Insecurecam](https://www.insecam.org/en/) - World biggest online camera directory 
@@ -157,6 +156,7 @@
 
 - [YoutubeExplorer](https://youtubemapexplorer.herokuapp.com) - unusual way to discover videos from around the world. 
 - [Netwave IP Cams](https://github.com/6IX7ine/shodanwave) 
+
 ### @_image_ 
  - 🥇 [TinEye](https://www.tineye.com/) - Search by image and find where that image appears online  
  - 🥇 [eXif.er](https://www.thexifer.net/) - web-based EXIF Editor
@@ -181,7 +181,6 @@
  - [Webcrawler]() - WebCrawler was a metasearch engine that blends the top search results from Google Search and Yahoo! Search. WebCrawler also provides users the option to search for images, audio, video, news, yellow pages and white pages. 
  - [Monstercrawler](http://monstercrawler.com/) - Meta Search Engine Monster Crawler allows a simultaneous multi-thread search of Google, Yahoo & Bing with just one click!
  - [CommonCrawl](https://commoncrawl.org/the-data/examples/) - It contains raw web page data, extracted metadata and text extractions.
-
 
 
 ## Threat Intel Hunter
@@ -221,8 +220,9 @@
  - [MrLooquer](http://www.mrlooquer.com/list) - IPv6 threat crawler
  - [Maltergo](https://www.paterva.com/web7/) - Threat Intelligence Gathering
  - [ACE](https://github.com/Invoke-IR/ACE) - The Automated Collection and Enrichment (ACE) platform is a suite of tools for threat hunters to collect data from many endpoints in a network and automatically enrich the data.
- - [HELK](https://github.com/Cyb3rWard0g/HELK) 
-  
+ - [HELK](https://github.com/Cyb3rWard0g/HELK) - Hunting ELK (Elasticsearch, Logstash, Kibana) with advanced analytic capabilities.
+ - [Blueliv Threat Exchange Network](https://community.blueliv.com/#!/discover) - [Cyber Threat Map](https://community.blueliv.com/map/) -- ```Blueliv Community allows you and your peers improve incident response and get recognized.```
+ 
 ## Raw u:p credentials
 - [Email-verifier](https://hunter.io/email-verifier)
 - [ReverseMails](http://reversemails.com/) - connect with the right Service Experts.
@@ -271,8 +271,8 @@
 - [JohnDoe](https://johndoe.com/) 
 - [FastPeopleSearch](https://www.fastpeoplesearch.com/) - to bring next generation Telephony and Big-Data access to the general public.
 
- 
- # Changelog (not categorized yet!)
+
+# Changelog (not categorized yet!)
  > Update v2014-2015
 - [SiteLiner](http://www.siteliner.com/) - Find duplicate content, broken links, and more...  
 - [SimilarWeb](https://www.similarweb.com) - Website insight. 
