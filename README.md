@@ -1,6 +1,4 @@
 # Hardcore_OSINT_Rec 
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fzard777%2FHardcore_OSINT_Rec.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fzard777%2FHardcore_OSINT_Rec?ref=badge_shield)
-
  <p align="center"><img src="https://i.imgur.com/85zvb3s.png"></p>
 
 
@@ -372,7 +370,3 @@
 - [FakeSpot](https://www.fakespot.com/) - detect FAKE reviews -- ```We believe in the importance of user reviews. With so many online shopping options, a strong or weak product review can have a huge impact on whether or not a purchase is made. The credibility of these reviews is undermined by businesses who leave fake reviews for themselves or for their competitors – or by individuals with an undisclosed bias.```
 - [FAW](https://en.fawproject.com/) - Forensic Acquisition of Websites. 
 - [Strava Labs Projects](https://labs.strava.com/projects/)
-
-
-## License
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fzard777%2FHardcore_OSINT_Rec.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fzard777%2FHardcore_OSINT_Rec?ref=badge_large)
