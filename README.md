@@ -67,6 +67,11 @@
  - [Foller](https://foller.me/) - Twitter analytics application that gives you rich insights about any public Twitter profile.
  - [Geotweet](https://github.com/Pinperepette/Geotweet_GUI) - allows you to track tweets and trace geographical locations and then export to google maps.
  - [Trendsmap](https://www.trendsmap.com/) - Real-time Twitter trending hashtags and topics.
+
+## Snapchat
+- 🥈 [Snapchat Map](https://map.snapchat.com) - Powered by Mapbox.
+- 🥇 [Snapchat Discovery App](https://www.ghostcodes.com/) - **```We realize that it’s nearly impossible to find people outside of your circle of friends ON snapchat, so we went ahead and built the discovery feature we would’ve loved to see. Find like-minded Snapchatters through dozens of categories and thousands of interests.```**
+- [Snapcode](http://snapcode.net) - Search Categorized Snapchat Usernames
  
 ## g00gl3
  - [GooD0rker](https://github.com/ZephrFish/GoogD0rker) - purely for OSINT against a specific target domain.
@@ -267,6 +272,7 @@
 
 - [Melissadata](http://www.melissadata.com/lookups/index.htm) 
 - [BlackBook Online](http://www.blackbookonline.info/) - free **PUBLIC**  records search site.
+- [Numberway](https://www.numberway.com) - ```international directory of white pages and yellow pages phone books, and online directory enquiries. It's a free, independent and up-to-date guide to telephone directories on the web.```
 - [Pipl](https://pipl.com/) - Pipl is the place to find the person behind the email address, social username or phone number.
 - [JohnDoe](https://johndoe.com/) 
 - [FastPeopleSearch](https://www.fastpeoplesearch.com/) - to bring next generation Telephony and Big-Data access to the general public.
@@ -337,6 +343,7 @@
  - 🥇 [SpiderF00t](http://www.spiderfoot.net/) - Open Source Intelligence Automation 🥂
  
  > Update v2017
+ 
  - [Belati](https://github.com/aancw/Belati) - traditional Swiss Army Knife for OSINT
  - [Alephdata/Aleph](https://github.com/alephdata/aleph) - A toolkit for data search, management and anlaysis in investigative reporting. Sift through large sets of structured and unstructured data, and find the people and companies you look for.
  - [OSINT Framework](https://github.com/lockfale/OSINT-Framework) - The intention is to help people find OSINT resources that return free information.
