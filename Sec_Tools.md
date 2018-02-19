@@ -10,12 +10,14 @@
  - [LinuxSecurity.Expert](https://linuxsecurity.expert/security-tools/top-100)
  - [Glyptodon](http://blog.sevagas.com/?-Glyptodon-) 
  - [SecThemAll](https://secthemall.com/) - Bash script that automatically blocks IP using iptables. It distributes each blocked IP on all your Linux server.
- 
+ - [Swap digger](https://github.com/sevagas/swap_digger) 
+
 ## Windows 💻
  - [Gibson Research Corporation](https://www.grc.com/freepopular.htm)
  - [Hardentools](https://github.com/securitywithoutborders/hardentools)
  - [PingCastle](https://www.pingcastle.com/) - AD Security at 80% in 20% of the time.
- 
+ - [WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) 
+
 ## Mac 🍎
 - [Objective-See Free tools](https://objective-see.com/products.html) 
 - [DEFCON14 Mac Security](https://www.defcon.org/images/defcon-14/dc-14-presentations/DC-14-Edge-Security.pdf) 
