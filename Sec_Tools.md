@@ -1,5 +1,5 @@
  ## Toolswatch 🔧
- - [Black Hat Arsenal Top 10 Security Tools](http://www.toolswatch.org/2018/01/black-hat-arsenal-top-10-security-tools) 
+ - [Black Hat Arsenal Top 10 Security Tools __ Jan 2018](http://www.toolswatch.org/2018/01/black-hat-arsenal-top-10-security-tools) 
  - [Asernal Tools](https://github.com/toolswatch/blackhat-arsenal-tools)
  - [Top tools @ 2013](http://www.toolswatch.org/2013/12/2013-top-security-tools-as-voted-by-toolswatch-org-readers/)
  - [Top tools @ 2014](http://www.toolswatch.org/2015/01/2014-top-security-tools-as-voted-by-toolswatch-org-readers/)
@@ -32,7 +32,7 @@
 - [N0where](https://n0where.net/best-cybersecurity-tools/)
 
 ### Helpful links
-|                           REPO                         |    RESYNC         | NUM. OF TOOLS |  
+|                           REPO                         |    RESYNC (annually)              | NUM. OF TOOLS |  
 |--------------------------------------------------------|-------------------|---------------|
 | [Kali](https://en.kali.tools/all/?)                    |    23_JAN_2018    |     1929      |
 | [BlackArch](https://blackarch.org/tools.html)          |    23_JAN_2018    |     1925      |
