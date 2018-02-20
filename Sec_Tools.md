@@ -21,6 +21,7 @@
 ## Mac 🍎
 - [Objective-See Free tools](https://objective-see.com/products.html) 
 - [DEFCON14 Mac Security](https://www.defcon.org/images/defcon-14/dc-14-presentations/DC-14-Edge-Security.pdf) 
+- [UXProtect](https://digitasecurity.com/product/uxprotect) || [Public UXProtect Issues](https://github.com/DigitaSecurity/UXProtect-Issues/issues) 
 
 ## USB cleaner
 - [CIRCLean USB Sanitizer](https://github.com/Rafiot/KittenGroomer)
