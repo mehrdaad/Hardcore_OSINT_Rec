@@ -380,3 +380,7 @@
 - [FakeSpot](https://www.fakespot.com/) - detect FAKE reviews -- ```We believe in the importance of user reviews. With so many online shopping options, a strong or weak product review can have a huge impact on whether or not a purchase is made. The credibility of these reviews is undermined by businesses who leave fake reviews for themselves or for their competitors – or by individuals with an undisclosed bias.```
 - [FAW](https://en.fawproject.com/) - Forensic Acquisition of Websites. 
 - [Strava Labs Projects](https://labs.strava.com/projects/)
+> Update v2018.FEB
+- [PublicWWW](https://publicwww.com) - Find any alphanumeric snippet, signature or keyword in the web pages HTML, JS and CSS code.
+- [The European Bioinfomatics Institude](https://www.ebi.ac.uk) - Our unique Search service helps you explore dozens of biological data resources. 
+- [Oryon C Browser](https://sourceforge.net/projects/oryon-osint-browser/files/?source=navbar) - Portable OSINT Web browser.
