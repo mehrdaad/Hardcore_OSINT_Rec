@@ -384,3 +384,4 @@
 - [PublicWWW](https://publicwww.com) - Find any alphanumeric snippet, signature or keyword in the web pages HTML, JS and CSS code.
 - [The European Bioinfomatics Institude](https://www.ebi.ac.uk) - Our unique Search service helps you explore dozens of biological data resources. 
 - [Oryon C Browser](https://sourceforge.net/projects/oryon-osint-browser/files/?source=navbar) - Portable OSINT Web browser.
+- [eTools.ch](http://www.etools.ch) - the transparent Metasearch Engine from Switzerland
