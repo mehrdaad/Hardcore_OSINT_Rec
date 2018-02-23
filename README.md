@@ -30,7 +30,8 @@
  - [Exploitee](https://www.exploitee.rs) - Recon hardwares bug/pwned/exploit
  - [RouterPwn](http://www.routerpwn.com/hardware/) **(discontinued?)**
  - [IoTseeker](https://github.com/rapid7/IoTSeeker) 
- 
+ - [IoT scanner](http://iotscanner.bullguard.com) - Check if your internet-connected devices at home are public on Shodan.
+
 ## Tor 
  - [OSINT Tor](https://oint.ctrlbox.com/) - OSINT Tor 
  - [OnionScan](https://onionscan.org/) - OnionScan is a free and open source tool for investigating the Dark Web. 
@@ -46,9 +47,12 @@
  - [Picbear](http://picbear.com) - Instagram Web Viewer that you can easily browse users, followers, hashtags, popular contents, statistics and much more.
  
 ## Telegram 
- - [Tsear.ch](http://www.tsear.ch) — Telegram messenger search-service, and Telegram channels and public chats store.
+- [Tsear.ch](http://www.tsear.ch) — Telegram messenger search-service, and Telegram channels and public chats store.
+
+## Reddit 
+- [Reddit-user-analyzer](https://atomiks.github.io/reddit-user-analyser) - Colorful UI, built with Vue.js, Tippy.js 
  
- ## Facebook
+## Facebook
  - [Facebook Social Toolkit](https://chrome.google.com/webstore/detail/toolkit-for-facebook/fcachklhcihfinmagjnlomehfdhndhep) 
  - [OSINT Fb reset passwd](https://github.com/PaulSec/osint-facebook-reset-password) - Python util to retrieve full display name and profile picture from a single email address.
  - [Fb Location OSINT](https://github.com/joren485/Facebook-Location-OSINT) - Retrieve someones private Facebook location, using their public information.
@@ -67,6 +71,7 @@
  - [Foller](https://foller.me/) - Twitter analytics application that gives you rich insights about any public Twitter profile.
  - [Geotweet](https://github.com/Pinperepette/Geotweet_GUI) - allows you to track tweets and trace geographical locations and then export to google maps.
  - [Trendsmap](https://www.trendsmap.com/) - Real-time Twitter trending hashtags and topics.
+ - [Burrrd](https://burrrd.com) - Provides advanced insights and analytics for public Twitter accounts presented with a beautiful UI.
 
 ## Snapchat
 - 🥈 [Snapchat Map](https://map.snapchat.com) - Powered by Mapbox.
